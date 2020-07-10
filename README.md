@@ -1,4 +1,4 @@
-### Hi there welcome to my Github 👋
+### Hi there! Welcome to my Github 👋
 
 <!--
 **thinkverse/thinkverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
