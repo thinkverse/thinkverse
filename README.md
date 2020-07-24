@@ -12,6 +12,6 @@
 - 💬  Ask me about anything you'd like.
 
 ### !TODO
-- [x] Create README.md
-- [x] Watch [Codeland distributed](https://dev.to/codeland)
+- [x] ~~Create README.md~~
+- [x] ~~Watch [Codeland distributed](https://dev.to/codeland)~~
 - [ ] Read [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded)
