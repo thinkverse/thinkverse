@@ -13,5 +13,5 @@
 
 ### !TODO
 - [x] Create README.md
-- [ ] Watch [Codeland distributed](https://dev.to/codeland)
+- [x] Watch [Codeland distributed](https://dev.to/codeland)
 - [ ] Read [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded)
