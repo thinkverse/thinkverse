@@ -14,4 +14,4 @@
 ### TODOS
 - [x] ~~Create README.md~~
 - [x] ~~Watch [Codeland distributed](https://dev.to/codeland)~~
-- [ ] Read [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded)
+- [x] ~~Read [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded)~~
