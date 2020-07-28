@@ -15,3 +15,9 @@
 - [x] ~~Create README.md~~
 - [x] ~~Watch [Codeland distributed](https://dev.to/codeland)~~
 - [x] ~~Read [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded)~~
+
+<span align="center">
+  
+[![Visits Badge](https://badges.pufler.dev/visits/thinkverse/thinkverse "Visitors")](https://badges.pufler.dev)
+
+</span>
