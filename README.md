@@ -18,6 +18,6 @@
 
 <span align="center">
   
-[![Visits Badge](https://badges.pufler.dev/visits/thinkverse/thinkverse "Visitors")](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/thinkverse/thinkverse?logo=github "Visitors")](https://badges.pufler.dev)
 
 </span>
