@@ -7,14 +7,14 @@
 ### ABOUT
 
 - 🔭  I’m currently working on deepening my knowledge of programming languages.
-- 📚  I’m currently reading [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) by [Jeffrey Way](https://github.com/jeffreyway).
+- 📚  I’m currently reading [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel) by Christopher Pecoraro.
 - 📫  How to reach me via [email](mailto:hallberg.kim@gmail.com), [twitter](https://twitter.com/thinkverse), [dev.to](https://dev.to/thinkverse) or [linkedin](https://www.linkedin.com/in/thinkverse/).
 - 💬  Ask me about anything you'd like.
 
 ### TODOS
-- [x] ~~Create README.md~~
-- [x] ~~Watch [Codeland distributed](https://dev.to/codeland)~~
-- [x] ~~Read [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded)~~
+- [x] ~~Update README.md~~
+- [] 70 day reading streak
+- [] Read [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel)
 
 <span align="center">
   
