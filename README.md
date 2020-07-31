@@ -18,6 +18,8 @@
 
 <span align="center">
   
-[![Visits Badge](https://badges.pufler.dev/visits/thinkverse/thinkverse?logo=github "Visitors")](https://badges.pufler.dev)
+[![Visits on GitHub profile](https://badges.pufler.dev/visits/thinkverse/thinkverse?logo=github "Visits on GitHub profile")](https://badges.pufler.dev)
+[![Years on GitHub](https://badges.pufler.dev/years/thinkverse?logo=github "Years on GitHub")](https://badges.pufler.dev)
+[![Public repositories](https://badges.pufler.dev/repos/thinkverse?logo=github "Public repositories")](https://badges.pufler.dev)
 
 </span>
