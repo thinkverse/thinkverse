@@ -17,8 +17,7 @@
 - [ ] Read [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel)
 
 <span align="center">
-  
-[![Visits on GitHub profile](https://badges.pufler.dev/visits/thinkverse/thinkverse?logo=github "Visits on GitHub profile")](https://badges.pufler.dev)
+
 [![Years on GitHub](https://badges.pufler.dev/years/thinkverse?logo=github "Years on GitHub")](https://badges.pufler.dev)
 [![Public repositories](https://badges.pufler.dev/repos/thinkverse?logo=github "Public repositories")](https://badges.pufler.dev)
 
