@@ -13,7 +13,7 @@
 
 ### TODOS
 - [x] ~~Update README.md~~
-- [ ] 70 day reading streak
+- [x] ~~70 day reading streak~~
 - [ ] Read [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel)
 
 <span align="center">
