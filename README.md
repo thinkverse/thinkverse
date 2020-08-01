@@ -20,5 +20,6 @@
 
 [![Years on GitHub](https://badges.pufler.dev/years/thinkverse?logo=github "Years on GitHub")](https://badges.pufler.dev)
 [![Public repositories](https://badges.pufler.dev/repos/thinkverse?logo=github "Public repositories")](https://badges.pufler.dev)
+[![Profile last updated](https://img.shields.io/github/last-commit/thinkverse/thinkverse?label=profile%20updated&logo=github "Profile last updated")](https://shields.io)
 
 </span>
