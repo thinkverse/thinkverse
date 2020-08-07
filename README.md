@@ -17,15 +17,15 @@
 - [ ] Read [Laravel: Up & Running](https://www.oreilly.com/library/view/laravel-up/9781492041207/)
 - [x] ~~Read [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel)~~
 
-<span align="center">
-
-[![Years on GitHub](https://badges.pufler.dev/years/thinkverse?logo=github "Years on GitHub")](https://badges.pufler.dev)
-[![Public repositories](https://badges.pufler.dev/repos/thinkverse?logo=github "Public repositories")](https://badges.pufler.dev)
-[![Profile last updated](https://img.shields.io/github/last-commit/thinkverse/thinkverse?label=profile%20updated&logo=github "Profile last updated")](https://shields.io)
-
-</span>
-
 <p align="center">
+<br><br>
+<a href="https://badges.pufler.dev">
+<img src="https://badges.pufler.dev/years/thinkverse?logo=github" alt="Years on GitHub"/></a>
+<a href="https://badges.pufler.dev">
+<img src="https://badges.pufler.dev/repos/thinkverse?logo=github" alt="Public repositories" /></a>
+<a href="https://shields.io">
+<img src="https://img.shields.io/github/last-commit/thinkverse/thinkverse?label=profile%20updated&logo=github" alt="Profile last updated"/></a>
+<br><br>
 <a href="https://dev.to/thinkverse">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thinkverse dev to profile" width="24px"/></a>
 &emsp;
