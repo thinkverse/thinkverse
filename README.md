@@ -24,3 +24,23 @@
 [![Profile last updated](https://img.shields.io/github/last-commit/thinkverse/thinkverse?label=profile%20updated&logo=github "Profile last updated")](https://shields.io)
 
 </span>
+
+<p align="center">
+<a href="https://dev.to/thinkverse">
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thinkverse dev to profile" width="24px"/></a>
+&emsp;
+<a href= "https://instagram.com/thinkverse">
+<img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" alt="Thinkverse instagram profile" width="28px"/></a>
+&emsp;
+<a href="https://buymeacoffee.com/thinkverse">
+<img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" alt="Thinkverse buy me a coffee profile" width="30px"/></a> 
+&emsp;
+<a href="https://thinkverse.dev">
+<img src="https://img.icons8.com/material/256/000000/globe--v1.png" alt="Thinkverse personal website" width="28px"/></a>
+&emsp;
+<a href="https://linkedin.com/in/thinkverse">
+<img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" alt="Thinkverse linked in profile" width="26px"/></a>
+&emsp;
+<a href="https://twitter.com/thinkverse">
+<img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="Thinkverse twitter profile" width="26px"/></a>
+</p>
