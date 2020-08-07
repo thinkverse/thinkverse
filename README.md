@@ -32,8 +32,8 @@
 <a href= "https://instagram.com/thinkverse">
 <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" alt="Thinkverse instagram profile" width="28px"/></a>
 &emsp;
-<a href="https://buymeacoffee.com/thinkverse">
-<img src="https://img.icons8.com/ios-glyphs/256/000000/coffee.png" alt="Thinkverse buy me a coffee profile" width="30px"/></a> 
+<a href="https://www.paypal.com/paypalme/thinkverse">
+<img src="https://img.icons8.com/ios-glyphs/256/000000/paypal.png" alt="Thinkverse pay pal me profile" width="28px"/></a> 
 &emsp;
 <a href="https://thinkverse.dev">
 <img src="https://img.icons8.com/material/256/000000/globe--v1.png" alt="Thinkverse personal website" width="28px"/></a>
