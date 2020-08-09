@@ -15,7 +15,6 @@
 - [x] ~~Update README.md~~
 - [ ] 80 day reading streak
 - [ ] Read [Laravel: Up & Running](https://www.oreilly.com/library/view/laravel-up/9781492041207/)
-- [x] ~~Read [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel)~~
 
 <p align="center">
 <br><br>
