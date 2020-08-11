@@ -13,7 +13,7 @@
 
 ### TODOS
 - [x] ~~Update README.md~~
-- [ ] 80 day reading streak
+- [x] ~~80 day reading streak~~
 - [ ] Read [Laravel: Up & Running](https://www.oreilly.com/library/view/laravel-up/9781492041207/)
 
 <p align="center">
