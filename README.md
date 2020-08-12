@@ -7,14 +7,15 @@
 ### ABOUT
 
 - 🔭  I’m currently working on deepening my knowledge of programming languages.
-- 📚  I’m currently reading [Laravel: Up & Running](https://www.oreilly.com/library/view/laravel-up/9781492041207/) by Matt Stauffer.
-- 📫  How to reach me via [email](mailto:hallberg.kim@gmail.com), [twitter](https://twitter.com/thinkverse), [dev.to](https://dev.to/thinkverse) or [linkedin](https://www.linkedin.com/in/thinkverse/).
+- 📚  I’m currently reading [Laravel: Up & Running] by Matt Stauffer.
+- 📫  How to reach me via [email], [twitter], [dev.to] or [linkedin].
 - 💬  Ask me about anything you'd like.
 
 ### TODOS
 - [x] ~~Update README.md~~
-- [x] ~~80 day reading streak~~
-- [ ] Read [Laravel: Up & Running](https://www.oreilly.com/library/view/laravel-up/9781492041207/)
+- [ ] 90 day reading streak
+- [ ] Finish the [Recipe Challenge]
+- [ ] Read [Laravel: Up & Running]
 
 <p align="center">
 <br><br>
@@ -43,3 +44,11 @@
 <a href="https://twitter.com/thinkverse">
 <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="Thinkverse twitter profile" width="26px"/></a>
 </p>
+
+[laravel: up & running]: https://www.oreilly.com/library/view/laravel-up/9781492041207/
+[recipe challenge]: https://github.com/thinkverse/recipe-challenge
+
+[email]: mailto:hallberg.kim@gmail.com
+[twitter]: https://twitter.com/thinkverse
+[dev.to]: https://dev.to/thinkverse
+[linkedin]: https://www.linkedin.com/in/thinkverse/
