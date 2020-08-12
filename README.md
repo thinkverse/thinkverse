@@ -48,7 +48,7 @@
 [laravel: up & running]: https://www.oreilly.com/library/view/laravel-up/9781492041207/
 [recipe challenge]: https://github.com/thinkverse/recipe-challenge
 
-[email]: mailto:hallberg.kim@gmail.com
+[email]: mailto:work@hallberg.kim
 [twitter]: https://twitter.com/thinkverse
 [dev.to]: https://dev.to/thinkverse
 [linkedin]: https://www.linkedin.com/in/thinkverse/
