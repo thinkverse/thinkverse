@@ -17,6 +17,10 @@
 - [ ] Finish the [Recipe Challenge]
 - [ ] Read [Laravel: Up & Running]
 
+### DEV.TO
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="center">
 <br><br>
 <a href="https://badges.pufler.dev">
