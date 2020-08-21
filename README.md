@@ -13,8 +13,8 @@
 
 ### TODOS
 - [x] ~~Update README.md~~
-- [ ] 90 day reading streak
-- [x] Finish the [Recipe Challenge]
+- [x] ~~90 day reading streak~~
+- [x] ~~Finish the [Recipe Challenge]~~
 - [ ] Read [Laravel: Up & Running]
 
 ### DEV.TO
