@@ -4,20 +4,20 @@
 |  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_   | |  | | | | | | | . \| | | | | | |
 |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_( ) |___| |_| |_| |_| |_|\_\_|_| |_| |_|
                                                    |/</pre>
-### ABOUT
+### ABOUT ME
 
-- 🔭  I’m currently working on deepening my knowledge of programming languages.
-- 📚  I’m currently reading [Laravel: Up & Running] by Matt Stauffer.
-- 📫  How to reach me via [email], [twitter], [dev.to] or [linkedin].
-- 💬  Ask me about anything you'd like.
+- 🔭&nbsp;&nbsp; I’m currently working on deepening my knowledge of programming languages.
+- 📚&nbsp;&nbsp; I’m currently reading [Laravel: Up & Running] by Matt Stauffer.
+- 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [dev.to] or [linkedin].
+- 💬&nbsp;&nbsp; Ask me about anything you'd like.
 
-### TODOS
+### RECENT TODOS
 - [x] ~~Update README.md~~
 - [x] ~~90 day reading streak~~
 - [x] ~~Finish the [Recipe Challenge]~~
 - [ ] Read [Laravel: Up & Running]
 
-### DEV.TO
+### RECENT DEV.TO POSTS
 <!-- BLOG-POST-LIST:START -->
 - [Publishing your first Composer package.](https://dev.to/thinkverse/publishing-your-first-composer-package-4gf)
 - [Creating default user initial avatars in PHP 7 🤘😎](https://dev.to/thinkverse/creating-default-user-initial-avatars-in-php-7-1gf1)
