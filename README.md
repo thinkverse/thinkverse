@@ -13,8 +13,7 @@
 
 ### RECENT TODOS
 - [x] ~~Update README.md~~
-- [x] ~~90 day reading streak~~
-- [x] ~~Finish the [Recipe Challenge]~~
+- [ ] 100 day reading streak
 - [ ] Read [Laravel: Up & Running]
 
 ### RECENT DEV.TO POSTS
