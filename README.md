@@ -18,11 +18,11 @@
 
 ### RECENT DEV.TO POSTS
 <!-- BLOG-POST-LIST:START -->
+- [Today I learned how to, merge using the CLI. 🧙‍♂️](https://dev.to/thinkverse/today-i-learned-how-to-merge-using-the-cli-1l8b)
 - [How Laravel's password confirmation works.](https://dev.to/thinkverse/how-laravel-s-password-confirmation-works-2kco)
 - [Publishing your first Composer package.](https://dev.to/thinkverse/publishing-your-first-composer-package-4gf)
 - [Creating default user initial avatars in PHP 7 🤘😎](https://dev.to/thinkverse/creating-default-user-initial-avatars-in-php-7-1gf1)
 - [Horizontal breadcrumb in 10-ish lines of CSS 👍](https://dev.to/thinkverse/horizontal-breadcrumb-in-10-ish-lines-of-css-27o5)
-- [Using DevChallenges.io to learn about Git submodules](https://dev.to/thinkverse/using-devchallenges-io-to-learn-about-git-submodules-2kl3)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
