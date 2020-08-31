@@ -13,7 +13,7 @@
 
 ### RECENT TODOS
 - [x] ~~Update README.md~~
-- [ ] 100 day reading streak
+- [x] ~~100 day reading streak~~
 - [ ] Read [Laravel: Up & Running]
 
 ### RECENT DEV.TO POSTS
