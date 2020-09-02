@@ -12,7 +12,7 @@
 
 ### RECENT DEV.TO POSTS
 <!-- BLOG-POST-LIST:START -->
-- [Today I learned how to, merge using the CLI. 🧙‍♂️](https://dev.to/thinkverse/today-i-learned-how-to-merge-using-the-cli-1l8b)
+- [Today I learned how to  merge using the CLI. 🧙‍♂️](https://dev.to/thinkverse/today-i-learned-how-to-merge-using-the-cli-1l8b)
 - [How Laravel's password confirmation works.](https://dev.to/thinkverse/how-laravel-s-password-confirmation-works-2kco)
 - [Publishing your first Composer package.](https://dev.to/thinkverse/publishing-your-first-composer-package-4gf)
 - [Creating default user initial avatars in PHP 7 🤘😎](https://dev.to/thinkverse/creating-default-user-initial-avatars-in-php-7-1gf1)
