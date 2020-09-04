@@ -10,7 +10,7 @@
 - [x] ~~100 day reading streak~~
 - [ ] Read [Laravel: Up & Running]
 
-### RECENT DEV.TO POSTS
+### RECENT DEV POSTS
 <!-- BLOG-POST-LIST:START -->
 - [What would you add to Markdown? 🤔](https://dev.to/thinkverse/what-would-you-add-to-markdown-4978)
 - [Today I learned how to  merge using the CLI. 🧙‍♂️](https://dev.to/thinkverse/today-i-learned-how-to-merge-using-the-cli-1l8b)
