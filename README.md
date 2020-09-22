@@ -7,8 +7,7 @@
 
 ### RECENT TODOS
 - [x] ~~Update README.md~~
-- [x] ~~100 day reading streak~~
-- [ ] Read [Laravel: Up & Running]
+- [x] ~~Read [Laravel: Up & Running]~~
 
 ### RECENT DEV POSTS
 <!-- BLOG-POST-LIST:START -->
