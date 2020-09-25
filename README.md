@@ -1,13 +1,13 @@
 ### ABOUT ME
 
 - 🔭&nbsp;&nbsp; I’m currently working on deepening my knowledge of programming languages.
-- 📚&nbsp;&nbsp; I’m currently reading [Laravel: Up & Running] by Matt Stauffer.
+- 📚&nbsp;&nbsp; I’m currently reading [Mastering PHP 7] by Branko Ajzele.
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [dev.to] or [linkedin].
 - 💬&nbsp;&nbsp; Ask me about anything you'd like.
 
 ### RECENT TODOS
 - [x] ~~Update README.md~~
-- [x] ~~Read [Laravel: Up & Running]~~
+- [ ] Finish [Mastering PHP 7]
 
 ### RECENT DEV POSTS
 <!-- BLOG-POST-LIST:START -->
@@ -50,8 +50,7 @@
 <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="Thinkverse twitter profile" width="26px"/></a>
 </p>
 
-[laravel: up & running]: https://www.oreilly.com/library/view/laravel-up/9781492041207/
-[recipe challenge]: https://github.com/thinkverse/recipe-challenge
+[mastering php 7]: https://www.packtpub.com/product/mastering-php-7/9781785882814/
 
 [email]: mailto:work@hallberg.kim
 [twitter]: https://twitter.com/thinkverse
