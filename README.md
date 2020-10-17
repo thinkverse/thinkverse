@@ -11,11 +11,11 @@
 
 ### RECENT DEV POSTS
 <!-- BLOG-POST-LIST:START -->
+- [First time participating in Hacktoberfest. 🎉](https://dev.to/thinkverse/first-time-participating-in-hacktoberfest-ji)
 - [How I review Tails components. 👨‍💼](https://dev.to/thinkverse/how-i-review-tails-components-3f9n)
 - [Let's validate some DNS TXT records. 👍](https://dev.to/thinkverse/let-s-validate-some-dns-txt-records-2721)
 - [What would you add to Markdown? 🤔](https://dev.to/thinkverse/what-would-you-add-to-markdown-4978)
 - [Today I learned how to  merge using the CLI. 🧙‍♂️](https://dev.to/thinkverse/today-i-learned-how-to-merge-using-the-cli-1l8b)
-- [How Laravel's password confirmation works.](https://dev.to/thinkverse/how-laravel-s-password-confirmation-works-2kco)
 <!-- BLOG-POST-LIST:END -->
 
 ### RECENT ACTIVITY
