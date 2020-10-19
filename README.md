@@ -20,11 +20,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#233](https://github.com/thedevdojo/tails/issues/233) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. 🗣 Commented on [#1115](https://github.com/OperationCode/front-end/issues/1115) in [OperationCode/front-end](https://github.com/OperationCode/front-end)
-3. 🗣 Commented on [#1115](https://github.com/OperationCode/front-end/issues/1115) in [OperationCode/front-end](https://github.com/OperationCode/front-end)
+1. ❌ Closed PR [#225](https://github.com/thedevdojo/tails/pull/225) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+2. 🗣 Commented on [#225](https://github.com/thedevdojo/tails/issues/225) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+3. 🗣 Commented on [#233](https://github.com/thedevdojo/tails/issues/233) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 4. 🗣 Commented on [#1115](https://github.com/OperationCode/front-end/issues/1115) in [OperationCode/front-end](https://github.com/OperationCode/front-end)
-5. 🗣 Commented on [#232](https://github.com/thedevdojo/tails/issues/232) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. 🗣 Commented on [#1115](https://github.com/OperationCode/front-end/issues/1115) in [OperationCode/front-end](https://github.com/OperationCode/front-end)
 <!--END_SECTION:activity-->
 
 <p align="center">
