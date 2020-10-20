@@ -20,11 +20,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/thedevdojo/tails/issues/161) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. ❗️ Opened issue [#9](https://github.com/BGHDDevelopment/Ultimate-Freeze/issues/9) in [BGHDDevelopment/Ultimate-Freeze](https://github.com/BGHDDevelopment/Ultimate-Freeze)
-3. ❗️ Opened issue [#8](https://github.com/BGHDDevelopment/Ultimate-Freeze/issues/8) in [BGHDDevelopment/Ultimate-Freeze](https://github.com/BGHDDevelopment/Ultimate-Freeze)
-4. 🗣 Commented on [#5](https://github.com/BGHDDevelopment/Ultimate-Freeze/issues/5) in [BGHDDevelopment/Ultimate-Freeze](https://github.com/BGHDDevelopment/Ultimate-Freeze)
-5. 💪 Opened PR [#569](https://github.com/tailwindlabs/tailwindcss.com/pull/569) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+1. 🎉 Merged PR [#175](https://github.com/thedevdojo/tails/pull/175) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+2. 🗣 Commented on [#175](https://github.com/thedevdojo/tails/issues/175) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+3. 🗣 Commented on [#161](https://github.com/thedevdojo/tails/issues/161) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+4. ❗️ Opened issue [#9](https://github.com/BGHDDevelopment/Ultimate-Freeze/issues/9) in [BGHDDevelopment/Ultimate-Freeze](https://github.com/BGHDDevelopment/Ultimate-Freeze)
+5. ❗️ Opened issue [#8](https://github.com/BGHDDevelopment/Ultimate-Freeze/issues/8) in [BGHDDevelopment/Ultimate-Freeze](https://github.com/BGHDDevelopment/Ultimate-Freeze)
 <!--END_SECTION:activity-->
 
 <p align="center">
