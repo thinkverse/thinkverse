@@ -20,11 +20,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#175](https://github.com/thedevdojo/tails/pull/175) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. 🗣 Commented on [#175](https://github.com/thedevdojo/tails/issues/175) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-3. 🗣 Commented on [#161](https://github.com/thedevdojo/tails/issues/161) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-4. ❗️ Opened issue [#9](https://github.com/BGHDDevelopment/Ultimate-Freeze/issues/9) in [BGHDDevelopment/Ultimate-Freeze](https://github.com/BGHDDevelopment/Ultimate-Freeze)
-5. ❗️ Opened issue [#8](https://github.com/BGHDDevelopment/Ultimate-Freeze/issues/8) in [BGHDDevelopment/Ultimate-Freeze](https://github.com/BGHDDevelopment/Ultimate-Freeze)
+1. 🎉 Merged PR [#232](https://github.com/thedevdojo/tails/pull/232) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+2. ❌ Closed PR [#237](https://github.com/thedevdojo/tails/pull/237) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+3. 🗣 Commented on [#237](https://github.com/thedevdojo/tails/issues/237) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+4. 🎉 Merged PR [#175](https://github.com/thedevdojo/tails/pull/175) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. 🗣 Commented on [#175](https://github.com/thedevdojo/tails/issues/175) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 
 <p align="center">
