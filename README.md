@@ -20,11 +20,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#246](https://github.com/thedevdojo/tails/issues/246) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. 🎉 Merged PR [#246](https://github.com/thedevdojo/tails/pull/246) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-3. ❌ Closed PR [#248](https://github.com/thedevdojo/tails/pull/248) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-4. 🗣 Commented on [#248](https://github.com/thedevdojo/tails/issues/248) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-5. ❌ Reopened PR [#246](https://github.com/thedevdojo/tails/pull/246) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+1. ❌ Closed PR [#252](https://github.com/thedevdojo/tails/pull/252) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+2. 🗣 Commented on [#252](https://github.com/thedevdojo/tails/issues/252) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+3. 🗣 Commented on [#246](https://github.com/thedevdojo/tails/issues/246) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+4. 🎉 Merged PR [#246](https://github.com/thedevdojo/tails/pull/246) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. ❌ Closed PR [#248](https://github.com/thedevdojo/tails/pull/248) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 
 <p align="center">
