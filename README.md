@@ -1,13 +1,14 @@
 ### ABOUT ME
 
 - 🔭&nbsp;&nbsp; I’m currently working on deepening my knowledge of programming languages.
-- 📚&nbsp;&nbsp; I’m currently reading [Mastering PHP 7] by Branko Ajzele.
+- 📚&nbsp;&nbsp; I’m currently reading [You Should Test That!] by Chris Goward.
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [dev.to] or [linkedin].
 - 💬&nbsp;&nbsp; Ask me about anything you'd like.
 
 ### RECENT TODOS
 - [x] ~~Update README.md~~
-- [ ] Finish [Mastering PHP 7]
+- [x] ~~Finish Mastering PHP 7~~
+- [ ] Finish [You Should Test That!]
 
 ### RECENT DEV POSTS
 <!-- BLOG-POST-LIST:START -->
@@ -59,7 +60,7 @@
 <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="Thinkverse twitter profile" width="26px"/></a>
 </p>
 
-[mastering php 7]: https://www.packtpub.com/product/mastering-php-7/9781785882814/
+[you should test that!]: http://youshouldtestthat.com/
 
 [email]: mailto:work@hallberg.kim
 [twitter]: https://twitter.com/thinkverse
