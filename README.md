@@ -2,7 +2,7 @@
 
 - 🔭&nbsp;&nbsp; I’m currently working on deepening my knowledge of programming languages.
 - 📚&nbsp;&nbsp; I’m currently reading [You Should Test That!] by Chris Goward.
-- 📫&nbsp;&nbsp; How to reach me via [email], [twitter],[devdojo] , [dev.to] or [linkedin].
+- 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [devdojo], [dev.to] or [linkedin].
 - 💬&nbsp;&nbsp; Ask me about anything you'd like.
 
 ### RECENT TODOS
