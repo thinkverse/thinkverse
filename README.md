@@ -7,7 +7,6 @@
 
 ### RECENT TODOS
 - [x] ~~Update README.md~~
-- [x] ~~Finish Mastering PHP 7~~
 - [ ] Finish [You Should Test That!]
 
 ### RECENT DEV POSTS
