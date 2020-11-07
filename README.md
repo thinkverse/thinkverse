@@ -20,11 +20,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/tailwindlabs/play.tailwindcss.com/pull/22) in [tailwindlabs/play.tailwindcss.com](https://github.com/tailwindlabs/play.tailwindcss.com)
-2. 🗣 Commented on [#131](https://github.com/dailydotdev/daily-webapp/issues/131) in [dailydotdev/daily-webapp](https://github.com/dailydotdev/daily-webapp)
-3. ❗️ Opened issue [#131](https://github.com/dailydotdev/daily-webapp/issues/131) in [dailydotdev/daily-webapp](https://github.com/dailydotdev/daily-webapp)
-4. ❌ Closed PR [#261](https://github.com/thedevdojo/tails/pull/261) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-5. 🗣 Commented on [#261](https://github.com/thedevdojo/tails/issues/261) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+1. 🗣 Commented on [#22](https://github.com/tailwindlabs/play.tailwindcss.com/issues/22) in [tailwindlabs/play.tailwindcss.com](https://github.com/tailwindlabs/play.tailwindcss.com)
+2. 💪 Opened PR [#22](https://github.com/tailwindlabs/play.tailwindcss.com/pull/22) in [tailwindlabs/play.tailwindcss.com](https://github.com/tailwindlabs/play.tailwindcss.com)
+3. 🗣 Commented on [#131](https://github.com/dailydotdev/daily-webapp/issues/131) in [dailydotdev/daily-webapp](https://github.com/dailydotdev/daily-webapp)
+4. ❗️ Opened issue [#131](https://github.com/dailydotdev/daily-webapp/issues/131) in [dailydotdev/daily-webapp](https://github.com/dailydotdev/daily-webapp)
+5. ❌ Closed PR [#261](https://github.com/thedevdojo/tails/pull/261) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 
 <p align="center">
