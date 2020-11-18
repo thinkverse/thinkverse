@@ -21,11 +21,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
-2. ❗️ Opened issue [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
-3. 🗣 Commented on [#22](https://github.com/tailwindlabs/play.tailwindcss.com/issues/22) in [tailwindlabs/play.tailwindcss.com](https://github.com/tailwindlabs/play.tailwindcss.com)
-4. 💪 Opened PR [#22](https://github.com/tailwindlabs/play.tailwindcss.com/pull/22) in [tailwindlabs/play.tailwindcss.com](https://github.com/tailwindlabs/play.tailwindcss.com)
-5. 🗣 Commented on [#131](https://github.com/dailydotdev/daily-webapp/issues/131) in [dailydotdev/daily-webapp](https://github.com/dailydotdev/daily-webapp)
+1. ❗️ Reopened issue [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
+2. 🗣 Commented on [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
+3. ❗️ Closed issue [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
+4. 🗣 Commented on [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
+5. 🗣 Commented on [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
 <!--END_SECTION:activity-->
 
 <p align="center">
