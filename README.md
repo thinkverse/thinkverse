@@ -8,6 +8,7 @@
 ### RECENT TODOS
 - [x] ~~Update README.md~~
 - [x] ~~Finish [You Should Test That!]~~
+- [ ] Write 2 new posts
 
 ### RECENT DEV POSTS
 <!-- BLOG-POST-LIST:START -->
