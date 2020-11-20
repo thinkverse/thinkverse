@@ -21,11 +21,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
-2. ❗️ Reopened issue [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
-3. 🗣 Commented on [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
-4. ❗️ Closed issue [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
-5. 🗣 Commented on [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
+1. 💪 Opened PR [#297](https://github.com/livewire/docs/pull/297) in [livewire/docs](https://github.com/livewire/docs)
+2. 🗣 Commented on [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
+3. ❗️ Reopened issue [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
+4. 🗣 Commented on [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
+5. ❗️ Closed issue [#230](https://github.com/dailydotdev/daily-apps/issues/230) in [dailydotdev/daily-apps](https://github.com/dailydotdev/daily-apps)
 <!--END_SECTION:activity-->
 
 <p align="center">
