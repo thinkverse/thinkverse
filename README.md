@@ -7,7 +7,9 @@
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [devdojo], [dev.to] or [linkedin].
 - 💬&nbsp;&nbsp; Ask me about anything you'd like.
 
-### RECENT DEV POSTS
+### RECENT ARTICLES
+- [Laravel Quickie: Basic Controllers](https://devdojo.com/thinkverse/laravel-quickie-basic-controllers)
+- [How to create a Contact Us form with Livewire. 👋](https://devdojo.com/thinkverse/how-to-create-a-contact-us-form-with-livewire)
 <!-- BLOG-POST-LIST:START -->
 - [Useful HTML codes with a quick click. 👍](https://dev.to/thinkverse/useful-html-codes-with-a-quick-click-opi)
 - [First time participating in Hacktoberfest. 🎉](https://dev.to/thinkverse/first-time-participating-in-hacktoberfest-ji)
