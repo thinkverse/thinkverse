@@ -1,3 +1,5 @@
+![Github cover image](https://raw.githubusercontent.com/thinkverse/thinkverse/master/github-cover.png)
+
 ### ABOUT ME
 
 - 🔭&nbsp;&nbsp; I’m currently working on deepening my knowledge of programming languages.
