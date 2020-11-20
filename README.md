@@ -7,11 +7,6 @@
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [devdojo], [dev.to] or [linkedin].
 - 💬&nbsp;&nbsp; Ask me about anything you'd like.
 
-### RECENT TODOS
-- [x] ~~Update README.md~~
-- [ ] Finish [The Copywriter's Handbook]
-- [ ] Write 2 new posts
-
 ### RECENT DEV POSTS
 <!-- BLOG-POST-LIST:START -->
 - [Useful HTML codes with a quick click. 👍](https://dev.to/thinkverse/useful-html-codes-with-a-quick-click-opi)
