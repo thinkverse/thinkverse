@@ -24,11 +24,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/dailydotdev/daily-webapp/issues/174) in [dailydotdev/daily-webapp](https://github.com/dailydotdev/daily-webapp)
-2. 🗣 Commented on [#220](https://github.com/dailydotdev/daily/issues/220) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
-3. ❗️ Opened issue [#220](https://github.com/dailydotdev/daily/issues/220) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
-4. ❗️ Opened issue [#174](https://github.com/dailydotdev/daily-webapp/issues/174) in [dailydotdev/daily-webapp](https://github.com/dailydotdev/daily-webapp)
-5. 💪 Opened PR [#298](https://github.com/livewire/docs/pull/298) in [livewire/docs](https://github.com/livewire/docs)
+1. 💪 Opened PR [#300](https://github.com/livewire/docs/pull/300) in [livewire/docs](https://github.com/livewire/docs)
+2. 🗣 Commented on [#174](https://github.com/dailydotdev/daily-webapp/issues/174) in [dailydotdev/daily-webapp](https://github.com/dailydotdev/daily-webapp)
+3. 🗣 Commented on [#220](https://github.com/dailydotdev/daily/issues/220) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+4. ❗️ Opened issue [#220](https://github.com/dailydotdev/daily/issues/220) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+5. ❗️ Opened issue [#174](https://github.com/dailydotdev/daily-webapp/issues/174) in [dailydotdev/daily-webapp](https://github.com/dailydotdev/daily-webapp)
 <!--END_SECTION:activity-->
 
 <p align="center">
