@@ -15,11 +15,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Quickie: Basic Controllers](https://dev.to/thinkverse/laravel-quickie-basic-controllers-4jdj)
 - [Laravel Quickie: How to install and build TailwindCSS v2 with Laravel Mix 😎](https://dev.to/thinkverse/laravel-quickie-how-to-install-and-build-tailwindcss-v2-with-laravel-mix-3k81)
 - [Useful HTML codes with a quick click. 👍](https://dev.to/thinkverse/useful-html-codes-with-a-quick-click-opi)
 - [First time participating in Hacktoberfest. 🎉](https://dev.to/thinkverse/first-time-participating-in-hacktoberfest-ji)
 - [How I review Tails components. 👨‍💼](https://dev.to/thinkverse/how-i-review-tails-components-3f9n)
-- [Let's validate some DNS TXT records. 👍](https://dev.to/thinkverse/let-s-validate-some-dns-txt-records-2721)
 <!-- BLOG-POST-LIST:END -->
 
 ### RECENT ACTIVITY
