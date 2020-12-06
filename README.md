@@ -29,10 +29,10 @@
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#361](https://github.com/postcss/postcss-cli/issues/361) in [postcss/postcss-cli](https://github.com/postcss/postcss-cli)
-2. 🗣 Commented on [#361](https://github.com/postcss/postcss-cli/issues/361) in [postcss/postcss-cli](https://github.com/postcss/postcss-cli)
+2. 💪 Opened PR [#362](https://github.com/postcss/postcss-cli/pull/362) in [postcss/postcss-cli](https://github.com/postcss/postcss-cli)
 3. 🗣 Commented on [#361](https://github.com/postcss/postcss-cli/issues/361) in [postcss/postcss-cli](https://github.com/postcss/postcss-cli)
-4. 💪 Opened PR [#1](https://github.com/bobbyiliev/bobbyiliev/pull/1) in [bobbyiliev/bobbyiliev](https://github.com/bobbyiliev/bobbyiliev)
-5. 💪 Opened PR [#1](https://github.com/LaravelDaily/Laravel-Jetstream-CRUD-Roles/pull/1) in [LaravelDaily/Laravel-Jetstream-CRUD-Roles](https://github.com/LaravelDaily/Laravel-Jetstream-CRUD-Roles)
+4. 🗣 Commented on [#361](https://github.com/postcss/postcss-cli/issues/361) in [postcss/postcss-cli](https://github.com/postcss/postcss-cli)
+5. 🗣 Commented on [#361](https://github.com/postcss/postcss-cli/issues/361) in [postcss/postcss-cli](https://github.com/postcss/postcss-cli)
 <!--END_SECTION:activity-->
 
 <p align="center">
