@@ -28,10 +28,10 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/dansoppelsa/laravel-carbon-macros/pull/11) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
-2. 💪 Opened PR [#10](https://github.com/dansoppelsa/laravel-carbon-macros/pull/10) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
-3. 🗣 Commented on [#105](https://github.com/postcss/postcss-nested/issues/105) in [postcss/postcss-nested](https://github.com/postcss/postcss-nested)
-4. 🗣 Commented on [#74](https://github.com/laravel-notification-channels/twitter/issues/74) in [laravel-notification-channels/twitter](https://github.com/laravel-notification-channels/twitter)
+1. 🗣 Commented on [#10](https://github.com/dansoppelsa/laravel-carbon-macros/issues/10) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
+2. 💪 Opened PR [#11](https://github.com/dansoppelsa/laravel-carbon-macros/pull/11) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
+3. 💪 Opened PR [#10](https://github.com/dansoppelsa/laravel-carbon-macros/pull/10) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
+4. 🗣 Commented on [#105](https://github.com/postcss/postcss-nested/issues/105) in [postcss/postcss-nested](https://github.com/postcss/postcss-nested)
 5. 🗣 Commented on [#74](https://github.com/laravel-notification-channels/twitter/issues/74) in [laravel-notification-channels/twitter](https://github.com/laravel-notification-channels/twitter)
 <!--END_SECTION:activity-->
 
