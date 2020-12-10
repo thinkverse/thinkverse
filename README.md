@@ -28,11 +28,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/laravel-notification-channels/twitter/issues/74) in [laravel-notification-channels/twitter](https://github.com/laravel-notification-channels/twitter)
+1. 🗣 Commented on [#105](https://github.com/postcss/postcss-nested/issues/105) in [postcss/postcss-nested](https://github.com/postcss/postcss-nested)
 2. 🗣 Commented on [#74](https://github.com/laravel-notification-channels/twitter/issues/74) in [laravel-notification-channels/twitter](https://github.com/laravel-notification-channels/twitter)
-3. 💪 Opened PR [#363](https://github.com/postcss/postcss-cli/pull/363) in [postcss/postcss-cli](https://github.com/postcss/postcss-cli)
-4. 🗣 Commented on [#74](https://github.com/laravel-notification-channels/twitter/issues/74) in [laravel-notification-channels/twitter](https://github.com/laravel-notification-channels/twitter)
-5. 💪 Opened PR [#74](https://github.com/laravel-notification-channels/twitter/pull/74) in [laravel-notification-channels/twitter](https://github.com/laravel-notification-channels/twitter)
+3. 🗣 Commented on [#74](https://github.com/laravel-notification-channels/twitter/issues/74) in [laravel-notification-channels/twitter](https://github.com/laravel-notification-channels/twitter)
+4. 💪 Opened PR [#363](https://github.com/postcss/postcss-cli/pull/363) in [postcss/postcss-cli](https://github.com/postcss/postcss-cli)
+5. 🗣 Commented on [#74](https://github.com/laravel-notification-channels/twitter/issues/74) in [laravel-notification-channels/twitter](https://github.com/laravel-notification-channels/twitter)
 <!--END_SECTION:activity-->
 
 <p align="center">
