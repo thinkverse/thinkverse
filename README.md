@@ -28,11 +28,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#22](https://github.com/tailwindlabs/play.tailwindcss.com/pull/22) in [tailwindlabs/play.tailwindcss.com](https://github.com/tailwindlabs/play.tailwindcss.com)
-2. 🗣 Commented on [#10](https://github.com/dansoppelsa/laravel-carbon-macros/issues/10) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
-3. 💪 Opened PR [#11](https://github.com/dansoppelsa/laravel-carbon-macros/pull/11) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
-4. 💪 Opened PR [#10](https://github.com/dansoppelsa/laravel-carbon-macros/pull/10) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
-5. 🗣 Commented on [#105](https://github.com/postcss/postcss-nested/issues/105) in [postcss/postcss-nested](https://github.com/postcss/postcss-nested)
+1. 🎉 Merged PR [#11](https://github.com/thinkverse/thinkverse.dev/pull/11) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+2. 💪 Opened PR [#14](https://github.com/dansoppelsa/laravel-carbon-macros/pull/14) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
+3. ❌ Closed PR [#22](https://github.com/tailwindlabs/play.tailwindcss.com/pull/22) in [tailwindlabs/play.tailwindcss.com](https://github.com/tailwindlabs/play.tailwindcss.com)
+4. 🗣 Commented on [#10](https://github.com/dansoppelsa/laravel-carbon-macros/issues/10) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
+5. 💪 Opened PR [#11](https://github.com/dansoppelsa/laravel-carbon-macros/pull/11) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
 <!--END_SECTION:activity-->
 
 <p align="center">
