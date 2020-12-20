@@ -28,11 +28,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/postcss/postcss-nested/issues/105) in [postcss/postcss-nested](https://github.com/postcss/postcss-nested)
-2. 🎉 Merged PR [#11](https://github.com/thinkverse/thinkverse.dev/pull/11) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-3. 💪 Opened PR [#14](https://github.com/dansoppelsa/laravel-carbon-macros/pull/14) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
-4. ❌ Closed PR [#22](https://github.com/tailwindlabs/play.tailwindcss.com/pull/22) in [tailwindlabs/play.tailwindcss.com](https://github.com/tailwindlabs/play.tailwindcss.com)
-5. 🗣 Commented on [#10](https://github.com/dansoppelsa/laravel-carbon-macros/issues/10) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
+1. ❗️ Opened issue [#1](https://github.com/guildso/guildso/issues/1) in [guildso/guildso](https://github.com/guildso/guildso)
+2. 🗣 Commented on [#105](https://github.com/postcss/postcss-nested/issues/105) in [postcss/postcss-nested](https://github.com/postcss/postcss-nested)
+3. 🎉 Merged PR [#11](https://github.com/thinkverse/thinkverse.dev/pull/11) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+4. 💪 Opened PR [#14](https://github.com/dansoppelsa/laravel-carbon-macros/pull/14) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
+5. ❌ Closed PR [#22](https://github.com/tailwindlabs/play.tailwindcss.com/pull/22) in [tailwindlabs/play.tailwindcss.com](https://github.com/tailwindlabs/play.tailwindcss.com)
 <!--END_SECTION:activity-->
 
 <p align="center">
