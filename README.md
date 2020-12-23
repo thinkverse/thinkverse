@@ -28,11 +28,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/guildso/guild/pull/1) in [guildso/guild](https://github.com/guildso/guild)
-2. ❗️ Opened issue [#1](https://github.com/guildso/guildso/issues/1) in [guildso/guildso](https://github.com/guildso/guildso)
-3. 🗣 Commented on [#105](https://github.com/postcss/postcss-nested/issues/105) in [postcss/postcss-nested](https://github.com/postcss/postcss-nested)
-4. 🎉 Merged PR [#11](https://github.com/thinkverse/thinkverse.dev/pull/11) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-5. 💪 Opened PR [#14](https://github.com/dansoppelsa/laravel-carbon-macros/pull/14) in [dansoppelsa/laravel-carbon-macros](https://github.com/dansoppelsa/laravel-carbon-macros)
+1. ❗️ Closed issue [#1](https://github.com/guildso/guildso/issues/1) in [guildso/guildso](https://github.com/guildso/guildso)
+2. 🗣 Commented on [#1](https://github.com/guildso/guildso/issues/1) in [guildso/guildso](https://github.com/guildso/guildso)
+3. 💪 Opened PR [#2](https://github.com/guildso/guildso/pull/2) in [guildso/guildso](https://github.com/guildso/guildso)
+4. 💪 Opened PR [#1](https://github.com/guildso/guild/pull/1) in [guildso/guild](https://github.com/guildso/guild)
+5. ❗️ Opened issue [#1](https://github.com/guildso/guildso/issues/1) in [guildso/guildso](https://github.com/guildso/guildso)
 <!--END_SECTION:activity-->
 
 <p align="center">
