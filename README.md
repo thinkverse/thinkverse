@@ -1,5 +1,3 @@
-![Github cover image](https://raw.githubusercontent.com/thinkverse/thinkverse/master/github-cover.png)
-
 ### ABOUT ME
 
 - 🔭&nbsp;&nbsp; I’m currently working on deepening my knowledge of programming languages.
@@ -43,8 +41,6 @@
 <img src="https://badges.pufler.dev/repos/thinkverse?logo=github" alt="Public repositories" /></a>
 <a href="https://shields.io">
 <img src="https://img.shields.io/github/last-commit/thinkverse/thinkverse?label=Profile%20Updated&logo=github" alt="Profile last updated"/></a>
-<a href="https://badges.pufler.dev">
-<img src="https://badges.pufler.dev/commits/monthly/thinkverse?label=Monthly%20Commits&logo=github" alt="Monthly commits" /></a> 
 <br><br>
 <a href="https://dev.to/thinkverse">
 <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thinkverse dev to profile" width="24px"/></a>
