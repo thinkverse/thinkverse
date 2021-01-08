@@ -26,11 +26,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/guildso/guild/pull/14) in [guildso/guild](https://github.com/guildso/guild)
-2. ❗️ Closed issue [#1](https://github.com/guildso/guildso/issues/1) in [guildso/guildso](https://github.com/guildso/guildso)
-3. 🗣 Commented on [#1](https://github.com/guildso/guildso/issues/1) in [guildso/guildso](https://github.com/guildso/guildso)
-4. 💪 Opened PR [#2](https://github.com/guildso/guildso/pull/2) in [guildso/guildso](https://github.com/guildso/guildso)
-5. 💪 Opened PR [#1](https://github.com/guildso/guild/pull/1) in [guildso/guild](https://github.com/guildso/guild)
+1. 💪 Opened PR [#311](https://github.com/livewire/docs/pull/311) in [livewire/docs](https://github.com/livewire/docs)
+2. 💪 Opened PR [#14](https://github.com/guildso/guild/pull/14) in [guildso/guild](https://github.com/guildso/guild)
+3. ❗️ Closed issue [#1](https://github.com/guildso/guildso/issues/1) in [guildso/guildso](https://github.com/guildso/guildso)
+4. 🗣 Commented on [#1](https://github.com/guildso/guildso/issues/1) in [guildso/guildso](https://github.com/guildso/guildso)
+5. 💪 Opened PR [#2](https://github.com/guildso/guildso/pull/2) in [guildso/guildso](https://github.com/guildso/guildso)
 <!--END_SECTION:activity-->
 
 <p align="center">
