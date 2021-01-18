@@ -26,11 +26,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#312](https://github.com/livewire/docs/pull/312) in [livewire/docs](https://github.com/livewire/docs)
-2. 💪 Opened PR [#311](https://github.com/livewire/docs/pull/311) in [livewire/docs](https://github.com/livewire/docs)
-3. 💪 Opened PR [#14](https://github.com/guildso/guild/pull/14) in [guildso/guild](https://github.com/guildso/guild)
-4. ❗️ Closed issue [#1](https://github.com/guildso/guildso/issues/1) in [guildso/guildso](https://github.com/guildso/guildso)
-5. 🗣 Commented on [#1](https://github.com/guildso/guildso/issues/1) in [guildso/guildso](https://github.com/guildso/guildso)
+1. 💪 Opened PR [#79](https://github.com/laravelio/paste.laravel.io/pull/79) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
+2. 💪 Opened PR [#312](https://github.com/livewire/docs/pull/312) in [livewire/docs](https://github.com/livewire/docs)
+3. 💪 Opened PR [#311](https://github.com/livewire/docs/pull/311) in [livewire/docs](https://github.com/livewire/docs)
+4. 💪 Opened PR [#14](https://github.com/guildso/guild/pull/14) in [guildso/guild](https://github.com/guildso/guild)
+5. ❗️ Closed issue [#1](https://github.com/guildso/guildso/issues/1) in [guildso/guildso](https://github.com/guildso/guildso)
 <!--END_SECTION:activity-->
 
 <p align="center">
