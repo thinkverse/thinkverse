@@ -26,11 +26,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/ryangjchandler/color/pull/4) in [ryangjchandler/color](https://github.com/ryangjchandler/color)
-2. 💪 Opened PR [#1](https://github.com/enlightn/enlightn-docs/pull/1) in [enlightn/enlightn-docs](https://github.com/enlightn/enlightn-docs)
-3. 💪 Opened PR [#1](https://github.com/thedevdojo/themes/pull/1) in [thedevdojo/themes](https://github.com/thedevdojo/themes)
-4. 💪 Opened PR [#74](https://github.com/mvdnbrk/laravel-mix-docs/pull/74) in [mvdnbrk/laravel-mix-docs](https://github.com/mvdnbrk/laravel-mix-docs)
-5. 💪 Opened PR [#79](https://github.com/laravelio/paste.laravel.io/pull/79) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
+1. 🗣 Commented on [#5](https://github.com/ryangjchandler/color/issues/5) in [ryangjchandler/color](https://github.com/ryangjchandler/color)
+2. 💪 Opened PR [#5](https://github.com/ryangjchandler/color/pull/5) in [ryangjchandler/color](https://github.com/ryangjchandler/color)
+3. 💪 Opened PR [#4](https://github.com/ryangjchandler/color/pull/4) in [ryangjchandler/color](https://github.com/ryangjchandler/color)
+4. 💪 Opened PR [#1](https://github.com/enlightn/enlightn-docs/pull/1) in [enlightn/enlightn-docs](https://github.com/enlightn/enlightn-docs)
+5. 💪 Opened PR [#1](https://github.com/thedevdojo/themes/pull/1) in [thedevdojo/themes](https://github.com/thedevdojo/themes)
 <!--END_SECTION:activity-->
 
 <p align="center">
