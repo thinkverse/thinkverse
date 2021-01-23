@@ -27,10 +27,10 @@
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17](https://github.com/ryangjchandler/puny/issues/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
-2. 💪 Opened PR [#17](https://github.com/ryangjchandler/puny/pull/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
-3. 🗣 Commented on [#7](https://github.com/ryangjchandler/color/issues/7) in [ryangjchandler/color](https://github.com/ryangjchandler/color)
-4. 💪 Opened PR [#7](https://github.com/ryangjchandler/color/pull/7) in [ryangjchandler/color](https://github.com/ryangjchandler/color)
-5. 🗣 Commented on [#5](https://github.com/ryangjchandler/color/issues/5) in [ryangjchandler/color](https://github.com/ryangjchandler/color)
+2. 🗣 Commented on [#17](https://github.com/ryangjchandler/puny/issues/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
+3. 🗣 Commented on [#17](https://github.com/ryangjchandler/puny/issues/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
+4. 🗣 Commented on [#17](https://github.com/ryangjchandler/puny/issues/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
+5. 💪 Opened PR [#17](https://github.com/ryangjchandler/puny/pull/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
 <!--END_SECTION:activity-->
 
 <p align="center">
