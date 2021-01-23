@@ -30,7 +30,7 @@
 2. 🗣 Commented on [#17](https://github.com/ryangjchandler/puny/issues/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
 3. 🗣 Commented on [#17](https://github.com/ryangjchandler/puny/issues/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
 4. 🗣 Commented on [#17](https://github.com/ryangjchandler/puny/issues/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
-5. 💪 Opened PR [#17](https://github.com/ryangjchandler/puny/pull/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
+5. 🗣 Commented on [#17](https://github.com/ryangjchandler/puny/issues/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
 <!--END_SECTION:activity-->
 
 <p align="center">
