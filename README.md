@@ -26,8 +26,8 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2796](https://github.com/JeffreyWay/laravel-mix/issues/2796) in [JeffreyWay/laravel-mix](https://github.com/JeffreyWay/laravel-mix)
-2. 🗣 Commented on [#17](https://github.com/ryangjchandler/puny/issues/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
+1. 💪 Opened PR [#2798](https://github.com/JeffreyWay/laravel-mix/pull/2798) in [JeffreyWay/laravel-mix](https://github.com/JeffreyWay/laravel-mix)
+2. 🗣 Commented on [#2796](https://github.com/JeffreyWay/laravel-mix/issues/2796) in [JeffreyWay/laravel-mix](https://github.com/JeffreyWay/laravel-mix)
 3. 🗣 Commented on [#17](https://github.com/ryangjchandler/puny/issues/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
 4. 🗣 Commented on [#17](https://github.com/ryangjchandler/puny/issues/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
 5. 🗣 Commented on [#17](https://github.com/ryangjchandler/puny/issues/17) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
