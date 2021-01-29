@@ -26,11 +26,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/ryangjchandler/puny/issues/20) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
-2. 💪 Opened PR [#20](https://github.com/ryangjchandler/puny/pull/20) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
-3. 💪 Opened PR [#19](https://github.com/ryangjchandler/puny/pull/19) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
-4. 💪 Opened PR [#12](https://github.com/pestphp/pest-plugin/pull/12) in [pestphp/pest-plugin](https://github.com/pestphp/pest-plugin)
-5. 🗣 Commented on [#2796](https://github.com/JeffreyWay/laravel-mix/issues/2796) in [JeffreyWay/laravel-mix](https://github.com/JeffreyWay/laravel-mix)
+1. 💪 Opened PR [#4](https://github.com/ryangjchandler/alpine-clipboard/pull/4) in [ryangjchandler/alpine-clipboard](https://github.com/ryangjchandler/alpine-clipboard)
+2. 🗣 Commented on [#20](https://github.com/ryangjchandler/puny/issues/20) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
+3. 💪 Opened PR [#20](https://github.com/ryangjchandler/puny/pull/20) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
+4. 💪 Opened PR [#19](https://github.com/ryangjchandler/puny/pull/19) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
+5. 💪 Opened PR [#12](https://github.com/pestphp/pest-plugin/pull/12) in [pestphp/pest-plugin](https://github.com/pestphp/pest-plugin)
 <!--END_SECTION:activity-->
 
 <p align="center">
