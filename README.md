@@ -26,11 +26,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#580](https://github.com/laravelio/laravel.io/issues/580) in [laravelio/laravel.io](https://github.com/laravelio/laravel.io)
-2. 💪 Opened PR [#4](https://github.com/ryangjchandler/alpine-clipboard/pull/4) in [ryangjchandler/alpine-clipboard](https://github.com/ryangjchandler/alpine-clipboard)
-3. 🗣 Commented on [#20](https://github.com/ryangjchandler/puny/issues/20) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
-4. 💪 Opened PR [#20](https://github.com/ryangjchandler/puny/pull/20) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
-5. 💪 Opened PR [#19](https://github.com/ryangjchandler/puny/pull/19) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
+1. 💪 Opened PR [#36306](https://github.com/laravel/framework/pull/36306) in [laravel/framework](https://github.com/laravel/framework)
+2. 🗣 Commented on [#580](https://github.com/laravelio/laravel.io/issues/580) in [laravelio/laravel.io](https://github.com/laravelio/laravel.io)
+3. 💪 Opened PR [#4](https://github.com/ryangjchandler/alpine-clipboard/pull/4) in [ryangjchandler/alpine-clipboard](https://github.com/ryangjchandler/alpine-clipboard)
+4. 🗣 Commented on [#20](https://github.com/ryangjchandler/puny/issues/20) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
+5. 💪 Opened PR [#20](https://github.com/ryangjchandler/puny/pull/20) in [ryangjchandler/puny](https://github.com/ryangjchandler/puny)
 <!--END_SECTION:activity-->
 
 <p align="center">
