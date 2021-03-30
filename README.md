@@ -27,10 +27,10 @@
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6](https://github.com/Heptagram-Bot/Heptagram/issues/6) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-2. 💪 Opened PR [#6](https://github.com/Heptagram-Bot/Heptagram/pull/6) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-3. 🗣 Commented on [#232](https://github.com/github/docs/issues/232) in [github/docs](https://github.com/github/docs)
-4. 💪 Opened PR [#370](https://github.com/spatie/laravel-sitemap/pull/370) in [spatie/laravel-sitemap](https://github.com/spatie/laravel-sitemap)
-5. 💪 Opened PR [#36306](https://github.com/laravel/framework/pull/36306) in [laravel/framework](https://github.com/laravel/framework)
+2. 🗣 Commented on [#6](https://github.com/Heptagram-Bot/Heptagram/issues/6) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+3. 💪 Opened PR [#1](https://github.com/j-dogcoder/j-dogcoder/pull/1) in [j-dogcoder/j-dogcoder](https://github.com/j-dogcoder/j-dogcoder)
+4. 🎉 Merged PR [#1](https://github.com/thinkverse/dumpster/pull/1) in [thinkverse/dumpster](https://github.com/thinkverse/dumpster)
+5. 💪 Opened PR [#1](https://github.com/thinkverse/dumpster/pull/1) in [thinkverse/dumpster](https://github.com/thinkverse/dumpster)
 <!--END_SECTION:activity-->
 
 <p align="center">
