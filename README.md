@@ -26,11 +26,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/Heptagram-Bot/Heptagram/pull/10) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-2. 🗣 Commented on [#6](https://github.com/Heptagram-Bot/Heptagram/issues/6) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+1. 🗣 Commented on [#10](https://github.com/Heptagram-Bot/Heptagram/issues/10) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+2. 💪 Opened PR [#10](https://github.com/Heptagram-Bot/Heptagram/pull/10) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
 3. 🗣 Commented on [#6](https://github.com/Heptagram-Bot/Heptagram/issues/6) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-4. 💪 Opened PR [#1](https://github.com/j-dogcoder/j-dogcoder/pull/1) in [j-dogcoder/j-dogcoder](https://github.com/j-dogcoder/j-dogcoder)
-5. 🎉 Merged PR [#1](https://github.com/thinkverse/dumpster/pull/1) in [thinkverse/dumpster](https://github.com/thinkverse/dumpster)
+4. 🗣 Commented on [#6](https://github.com/Heptagram-Bot/Heptagram/issues/6) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+5. 💪 Opened PR [#1](https://github.com/j-dogcoder/j-dogcoder/pull/1) in [j-dogcoder/j-dogcoder](https://github.com/j-dogcoder/j-dogcoder)
 <!--END_SECTION:activity-->
 
 <p align="center">
