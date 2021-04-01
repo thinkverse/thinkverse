@@ -26,11 +26,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/thinkverse/thinkverse.dev/pull/13) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-2. 🎉 Merged PR [#12](https://github.com/thinkverse/thinkverse.dev/pull/12) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-3. 🗣 Commented on [#17](https://github.com/Heptagram-Bot/Heptagram/issues/17) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-4. 💪 Opened PR [#15](https://github.com/Heptagram-Bot/Heptagram/pull/15) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-5. 💪 Opened PR [#13](https://github.com/Heptagram-Bot/Heptagram/pull/13) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+1. 🎉 Merged PR [#14](https://github.com/thinkverse/thinkverse.dev/pull/14) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+2. 💪 Opened PR [#14](https://github.com/thinkverse/thinkverse.dev/pull/14) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+3. 🎉 Merged PR [#13](https://github.com/thinkverse/thinkverse.dev/pull/13) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+4. 🎉 Merged PR [#12](https://github.com/thinkverse/thinkverse.dev/pull/12) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+5. 🗣 Commented on [#17](https://github.com/Heptagram-Bot/Heptagram/issues/17) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
 <!--END_SECTION:activity-->
 
 <p align="center">
