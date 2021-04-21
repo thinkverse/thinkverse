@@ -26,11 +26,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#100](https://github.com/Heptagram-Bot/Heptagram/issues/100) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-2. 💪 Opened PR [#98](https://github.com/Heptagram-Bot/Heptagram/pull/98) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
-3. 💪 Opened PR [#1](https://github.com/thinkverse/php-src/pull/1) in [thinkverse/php-src](https://github.com/thinkverse/php-src)
-4. 🗣 Commented on [#2](https://github.com/ryangjchandler/php-src/issues/2) in [ryangjchandler/php-src](https://github.com/ryangjchandler/php-src)
-5. 💪 Opened PR [#522](https://github.com/php/doc-en/pull/522) in [php/doc-en](https://github.com/php/doc-en)
+1. 💪 Opened PR [#101](https://github.com/Heptagram-Bot/Heptagram/pull/101) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+2. 🗣 Commented on [#100](https://github.com/Heptagram-Bot/Heptagram/issues/100) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+3. 🗣 Commented on [#100](https://github.com/Heptagram-Bot/Heptagram/issues/100) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+4. 💪 Opened PR [#98](https://github.com/Heptagram-Bot/Heptagram/pull/98) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+5. 💪 Opened PR [#1](https://github.com/thinkverse/php-src/pull/1) in [thinkverse/php-src](https://github.com/thinkverse/php-src)
 <!--END_SECTION:activity-->
 
 <p align="center">
