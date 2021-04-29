@@ -1,7 +1,6 @@
 ### ABOUT ME
 
 - 🔭&nbsp;&nbsp; I’m currently working on deepening my knowledge of programming languages.
-- 📚&nbsp;&nbsp; I’m currently reading [The Copywriter's Handbook] by Robert W. Bly.
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [devdojo], [dev.to] or [linkedin].
 - 💬&nbsp;&nbsp; Ask me about anything you'd like.
 
@@ -60,8 +59,6 @@
 <a href="https://twitter.com/thinkverse">
 <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="Thinkverse twitter profile" width="26px"/></a>
 </p>
-
-[The Copywriter's Handbook]: https://www.bly.com/copyhandbook/
 
 [email]: mailto:work@hallberg.kim
 [twitter]: https://twitter.com/thinkverse
