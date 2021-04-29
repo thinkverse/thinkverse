@@ -29,8 +29,8 @@
 1. 🗣 Commented on [#556](https://github.com/php/doc-en/issues/556) in [php/doc-en](https://github.com/php/doc-en)
 2. 🗣 Commented on [#556](https://github.com/php/doc-en/issues/556) in [php/doc-en](https://github.com/php/doc-en)
 3. 🗣 Commented on [#556](https://github.com/php/doc-en/issues/556) in [php/doc-en](https://github.com/php/doc-en)
-4. 💪 Opened PR [#556](https://github.com/php/doc-en/pull/556) in [php/doc-en](https://github.com/php/doc-en)
-5. 💪 Opened PR [#107](https://github.com/Heptagram-Bot/Heptagram/pull/107) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+4. 🗣 Commented on [#556](https://github.com/php/doc-en/issues/556) in [php/doc-en](https://github.com/php/doc-en)
+5. 💪 Opened PR [#556](https://github.com/php/doc-en/pull/556) in [php/doc-en](https://github.com/php/doc-en)
 <!--END_SECTION:activity-->
 
 <p align="center">
