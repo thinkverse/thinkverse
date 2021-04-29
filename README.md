@@ -28,8 +28,8 @@
 1. 🗣 Commented on [#558](https://github.com/php/doc-en/issues/558) in [php/doc-en](https://github.com/php/doc-en)
 2. 🗣 Commented on [#558](https://github.com/php/doc-en/issues/558) in [php/doc-en](https://github.com/php/doc-en)
 3. 🗣 Commented on [#558](https://github.com/php/doc-en/issues/558) in [php/doc-en](https://github.com/php/doc-en)
-4. 💪 Opened PR [#558](https://github.com/php/doc-en/pull/558) in [php/doc-en](https://github.com/php/doc-en)
-5. 🗣 Commented on [#556](https://github.com/php/doc-en/issues/556) in [php/doc-en](https://github.com/php/doc-en)
+4. 🗣 Commented on [#558](https://github.com/php/doc-en/issues/558) in [php/doc-en](https://github.com/php/doc-en)
+5. 🗣 Commented on [#558](https://github.com/php/doc-en/issues/558) in [php/doc-en](https://github.com/php/doc-en)
 <!--END_SECTION:activity-->
 
 <p align="center">
