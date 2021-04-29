@@ -25,8 +25,8 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#560](https://github.com/php/doc-en/pull/560) in [php/doc-en](https://github.com/php/doc-en)
-2. 🗣 Commented on [#558](https://github.com/php/doc-en/issues/558) in [php/doc-en](https://github.com/php/doc-en)
+1. 🗣 Commented on [#560](https://github.com/php/doc-en/issues/560) in [php/doc-en](https://github.com/php/doc-en)
+2. 💪 Opened PR [#560](https://github.com/php/doc-en/pull/560) in [php/doc-en](https://github.com/php/doc-en)
 3. 🗣 Commented on [#558](https://github.com/php/doc-en/issues/558) in [php/doc-en](https://github.com/php/doc-en)
 4. 🗣 Commented on [#558](https://github.com/php/doc-en/issues/558) in [php/doc-en](https://github.com/php/doc-en)
 5. 🗣 Commented on [#558](https://github.com/php/doc-en/issues/558) in [php/doc-en](https://github.com/php/doc-en)
