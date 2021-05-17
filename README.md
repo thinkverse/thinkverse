@@ -16,11 +16,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [You don’t necessarily need Composer](https://dev.to/thinkverse/you-don-t-necessarily-need-composer-n71)
 - [Laravel Quickie: Basic Controllers](https://dev.to/thinkverse/laravel-quickie-basic-controllers-4jdj)
 - [Laravel Quickie: How to install and build TailwindCSS v2 with Laravel Mix 😎](https://dev.to/thinkverse/laravel-quickie-how-to-install-and-build-tailwindcss-v2-with-laravel-mix-3k81)
 - [Useful HTML codes with a quick click. 👍](https://dev.to/thinkverse/useful-html-codes-with-a-quick-click-opi)
 - [First time participating in Hacktoberfest. 🎉](https://dev.to/thinkverse/first-time-participating-in-hacktoberfest-ji)
-- [How I review Tails components. 👨‍💼](https://dev.to/thinkverse/how-i-review-tails-components-3f9n)
 <!-- BLOG-POST-LIST:END -->
 
 ### RECENT ACTIVITY
