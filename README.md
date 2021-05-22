@@ -7,11 +7,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO-POST-LIST:START -->
+- [The future of Responsive Design with Container Queries.](https://devdojo.com/thinkverse/the-future-of-responsive-design-with-container-queries)
 - [You don’t necessarily need Composer](https://devdojo.com/thinkverse/you-dont-necessarily-need-composer)
 - [Laravel Quickie: How to install and build TailwindCSS v2 with Laravel Mix 😎](https://devdojo.com/thinkverse/laravel-quickie-how-to-install-and-build-tailwindcss-v2-with-laravel-mix)
 - [Laravel Quickie: Basic Controllers](https://devdojo.com/thinkverse/laravel-quickie-basic-controllers)
 - [How to create a Contact Us form with Livewire. 👋](https://devdojo.com/thinkverse/how-to-create-a-contact-us-form-with-livewire)
-- [How I review Tails components. 👨‍💼](https://devdojo.com/thinkverse/how-i-review-tails-components)
 <!-- DEVDOJO-POST-LIST:END -->
 
 ### RECENT DEV.TO POST
