@@ -25,11 +25,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#629](https://github.com/php/doc-en/pull/629) in [php/doc-en](https://github.com/php/doc-en)
-2. 🗣 Commented on [#576](https://github.com/php/doc-en/issues/576) in [php/doc-en](https://github.com/php/doc-en)
-3. 🗣 Commented on [#566](https://github.com/php/doc-en/issues/566) in [php/doc-en](https://github.com/php/doc-en)
-4. 💪 Opened PR [#44](https://github.com/JustSteveKing/LaravelPostcodes/pull/44) in [JustSteveKing/LaravelPostcodes](https://github.com/JustSteveKing/LaravelPostcodes)
-5. 🎉 Merged PR [#16](https://github.com/thinkverse/thinkverse.dev/pull/16) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+1. 💪 Opened PR [#39](https://github.com/php/doc-fr/pull/39) in [php/doc-fr](https://github.com/php/doc-fr)
+2. 💪 Opened PR [#629](https://github.com/php/doc-en/pull/629) in [php/doc-en](https://github.com/php/doc-en)
+3. 🗣 Commented on [#576](https://github.com/php/doc-en/issues/576) in [php/doc-en](https://github.com/php/doc-en)
+4. 🗣 Commented on [#566](https://github.com/php/doc-en/issues/566) in [php/doc-en](https://github.com/php/doc-en)
+5. 💪 Opened PR [#44](https://github.com/JustSteveKing/LaravelPostcodes/pull/44) in [JustSteveKing/LaravelPostcodes](https://github.com/JustSteveKing/LaravelPostcodes)
 <!--END_SECTION:activity-->
 
 <p align="center">
