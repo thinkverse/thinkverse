@@ -16,11 +16,11 @@
 
 ### RECENT DEV.TO POST
 <!-- BLOG-POST-LIST:START -->
+- [The future of Responsive Design with Container Queries.](https://dev.to/thinkverse/the-future-of-responsive-design-with-container-queries-26d0)
 - [You don’t necessarily need Composer](https://dev.to/thinkverse/you-don-t-necessarily-need-composer-n71)
 - [Laravel Quickie: Basic Controllers](https://dev.to/thinkverse/laravel-quickie-basic-controllers-4jdj)
 - [Laravel Quickie: How to install and build TailwindCSS v2 with Laravel Mix 😎](https://dev.to/thinkverse/laravel-quickie-how-to-install-and-build-tailwindcss-v2-with-laravel-mix-3k81)
 - [Useful HTML codes with a quick click. 👍](https://dev.to/thinkverse/useful-html-codes-with-a-quick-click-opi)
-- [First time participating in Hacktoberfest. 🎉](https://dev.to/thinkverse/first-time-participating-in-hacktoberfest-ji)
 <!-- BLOG-POST-LIST:END -->
 
 ### RECENT ACTIVITY
