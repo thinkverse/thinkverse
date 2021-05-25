@@ -25,11 +25,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/php/doc-de/pull/14) in [php/doc-de](https://github.com/php/doc-de)
-2. 💪 Opened PR [#39](https://github.com/php/doc-fr/pull/39) in [php/doc-fr](https://github.com/php/doc-fr)
-3. 💪 Opened PR [#629](https://github.com/php/doc-en/pull/629) in [php/doc-en](https://github.com/php/doc-en)
-4. 🗣 Commented on [#576](https://github.com/php/doc-en/issues/576) in [php/doc-en](https://github.com/php/doc-en)
-5. 🗣 Commented on [#566](https://github.com/php/doc-en/issues/566) in [php/doc-en](https://github.com/php/doc-en)
+1. 💪 Opened PR [#630](https://github.com/php/doc-en/pull/630) in [php/doc-en](https://github.com/php/doc-en)
+2. 💪 Opened PR [#14](https://github.com/php/doc-de/pull/14) in [php/doc-de](https://github.com/php/doc-de)
+3. 💪 Opened PR [#39](https://github.com/php/doc-fr/pull/39) in [php/doc-fr](https://github.com/php/doc-fr)
+4. 💪 Opened PR [#629](https://github.com/php/doc-en/pull/629) in [php/doc-en](https://github.com/php/doc-en)
+5. 🗣 Commented on [#576](https://github.com/php/doc-en/issues/576) in [php/doc-en](https://github.com/php/doc-en)
 <!--END_SECTION:activity-->
 
 <p align="center">
