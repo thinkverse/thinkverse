@@ -25,11 +25,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/erikaheidi/gdaisy/pull/1) in [erikaheidi/gdaisy](https://github.com/erikaheidi/gdaisy)
-2. ❌ Closed PR [#1](https://github.com/thedevdojo/laravel-reactions/pull/1) in [thedevdojo/laravel-reactions](https://github.com/thedevdojo/laravel-reactions)
-3. ❌ Closed PR [#74](https://github.com/mvdnbrk/laravel-mix-docs/pull/74) in [mvdnbrk/laravel-mix-docs](https://github.com/mvdnbrk/laravel-mix-docs)
-4. 🗣 Commented on [#311](https://github.com/pestphp/pest/issues/311) in [pestphp/pest](https://github.com/pestphp/pest)
-5. 💪 Opened PR [#183](https://github.com/Heptagram-Bot/Heptagram/pull/183) in [Heptagram-Bot/Heptagram](https://github.com/Heptagram-Bot/Heptagram)
+1. 💪 Opened PR [#2](https://github.com/erikaheidi/gdaisy/pull/2) in [erikaheidi/gdaisy](https://github.com/erikaheidi/gdaisy)
+2. 💪 Opened PR [#1](https://github.com/erikaheidi/gdaisy/pull/1) in [erikaheidi/gdaisy](https://github.com/erikaheidi/gdaisy)
+3. ❌ Closed PR [#1](https://github.com/thedevdojo/laravel-reactions/pull/1) in [thedevdojo/laravel-reactions](https://github.com/thedevdojo/laravel-reactions)
+4. ❌ Closed PR [#74](https://github.com/mvdnbrk/laravel-mix-docs/pull/74) in [mvdnbrk/laravel-mix-docs](https://github.com/mvdnbrk/laravel-mix-docs)
+5. 🗣 Commented on [#311](https://github.com/pestphp/pest/issues/311) in [pestphp/pest](https://github.com/pestphp/pest)
 <!--END_SECTION:activity-->
 
 <p align="center">
