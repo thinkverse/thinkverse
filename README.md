@@ -25,11 +25,11 @@
 
 ### RECENT ACTIVITY
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/librarianphp/librarian-core/pull/3) in [librarianphp/librarian-core](https://github.com/librarianphp/librarian-core)
-2. 💪 Opened PR [#2](https://github.com/erikaheidi/gdaisy/pull/2) in [erikaheidi/gdaisy](https://github.com/erikaheidi/gdaisy)
-3. 💪 Opened PR [#1](https://github.com/erikaheidi/gdaisy/pull/1) in [erikaheidi/gdaisy](https://github.com/erikaheidi/gdaisy)
-4. ❌ Closed PR [#1](https://github.com/thedevdojo/laravel-reactions/pull/1) in [thedevdojo/laravel-reactions](https://github.com/thedevdojo/laravel-reactions)
-5. ❌ Closed PR [#74](https://github.com/mvdnbrk/laravel-mix-docs/pull/74) in [mvdnbrk/laravel-mix-docs](https://github.com/mvdnbrk/laravel-mix-docs)
+1. 🗣 Commented on [#11](https://github.com/JustSteveKing/laravel-feature-flags/issues/11) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
+2. 💪 Opened PR [#3](https://github.com/librarianphp/librarian-core/pull/3) in [librarianphp/librarian-core](https://github.com/librarianphp/librarian-core)
+3. 💪 Opened PR [#2](https://github.com/erikaheidi/gdaisy/pull/2) in [erikaheidi/gdaisy](https://github.com/erikaheidi/gdaisy)
+4. 💪 Opened PR [#1](https://github.com/erikaheidi/gdaisy/pull/1) in [erikaheidi/gdaisy](https://github.com/erikaheidi/gdaisy)
+5. ❌ Closed PR [#1](https://github.com/thedevdojo/laravel-reactions/pull/1) in [thedevdojo/laravel-reactions](https://github.com/thedevdojo/laravel-reactions)
 <!--END_SECTION:activity-->
 
 <p align="center">
