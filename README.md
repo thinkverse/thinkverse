@@ -7,11 +7,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO-POST-LIST:START -->
+- [Solving Multisoft&#039;s Monthly Code Challenge](https://devdojo.com/thinkverse/solving-multisofts-monthly-code-challenge)
 - [How to create a simple CLI app with MiniCLI.](https://devdojo.com/thinkverse/how-to-create-a-simple-cli-app-with-minicli)
 - [The future of Responsive Design with Container Queries.](https://devdojo.com/thinkverse/the-future-of-responsive-design-with-container-queries)
 - [You don’t necessarily need Composer](https://devdojo.com/thinkverse/you-dont-necessarily-need-composer)
 - [Laravel Quickie: How to install and build TailwindCSS v2 with Laravel Mix 😎](https://devdojo.com/thinkverse/laravel-quickie-how-to-install-and-build-tailwindcss-v2-with-laravel-mix)
-- [Laravel Quickie: Basic Controllers](https://devdojo.com/thinkverse/laravel-quickie-basic-controllers)
 <!-- DEVDOJO-POST-LIST:END -->
 
 ### RECENT DEV.TO POST
