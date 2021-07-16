@@ -1,7 +1,7 @@
 ### ABOUT ME
 
 - 🔭&nbsp;&nbsp; I’m currently working on deepening my knowledge of programming languages.
-- 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [devdojo], [dev.to] or [linkedin].
+- 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [devdojo], [dev.to], [linkedin] or [polywork].
 - 💬&nbsp;&nbsp; Ask me about anything you'd like.
 
 ### RECENT DEVDOJO POST
@@ -65,3 +65,4 @@
 [devdojo]: https://devdojo.com/thinkverse
 [dev.to]: https://dev.to/thinkverse
 [linkedin]: https://www.linkedin.com/in/thinkverse/
+[polywork]: https://www.polywork.com/thinkverse
