@@ -25,7 +25,7 @@
 <!-- DEVDOJO-POST-LIST:END -->
 
 <p align="center">
-<br><br>
+<br>
 <a href="https://badges.pufler.dev">
 <img src="https://badges.pufler.dev/years/thinkverse?logo=github" alt="Years on GitHub"/></a>
 <a href="https://badges.pufler.dev">
