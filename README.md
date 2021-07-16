@@ -24,16 +24,6 @@
 - [Laravel Quickie: How to install and build TailwindCSS v2 with Laravel Mix 😎](https://devdojo.com/thinkverse/laravel-quickie-how-to-install-and-build-tailwindcss-v2-with-laravel-mix)
 <!-- DEVDOJO-POST-LIST:END -->
 
-### RECENT DEV.TO POST
-
-<!-- BLOG-POST-LIST:START -->
-- [How to create a simple CLI app with MiniCLI.](https://dev.to/thinkverse/how-to-create-a-simple-cli-app-with-minicli-54na)
-- [The future of Responsive Design with Container Queries.](https://dev.to/thinkverse/the-future-of-responsive-design-with-container-queries-26d0)
-- [You don’t necessarily need Composer](https://dev.to/thinkverse/you-don-t-necessarily-need-composer-n71)
-- [Laravel Quickie: Basic Controllers](https://dev.to/thinkverse/laravel-quickie-basic-controllers-4jdj)
-- [Laravel Quickie: How to install and build TailwindCSS v2 with Laravel Mix 😎](https://dev.to/thinkverse/laravel-quickie-how-to-install-and-build-tailwindcss-v2-with-laravel-mix-3k81)
-<!-- BLOG-POST-LIST:END -->
-
 <p align="center">
 <br><br>
 <a href="https://badges.pufler.dev">
