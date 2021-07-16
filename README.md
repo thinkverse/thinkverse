@@ -41,23 +41,26 @@
 <a href="https://shields.io">
 <img src="https://img.shields.io/github/last-commit/thinkverse/thinkverse?label=Profile%20Updated&logo=github" alt="Profile last updated"/></a>
 <br><br>
+<a href="https://devdojo.com/thinkverse">
+<img src="./svg/devdojo.svg" alt="Thinkverse dev dojo profile" width="24px"/></a>
+&emsp;
 <a href="https://dev.to/thinkverse">
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thinkverse dev to profile" width="24px"/></a>
-&emsp;
-<a href= "https://instagram.com/thinkverse">
-<img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" alt="Thinkverse instagram profile" width="28px"/></a>
-&emsp;
-<a href="https://www.paypal.com/paypalme/thinkverse">
-<img src="https://img.icons8.com/ios-glyphs/256/000000/paypal.png" alt="Thinkverse pay pal me profile" width="28px"/></a> 
-&emsp;
-<a href="https://thinkverse.dev">
-<img src="https://img.icons8.com/material/256/000000/globe--v1.png" alt="Thinkverse personal website" width="28px"/></a>
-&emsp;
-<a href="https://linkedin.com/in/thinkverse">
-<img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" alt="Thinkverse linked in profile" width="26px"/></a>
+<img src="./svg/devto.svg" alt="Thinkverse dev to profile" width="24px"/></a>
 &emsp;
 <a href="https://twitter.com/thinkverse">
-<img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" alt="Thinkverse twitter profile" width="26px"/></a>
+<img src="./svg/twitter.svg" alt="Thinkverse twitter profile" width="24px"/></a>
+&emsp;
+<a href="https://www.polywork.com/thinkverse">
+<img src="./svg/polywork.svg" alt="Thinkverse poly work profile" width="24px"/></a>
+&emsp;
+<a href="https://linkedin.com/in/thinkverse">
+<img src="./svg/linkedin.svg" alt="Thinkverse linked in profile" width="24px"/></a>
+&emsp;
+<a href= "https://instagram.com/thinkverse">
+<img src="./svg/instagram.svg" alt="Thinkverse instagram profile" width="24px"/></a>
+&emsp;
+<a href="https://www.paypal.com/paypalme/thinkverse">
+<img src="./svg/paypal.svg" alt="Thinkverse pay pal me profile" width="24px"/></a> 
 </p>
 
 [email]: mailto:work@hallberg.kim
