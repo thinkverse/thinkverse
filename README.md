@@ -53,6 +53,9 @@
 &emsp;
 <a href="https://paypal.com/paypalme/thinkverse">
 <img src="./svg/paypal.svg" alt="Thinkverse pay pal me profile" width="24px"/></a> 
+&emsp;
+<a href="https://buymeacoffee.com/thinkverse">
+<img src="./svg/buymeacoffee.svg" alt="Thinkverse buy me a coffee profile" width="24px"/></a> 
 </p>
 
 [email]: mailto:work@hallberg.kim
