@@ -17,11 +17,11 @@
 ### RECENT DEVDOJO POST
 
 <!-- DEVDOJO-POST-LIST:START -->
+- [How to use BuyMeACoffees webhooks with Laravel.](https://devdojo.com/thinkverse/how-to-use-bmcs-webhooks-with-laravel)
 - [Solving Multisoft&#039;s Monthly Code Challenge](https://devdojo.com/thinkverse/solving-multisofts-monthly-code-challenge)
 - [How to create a simple CLI app with MiniCLI.](https://devdojo.com/thinkverse/how-to-create-a-simple-cli-app-with-minicli)
 - [The future of Responsive Design with Container Queries.](https://devdojo.com/thinkverse/the-future-of-responsive-design-with-container-queries)
 - [You don’t necessarily need Composer](https://devdojo.com/thinkverse/you-dont-necessarily-need-composer)
-- [Laravel Quickie: How to install and build TailwindCSS v2 with Laravel Mix 😎](https://devdojo.com/thinkverse/laravel-quickie-how-to-install-and-build-tailwindcss-v2-with-laravel-mix)
 <!-- DEVDOJO-POST-LIST:END -->
 
 <p align="center">
