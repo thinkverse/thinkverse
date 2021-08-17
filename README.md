@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#172](https://github.com/jordansamuel/PASTE/issues/172) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-2. 🗣 Commented on [#170](https://github.com/jordansamuel/PASTE/issues/170) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-3. 💪 Opened PR [#172](https://github.com/jordansamuel/PASTE/pull/172) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-4. 🗣 Commented on [#10](https://github.com/githubtraining/write-docker-actions/issues/10) in [githubtraining/write-docker-actions](https://github.com/githubtraining/write-docker-actions)
-5. 🗣 Commented on [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+1. 🗣 Commented on [#160](https://github.com/jordansamuel/PASTE/issues/160) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+2. ❗️ Closed issue [#171](https://github.com/jordansamuel/PASTE/issues/171) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+3. ❗️ Closed issue [#170](https://github.com/jordansamuel/PASTE/issues/170) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+4. 🗣 Commented on [#170](https://github.com/jordansamuel/PASTE/issues/170) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+5. 🗣 Commented on [#172](https://github.com/jordansamuel/PASTE/issues/172) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
