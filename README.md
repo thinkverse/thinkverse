@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#134](https://github.com/jordansamuel/PASTE/issues/134) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-2. 🗣 Commented on [#128](https://github.com/jordansamuel/PASTE/issues/128) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-3. 🗣 Commented on [#70](https://github.com/jordansamuel/PASTE/issues/70) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-4. 🗣 Commented on [#163](https://github.com/jordansamuel/PASTE/issues/163) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-5. 🎉 Merged PR [#167](https://github.com/jordansamuel/PASTE/pull/167) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+1. 🗣 Commented on [#131](https://github.com/jordansamuel/PASTE/issues/131) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+2. ❗️ Closed issue [#163](https://github.com/jordansamuel/PASTE/issues/163) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+3. 🗣 Commented on [#134](https://github.com/jordansamuel/PASTE/issues/134) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+4. 🗣 Commented on [#128](https://github.com/jordansamuel/PASTE/issues/128) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+5. 🗣 Commented on [#70](https://github.com/jordansamuel/PASTE/issues/70) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
