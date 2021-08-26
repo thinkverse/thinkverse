@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/jordansamuel/PASTE/issues/173) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-2. 🗣 Commented on [#131](https://github.com/jordansamuel/PASTE/issues/131) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-3. ❗️ Closed issue [#163](https://github.com/jordansamuel/PASTE/issues/163) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-4. 🗣 Commented on [#134](https://github.com/jordansamuel/PASTE/issues/134) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-5. 🗣 Commented on [#128](https://github.com/jordansamuel/PASTE/issues/128) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+1. ❗️ Closed issue [#287](https://github.com/thedevdojo/tails/issues/287) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+2. 🗣 Commented on [#287](https://github.com/thedevdojo/tails/issues/287) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+3. ❗️ Closed issue [#288](https://github.com/thedevdojo/tails/issues/288) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+4. 🗣 Commented on [#288](https://github.com/thedevdojo/tails/issues/288) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. 🗣 Commented on [#173](https://github.com/jordansamuel/PASTE/issues/173) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
