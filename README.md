@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#287](https://github.com/thedevdojo/tails/issues/287) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. 🗣 Commented on [#287](https://github.com/thedevdojo/tails/issues/287) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-3. ❗️ Closed issue [#288](https://github.com/thedevdojo/tails/issues/288) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-4. 🗣 Commented on [#288](https://github.com/thedevdojo/tails/issues/288) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-5. 🗣 Commented on [#173](https://github.com/jordansamuel/PASTE/issues/173) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+1. 🎉 Merged PR [#22](https://github.com/thinkverse/thinkverse.dev/pull/22) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+2. 🎉 Merged PR [#20](https://github.com/thinkverse/thinkverse.dev/pull/20) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+3. 🎉 Merged PR [#21](https://github.com/thinkverse/thinkverse.dev/pull/21) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+4. ❗️ Closed issue [#287](https://github.com/thedevdojo/tails/issues/287) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. 🗣 Commented on [#287](https://github.com/thedevdojo/tails/issues/287) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
