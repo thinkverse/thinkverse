@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#899](https://github.com/php/doc-en/issues/899) in [php/doc-en](https://github.com/php/doc-en)
-2. 🎉 Merged PR [#22](https://github.com/thinkverse/thinkverse.dev/pull/22) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-3. 🎉 Merged PR [#20](https://github.com/thinkverse/thinkverse.dev/pull/20) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-4. 🎉 Merged PR [#21](https://github.com/thinkverse/thinkverse.dev/pull/21) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-5. ❗️ Closed issue [#287](https://github.com/thedevdojo/tails/issues/287) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+1. 💪 Opened PR [#922](https://github.com/php/doc-en/pull/922) in [php/doc-en](https://github.com/php/doc-en)
+2. 🗣 Commented on [#899](https://github.com/php/doc-en/issues/899) in [php/doc-en](https://github.com/php/doc-en)
+3. 🎉 Merged PR [#22](https://github.com/thinkverse/thinkverse.dev/pull/22) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+4. 🎉 Merged PR [#20](https://github.com/thinkverse/thinkverse.dev/pull/20) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+5. 🎉 Merged PR [#21](https://github.com/thinkverse/thinkverse.dev/pull/21) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
