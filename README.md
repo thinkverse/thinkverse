@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#931](https://github.com/php/doc-en/issues/931) in [php/doc-en](https://github.com/php/doc-en)
-2. 💪 Opened PR [#931](https://github.com/php/doc-en/pull/931) in [php/doc-en](https://github.com/php/doc-en)
-3. 💪 Opened PR [#930](https://github.com/php/doc-en/pull/930) in [php/doc-en](https://github.com/php/doc-en)
-4. 💪 Opened PR [#922](https://github.com/php/doc-en/pull/922) in [php/doc-en](https://github.com/php/doc-en)
-5. 🗣 Commented on [#899](https://github.com/php/doc-en/issues/899) in [php/doc-en](https://github.com/php/doc-en)
+1. 💪 Opened PR [#934](https://github.com/php/doc-en/pull/934) in [php/doc-en](https://github.com/php/doc-en)
+2. 🗣 Commented on [#931](https://github.com/php/doc-en/issues/931) in [php/doc-en](https://github.com/php/doc-en)
+3. 💪 Opened PR [#931](https://github.com/php/doc-en/pull/931) in [php/doc-en](https://github.com/php/doc-en)
+4. 💪 Opened PR [#930](https://github.com/php/doc-en/pull/930) in [php/doc-en](https://github.com/php/doc-en)
+5. 💪 Opened PR [#922](https://github.com/php/doc-en/pull/922) in [php/doc-en](https://github.com/php/doc-en)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
