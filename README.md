@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#903](https://github.com/php/doc-en/issues/903) in [php/doc-en](https://github.com/php/doc-en)
-2. 🗣 Commented on [#181](https://github.com/jordansamuel/PASTE/issues/181) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+1. 💪 Opened PR [#952](https://github.com/php/doc-en/pull/952) in [php/doc-en](https://github.com/php/doc-en)
+2. 🗣 Commented on [#903](https://github.com/php/doc-en/issues/903) in [php/doc-en](https://github.com/php/doc-en)
 3. 🗣 Commented on [#181](https://github.com/jordansamuel/PASTE/issues/181) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-4. 💪 Opened PR [#937](https://github.com/php/doc-en/pull/937) in [php/doc-en](https://github.com/php/doc-en)
-5. 🗣 Commented on [#180](https://github.com/jordansamuel/PASTE/issues/180) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+4. 🗣 Commented on [#181](https://github.com/jordansamuel/PASTE/issues/181) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+5. 💪 Opened PR [#937](https://github.com/php/doc-en/pull/937) in [php/doc-en](https://github.com/php/doc-en)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
