@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/BGHDDevelopment/LuckPermsGUI/pull/12) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
-2. 💪 Opened PR [#952](https://github.com/php/doc-en/pull/952) in [php/doc-en](https://github.com/php/doc-en)
-3. 🗣 Commented on [#903](https://github.com/php/doc-en/issues/903) in [php/doc-en](https://github.com/php/doc-en)
-4. 🗣 Commented on [#181](https://github.com/jordansamuel/PASTE/issues/181) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-5. 🗣 Commented on [#181](https://github.com/jordansamuel/PASTE/issues/181) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+1. ❌ Closed PR [#12](https://github.com/BGHDDevelopment/LuckPermsGUI/pull/12) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
+2. 🗣 Commented on [#12](https://github.com/BGHDDevelopment/LuckPermsGUI/issues/12) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
+3. 💪 Opened PR [#12](https://github.com/BGHDDevelopment/LuckPermsGUI/pull/12) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
+4. 💪 Opened PR [#952](https://github.com/php/doc-en/pull/952) in [php/doc-en](https://github.com/php/doc-en)
+5. 🗣 Commented on [#903](https://github.com/php/doc-en/issues/903) in [php/doc-en](https://github.com/php/doc-en)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
