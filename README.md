@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#295](https://github.com/thedevdojo/tails/pull/295) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. 🗣 Commented on [#5](https://github.com/thedevdojo/tails/issues/5) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-3. 🎉 Merged PR [#294](https://github.com/thedevdojo/tails/pull/294) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-4. 💪 Opened PR [#1792](https://github.com/appwrite/appwrite/pull/1792) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-5. 💪 Opened PR [#28](https://github.com/utopia-php/framework/pull/28) in [utopia-php/framework](https://github.com/utopia-php/framework)
+1. 🗣 Commented on [#242](https://github.com/thedevdojo/tails/issues/242) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+2. 🎉 Merged PR [#295](https://github.com/thedevdojo/tails/pull/295) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+3. 🗣 Commented on [#5](https://github.com/thedevdojo/tails/issues/5) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+4. 🎉 Merged PR [#294](https://github.com/thedevdojo/tails/pull/294) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. 💪 Opened PR [#1792](https://github.com/appwrite/appwrite/pull/1792) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
