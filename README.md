@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#296](https://github.com/thedevdojo/tails/issues/296) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. ❌ Closed PR [#296](https://github.com/thedevdojo/tails/pull/296) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-3. ❗️ Closed issue [#13](https://github.com/thinkverse/release-based-workflow/issues/13) in [thinkverse/release-based-workflow](https://github.com/thinkverse/release-based-workflow)
-4. 🗣 Commented on [#242](https://github.com/thedevdojo/tails/issues/242) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-5. 🎉 Merged PR [#295](https://github.com/thedevdojo/tails/pull/295) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+1. ❌ Closed PR [#1792](https://github.com/appwrite/appwrite/pull/1792) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🗣 Commented on [#1792](https://github.com/appwrite/appwrite/issues/1792) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+3. 🗣 Commented on [#296](https://github.com/thedevdojo/tails/issues/296) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+4. ❌ Closed PR [#296](https://github.com/thedevdojo/tails/pull/296) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. ❗️ Closed issue [#13](https://github.com/thinkverse/release-based-workflow/issues/13) in [thinkverse/release-based-workflow](https://github.com/thinkverse/release-based-workflow)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
