@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#314](https://github.com/thedevdojo/tails/pull/314) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. 🗣 Commented on [#314](https://github.com/thedevdojo/tails/issues/314) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-3. ❌ Closed PR [#310](https://github.com/thedevdojo/tails/pull/310) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-4. 🗣 Commented on [#310](https://github.com/thedevdojo/tails/issues/310) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-5. 🗣 Commented on [#309](https://github.com/thedevdojo/tails/issues/309) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+1. ❌ Closed PR [#321](https://github.com/thedevdojo/tails/pull/321) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+2. 🗣 Commented on [#321](https://github.com/thedevdojo/tails/issues/321) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+3. 🗣 Commented on [#320](https://github.com/thedevdojo/tails/issues/320) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+4. ❌ Closed PR [#320](https://github.com/thedevdojo/tails/pull/320) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. ❌ Closed PR [#318](https://github.com/thedevdojo/tails/pull/318) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
