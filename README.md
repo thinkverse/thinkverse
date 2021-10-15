@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#336](https://github.com/thedevdojo/tails/pull/336) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. 🗣 Commented on [#336](https://github.com/thedevdojo/tails/issues/336) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-3. ❌ Closed PR [#333](https://github.com/thedevdojo/tails/pull/333) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-4. 🗣 Commented on [#333](https://github.com/thedevdojo/tails/issues/333) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-5. ❌ Closed PR [#321](https://github.com/thedevdojo/tails/pull/321) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+1. 🗣 Commented on [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+2. ❌ Closed PR [#336](https://github.com/thedevdojo/tails/pull/336) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+3. 🗣 Commented on [#336](https://github.com/thedevdojo/tails/issues/336) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+4. ❌ Closed PR [#333](https://github.com/thedevdojo/tails/pull/333) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. 🗣 Commented on [#333](https://github.com/thedevdojo/tails/issues/333) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
