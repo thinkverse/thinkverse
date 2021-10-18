@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/lukeraymonddowning/pest-plugin-larastrap/pull/1) in [lukeraymonddowning/pest-plugin-larastrap](https://github.com/lukeraymonddowning/pest-plugin-larastrap)
-2. 🗣 Commented on [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
-3. ❌ Closed PR [#336](https://github.com/thedevdojo/tails/pull/336) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-4. 🗣 Commented on [#336](https://github.com/thedevdojo/tails/issues/336) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-5. ❌ Closed PR [#333](https://github.com/thedevdojo/tails/pull/333) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+1. 🗣 Commented on [#2](https://github.com/LaravelDaily/Test-Laravel-Routes/issues/2) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
+2. 💪 Opened PR [#2](https://github.com/LaravelDaily/Test-Laravel-Routes/pull/2) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
+3. 💪 Opened PR [#1](https://github.com/lukeraymonddowning/pest-plugin-larastrap/pull/1) in [lukeraymonddowning/pest-plugin-larastrap](https://github.com/lukeraymonddowning/pest-plugin-larastrap)
+4. 🗣 Commented on [#23](https://github.com/WarenGonzaga/buymeacoffee.js/issues/23) in [WarenGonzaga/buymeacoffee.js](https://github.com/WarenGonzaga/buymeacoffee.js)
+5. ❌ Closed PR [#336](https://github.com/thedevdojo/tails/pull/336) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
