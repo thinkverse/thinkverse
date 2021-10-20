@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#168](https://github.com/antonioribeiro/google2fa/issues/168) in [antonioribeiro/google2fa](https://github.com/antonioribeiro/google2fa)
-2. 🗣 Commented on [#182](https://github.com/jordansamuel/PASTE/issues/182) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-3. 🗣 Commented on [#183](https://github.com/jordansamuel/PASTE/issues/183) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-4. 🗣 Commented on [#344](https://github.com/thedevdojo/tails/issues/344) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-5. 🎉 Merged PR [#344](https://github.com/thedevdojo/tails/pull/344) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+1. 🗣 Commented on [#937](https://github.com/php/doc-en/issues/937) in [php/doc-en](https://github.com/php/doc-en)
+2. 🗣 Commented on [#168](https://github.com/antonioribeiro/google2fa/issues/168) in [antonioribeiro/google2fa](https://github.com/antonioribeiro/google2fa)
+3. 🗣 Commented on [#182](https://github.com/jordansamuel/PASTE/issues/182) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+4. 🗣 Commented on [#183](https://github.com/jordansamuel/PASTE/issues/183) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+5. 🗣 Commented on [#344](https://github.com/thedevdojo/tails/issues/344) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
