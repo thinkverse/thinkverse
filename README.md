@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#344](https://github.com/thedevdojo/tails/issues/344) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. 🎉 Merged PR [#344](https://github.com/thedevdojo/tails/pull/344) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-3. 🗣 Commented on [#2](https://github.com/LaravelDaily/Test-Laravel-Routes/issues/2) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
-4. 💪 Opened PR [#2](https://github.com/LaravelDaily/Test-Laravel-Routes/pull/2) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
-5. 💪 Opened PR [#1](https://github.com/lukeraymonddowning/pest-plugin-larastrap/pull/1) in [lukeraymonddowning/pest-plugin-larastrap](https://github.com/lukeraymonddowning/pest-plugin-larastrap)
+1. 🗣 Commented on [#182](https://github.com/jordansamuel/PASTE/issues/182) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+2. 🗣 Commented on [#183](https://github.com/jordansamuel/PASTE/issues/183) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+3. 🗣 Commented on [#344](https://github.com/thedevdojo/tails/issues/344) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+4. 🎉 Merged PR [#344](https://github.com/thedevdojo/tails/pull/344) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. 🗣 Commented on [#2](https://github.com/LaravelDaily/Test-Laravel-Routes/issues/2) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
