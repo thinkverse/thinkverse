@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#351](https://github.com/thedevdojo/tails/pull/351) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. 🗣 Commented on [#351](https://github.com/thedevdojo/tails/issues/351) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-3. ❌ Closed PR [#350](https://github.com/thedevdojo/tails/pull/350) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-4. 🗣 Commented on [#350](https://github.com/thedevdojo/tails/issues/350) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-5. ❌ Closed PR [#348](https://github.com/thedevdojo/tails/pull/348) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+1. 🗣 Commented on [#1](https://github.com/lukeraymonddowning/pest-plugin-larastrap/issues/1) in [lukeraymonddowning/pest-plugin-larastrap](https://github.com/lukeraymonddowning/pest-plugin-larastrap)
+2. ❌ Closed PR [#351](https://github.com/thedevdojo/tails/pull/351) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+3. 🗣 Commented on [#351](https://github.com/thedevdojo/tails/issues/351) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+4. ❌ Closed PR [#350](https://github.com/thedevdojo/tails/pull/350) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. 🗣 Commented on [#350](https://github.com/thedevdojo/tails/issues/350) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
