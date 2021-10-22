@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#348](https://github.com/thedevdojo/tails/pull/348) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. 🗣 Commented on [#348](https://github.com/thedevdojo/tails/issues/348) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-3. 🗣 Commented on [#937](https://github.com/php/doc-en/issues/937) in [php/doc-en](https://github.com/php/doc-en)
-4. 🗣 Commented on [#168](https://github.com/antonioribeiro/google2fa/issues/168) in [antonioribeiro/google2fa](https://github.com/antonioribeiro/google2fa)
-5. 🗣 Commented on [#182](https://github.com/jordansamuel/PASTE/issues/182) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+1. ❌ Closed PR [#351](https://github.com/thedevdojo/tails/pull/351) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+2. 🗣 Commented on [#351](https://github.com/thedevdojo/tails/issues/351) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+3. ❌ Closed PR [#350](https://github.com/thedevdojo/tails/pull/350) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+4. 🗣 Commented on [#350](https://github.com/thedevdojo/tails/issues/350) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. ❌ Closed PR [#348](https://github.com/thedevdojo/tails/pull/348) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
