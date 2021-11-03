@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#116](https://github.com/pestphp/docs/pull/116) in [pestphp/docs](https://github.com/pestphp/docs)
-2. 💪 Opened PR [#2](https://github.com/LaravelDaily/Test-Laravel-Blade-Basics/pull/2) in [LaravelDaily/Test-Laravel-Blade-Basics](https://github.com/LaravelDaily/Test-Laravel-Blade-Basics)
-3. 🗣 Commented on [#1](https://github.com/lukeraymonddowning/pest-plugin-larastrap/issues/1) in [lukeraymonddowning/pest-plugin-larastrap](https://github.com/lukeraymonddowning/pest-plugin-larastrap)
-4. ❌ Closed PR [#351](https://github.com/thedevdojo/tails/pull/351) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-5. 🗣 Commented on [#351](https://github.com/thedevdojo/tails/issues/351) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+1. 💪 Opened PR [#1](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics/pull/1) in [LaravelDaily/Test-Laravel-Auth-Basics](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics)
+2. 💪 Opened PR [#116](https://github.com/pestphp/docs/pull/116) in [pestphp/docs](https://github.com/pestphp/docs)
+3. 💪 Opened PR [#2](https://github.com/LaravelDaily/Test-Laravel-Blade-Basics/pull/2) in [LaravelDaily/Test-Laravel-Blade-Basics](https://github.com/LaravelDaily/Test-Laravel-Blade-Basics)
+4. 🗣 Commented on [#1](https://github.com/lukeraymonddowning/pest-plugin-larastrap/issues/1) in [lukeraymonddowning/pest-plugin-larastrap](https://github.com/lukeraymonddowning/pest-plugin-larastrap)
+5. ❌ Closed PR [#351](https://github.com/thedevdojo/tails/pull/351) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
