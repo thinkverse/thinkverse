@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/6) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
-2. 🗣 Commented on [#3](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/3) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
-3. 💪 Opened PR [#3](https://github.com/LaravelDaily/Test-Laravel-Migrations/pull/3) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
-4. 🗣 Commented on [#1](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/1) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
-5. 💪 Opened PR [#1](https://github.com/LaravelDaily/Test-Laravel-Migrations/pull/1) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
+1. 💪 Opened PR [#35](https://github.com/thedevdojo/wave/pull/35) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+2. 🗣 Commented on [#6](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/6) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
+3. 🗣 Commented on [#3](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/3) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
+4. 💪 Opened PR [#3](https://github.com/LaravelDaily/Test-Laravel-Migrations/pull/3) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
+5. 🗣 Commented on [#1](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/1) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
