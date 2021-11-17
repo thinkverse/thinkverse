@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/LaravelDaily/Test-Laravel-Eloquent-Basics/pull/1) in [LaravelDaily/Test-Laravel-Eloquent-Basics](https://github.com/LaravelDaily/Test-Laravel-Eloquent-Basics)
-2. 💪 Opened PR [#36](https://github.com/thedevdojo/wave/pull/36) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-3. 💪 Opened PR [#35](https://github.com/thedevdojo/wave/pull/35) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-4. 🗣 Commented on [#6](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/6) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
-5. 🗣 Commented on [#3](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/3) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
+1. 🗣 Commented on [#772](https://github.com/SocialiteProviders/Providers/issues/772) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
+2. 💪 Opened PR [#772](https://github.com/SocialiteProviders/Providers/pull/772) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
+3. ❗️ Opened issue [#247](https://github.com/producthunt/producthunt-api/issues/247) in [producthunt/producthunt-api](https://github.com/producthunt/producthunt-api)
+4. 💪 Opened PR [#1](https://github.com/LaravelDaily/Test-Laravel-Eloquent-Basics/pull/1) in [LaravelDaily/Test-Laravel-Eloquent-Basics](https://github.com/LaravelDaily/Test-Laravel-Eloquent-Basics)
+5. 💪 Opened PR [#36](https://github.com/thedevdojo/wave/pull/36) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
