@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#771](https://github.com/SocialiteProviders/Providers/issues/771) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
-2. 🗣 Commented on [#772](https://github.com/SocialiteProviders/Providers/issues/772) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
-3. 💪 Opened PR [#772](https://github.com/SocialiteProviders/Providers/pull/772) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
-4. ❗️ Opened issue [#247](https://github.com/producthunt/producthunt-api/issues/247) in [producthunt/producthunt-api](https://github.com/producthunt/producthunt-api)
-5. 💪 Opened PR [#1](https://github.com/LaravelDaily/Test-Laravel-Eloquent-Basics/pull/1) in [LaravelDaily/Test-Laravel-Eloquent-Basics](https://github.com/LaravelDaily/Test-Laravel-Eloquent-Basics)
+1. 🗣 Commented on [#119](https://github.com/laravel-notification-channels/channels/issues/119) in [laravel-notification-channels/channels](https://github.com/laravel-notification-channels/channels)
+2. 🗣 Commented on [#771](https://github.com/SocialiteProviders/Providers/issues/771) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
+3. 🗣 Commented on [#772](https://github.com/SocialiteProviders/Providers/issues/772) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
+4. 💪 Opened PR [#772](https://github.com/SocialiteProviders/Providers/pull/772) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
+5. ❗️ Opened issue [#247](https://github.com/producthunt/producthunt-api/issues/247) in [producthunt/producthunt-api](https://github.com/producthunt/producthunt-api)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
