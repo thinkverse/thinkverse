@@ -7,11 +7,11 @@
 ### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/LaravelDaily/Test-Eloquent-Relationships/issues/1) in [LaravelDaily/Test-Eloquent-Relationships](https://github.com/LaravelDaily/Test-Eloquent-Relationships)
-2. 💪 Opened PR [#2](https://github.com/LaravelDaily/Test-Eloquent-Relationships/pull/2) in [LaravelDaily/Test-Eloquent-Relationships](https://github.com/LaravelDaily/Test-Eloquent-Relationships)
-3. 💪 Opened PR [#1](https://github.com/LaravelDaily/Test-Eloquent-Relationships/pull/1) in [LaravelDaily/Test-Eloquent-Relationships](https://github.com/LaravelDaily/Test-Eloquent-Relationships)
-4. 🗣 Commented on [#23](https://github.com/LaravelDaily/Test-Laravel-Eloquent-Basics/issues/23) in [LaravelDaily/Test-Laravel-Eloquent-Basics](https://github.com/LaravelDaily/Test-Laravel-Eloquent-Basics)
-5. 🗣 Commented on [#119](https://github.com/laravel-notification-channels/channels/issues/119) in [laravel-notification-channels/channels](https://github.com/laravel-notification-channels/channels)
+1. 🗣 Commented on [#28](https://github.com/LaravelDaily/Test-Eloquent-Relationships/issues/28) in [LaravelDaily/Test-Eloquent-Relationships](https://github.com/LaravelDaily/Test-Eloquent-Relationships)
+2. 💪 Opened PR [#45](https://github.com/LaravelDaily/Test-Eloquent-Relationships/pull/45) in [LaravelDaily/Test-Eloquent-Relationships](https://github.com/LaravelDaily/Test-Eloquent-Relationships)
+3. 🗣 Commented on [#1](https://github.com/LaravelDaily/Test-Eloquent-Relationships/issues/1) in [LaravelDaily/Test-Eloquent-Relationships](https://github.com/LaravelDaily/Test-Eloquent-Relationships)
+4. 💪 Opened PR [#2](https://github.com/LaravelDaily/Test-Eloquent-Relationships/pull/2) in [LaravelDaily/Test-Eloquent-Relationships](https://github.com/LaravelDaily/Test-Eloquent-Relationships)
+5. 💪 Opened PR [#1](https://github.com/LaravelDaily/Test-Eloquent-Relationships/pull/1) in [LaravelDaily/Test-Eloquent-Relationships](https://github.com/LaravelDaily/Test-Eloquent-Relationships)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
