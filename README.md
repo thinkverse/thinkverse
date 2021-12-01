@@ -8,10 +8,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/LaravelDaily/Test-Laravel-Validation/issues/1) in [LaravelDaily/Test-Laravel-Validation](https://github.com/LaravelDaily/Test-Laravel-Validation)
-2. 💪 Opened PR [#1](https://github.com/LaravelDaily/Test-Laravel-Validation/pull/1) in [LaravelDaily/Test-Laravel-Validation](https://github.com/LaravelDaily/Test-Laravel-Validation)
-3. 🗣 Commented on [#771](https://github.com/SocialiteProviders/Providers/issues/771) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
-4. 🗣 Commented on [#48](https://github.com/LaravelDaily/Test-Eloquent-Relationships/issues/48) in [LaravelDaily/Test-Eloquent-Relationships](https://github.com/LaravelDaily/Test-Eloquent-Relationships)
-5. 🗣 Commented on [#38](https://github.com/LaravelDaily/Test-Eloquent-Relationships/issues/38) in [LaravelDaily/Test-Eloquent-Relationships](https://github.com/LaravelDaily/Test-Eloquent-Relationships)
+2. 🗣 Commented on [#1](https://github.com/LaravelDaily/Test-Laravel-Validation/issues/1) in [LaravelDaily/Test-Laravel-Validation](https://github.com/LaravelDaily/Test-Laravel-Validation)
+3. 💪 Opened PR [#1](https://github.com/LaravelDaily/Test-Laravel-Validation/pull/1) in [LaravelDaily/Test-Laravel-Validation](https://github.com/LaravelDaily/Test-Laravel-Validation)
+4. 🗣 Commented on [#771](https://github.com/SocialiteProviders/Providers/issues/771) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
+5. 🗣 Commented on [#48](https://github.com/LaravelDaily/Test-Eloquent-Relationships/issues/48) in [LaravelDaily/Test-Eloquent-Relationships](https://github.com/LaravelDaily/Test-Eloquent-Relationships)
 <!--END_SECTION:activity-->
 
 ### RECENT DEVDOJO POST
