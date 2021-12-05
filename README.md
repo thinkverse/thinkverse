@@ -1,10 +1,13 @@
-### ABOUT ME
+#### Freelance web developer working from Stockholm, Sweden.
 
+#### ABOUT ME
+
+- ⚙️&nbsp;&nbsp; Daily drivers: `.php`, `.js`, `.html`, `.css`, `.blade.php`, `.sql`
 - 🔭&nbsp;&nbsp; I’m currently working on deepening my knowledge of programming languages.
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [devdojo], [dev.to], [linkedin] or [polywork].
 - 💬&nbsp;&nbsp; Ask me about anything you'd like.
 
-### RECENT ACTIVITY
+#### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#116](https://github.com/freekmurze/freek-dev-comments/issues/116) in [freekmurze/freek-dev-comments](https://github.com/freekmurze/freek-dev-comments)
@@ -14,7 +17,7 @@
 5. 🗣 Commented on [#1](https://github.com/LaravelDaily/Test-Laravel-Validation/issues/1) in [LaravelDaily/Test-Laravel-Validation](https://github.com/LaravelDaily/Test-Laravel-Validation)
 <!--END_SECTION:activity-->
 
-### RECENT DEVDOJO POST
+#### RECENT BLOG POSTS
 
 <!-- DEVDOJO-POST-LIST:START -->
 - [How to Add Sign in With GitHub to Wave](https://devdojo.com/thinkverse/how-to-add-sign-in-with-github-to-wave)
