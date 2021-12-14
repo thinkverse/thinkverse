@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/thedevdojo/wave/issues/36) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-2. 💪 Opened PR [#2](https://github.com/LaravelDaily/Test-Laravel-File-Upload/pull/2) in [LaravelDaily/Test-Laravel-File-Upload](https://github.com/LaravelDaily/Test-Laravel-File-Upload)
-3. 🗣 Commented on [#101](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/101) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
-4. 🗣 Commented on [#116](https://github.com/freekmurze/freek-dev-comments/issues/116) in [freekmurze/freek-dev-comments](https://github.com/freekmurze/freek-dev-comments)
-5. 🗣 Commented on [#86](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/86) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
+1. 🎉 Merged PR [#14](https://github.com/BGHDDevelopment/LuckPermsGUI/pull/14) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
+2. 🗣 Commented on [#36](https://github.com/thedevdojo/wave/issues/36) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+3. 💪 Opened PR [#2](https://github.com/LaravelDaily/Test-Laravel-File-Upload/pull/2) in [LaravelDaily/Test-Laravel-File-Upload](https://github.com/LaravelDaily/Test-Laravel-File-Upload)
+4. 🗣 Commented on [#101](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/101) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
+5. 🗣 Commented on [#116](https://github.com/freekmurze/freek-dev-comments/issues/116) in [freekmurze/freek-dev-comments](https://github.com/freekmurze/freek-dev-comments)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
