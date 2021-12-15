@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#162](https://github.com/jordansamuel/PASTE/issues/162) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-2. 🎉 Merged PR [#14](https://github.com/BGHDDevelopment/LuckPermsGUI/pull/14) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
-3. 🗣 Commented on [#36](https://github.com/thedevdojo/wave/issues/36) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-4. 💪 Opened PR [#2](https://github.com/LaravelDaily/Test-Laravel-File-Upload/pull/2) in [LaravelDaily/Test-Laravel-File-Upload](https://github.com/LaravelDaily/Test-Laravel-File-Upload)
-5. 🗣 Commented on [#101](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/101) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
+1. 💪 Opened PR [#1](https://github.com/magarrent/wave/pull/1) in [magarrent/wave](https://github.com/magarrent/wave)
+2. 🗣 Commented on [#38](https://github.com/thedevdojo/wave/issues/38) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+3. 🗣 Commented on [#162](https://github.com/jordansamuel/PASTE/issues/162) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+4. 🎉 Merged PR [#14](https://github.com/BGHDDevelopment/LuckPermsGUI/pull/14) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
+5. 🗣 Commented on [#36](https://github.com/thedevdojo/wave/issues/36) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
