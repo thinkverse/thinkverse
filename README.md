@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#39](https://github.com/thedevdojo/wave/pull/39) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-2. 💪 Opened PR [#1](https://github.com/magarrent/wave/pull/1) in [magarrent/wave](https://github.com/magarrent/wave)
-3. 🗣 Commented on [#38](https://github.com/thedevdojo/wave/issues/38) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-4. 🗣 Commented on [#162](https://github.com/jordansamuel/PASTE/issues/162) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-5. 🎉 Merged PR [#14](https://github.com/BGHDDevelopment/LuckPermsGUI/pull/14) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
+1. ❌ Closed PR [#1](https://github.com/magarrent/wave/pull/1) in [magarrent/wave](https://github.com/magarrent/wave)
+2. 💪 Opened PR [#39](https://github.com/thedevdojo/wave/pull/39) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+3. 💪 Opened PR [#1](https://github.com/magarrent/wave/pull/1) in [magarrent/wave](https://github.com/magarrent/wave)
+4. 🗣 Commented on [#38](https://github.com/thedevdojo/wave/issues/38) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+5. 🗣 Commented on [#162](https://github.com/jordansamuel/PASTE/issues/162) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
