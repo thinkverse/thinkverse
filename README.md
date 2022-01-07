@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#186](https://github.com/jordansamuel/PASTE/pull/186) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-2. ❌ Closed PR [#1](https://github.com/magarrent/wave/pull/1) in [magarrent/wave](https://github.com/magarrent/wave)
-3. 💪 Opened PR [#39](https://github.com/thedevdojo/wave/pull/39) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-4. 💪 Opened PR [#1](https://github.com/magarrent/wave/pull/1) in [magarrent/wave](https://github.com/magarrent/wave)
-5. 🗣 Commented on [#38](https://github.com/thedevdojo/wave/issues/38) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+1. 🗣 Commented on [#89](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics/issues/89) in [LaravelDaily/Test-Laravel-Auth-Basics](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics)
+2. 🎉 Merged PR [#186](https://github.com/jordansamuel/PASTE/pull/186) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+3. ❌ Closed PR [#1](https://github.com/magarrent/wave/pull/1) in [magarrent/wave](https://github.com/magarrent/wave)
+4. 💪 Opened PR [#39](https://github.com/thedevdojo/wave/pull/39) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+5. 💪 Opened PR [#1](https://github.com/magarrent/wave/pull/1) in [magarrent/wave](https://github.com/magarrent/wave)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
