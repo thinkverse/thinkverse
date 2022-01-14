@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Superbition/Voltis-Docs/pull/1) in [Superbition/Voltis-Docs](https://github.com/Superbition/Voltis-Docs)
-2. 🗣 Commented on [#89](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics/issues/89) in [LaravelDaily/Test-Laravel-Auth-Basics](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics)
-3. 🎉 Merged PR [#186](https://github.com/jordansamuel/PASTE/pull/186) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-4. ❌ Closed PR [#1](https://github.com/magarrent/wave/pull/1) in [magarrent/wave](https://github.com/magarrent/wave)
-5. 💪 Opened PR [#39](https://github.com/thedevdojo/wave/pull/39) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+1. ❌ Closed PR [#17](https://github.com/BGHDDevelopment/LuckPermsGUI/pull/17) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
+2. 🗣 Commented on [#17](https://github.com/BGHDDevelopment/LuckPermsGUI/issues/17) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
+3. 💪 Opened PR [#1](https://github.com/Superbition/Voltis-Docs/pull/1) in [Superbition/Voltis-Docs](https://github.com/Superbition/Voltis-Docs)
+4. 🗣 Commented on [#89](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics/issues/89) in [LaravelDaily/Test-Laravel-Auth-Basics](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics)
+5. 🎉 Merged PR [#186](https://github.com/jordansamuel/PASTE/pull/186) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
