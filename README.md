@@ -12,9 +12,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18](https://github.com/JustSteveKing/laravel-feature-flags/issues/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
 2. 🗣 Commented on [#18](https://github.com/JustSteveKing/laravel-feature-flags/issues/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
-3. 💪 Opened PR [#18](https://github.com/JustSteveKing/laravel-feature-flags/pull/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
-4. ❌ Closed PR [#17](https://github.com/BGHDDevelopment/LuckPermsGUI/pull/17) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
-5. 🗣 Commented on [#17](https://github.com/BGHDDevelopment/LuckPermsGUI/issues/17) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
+3. 🗣 Commented on [#18](https://github.com/JustSteveKing/laravel-feature-flags/issues/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
+4. 💪 Opened PR [#18](https://github.com/JustSteveKing/laravel-feature-flags/pull/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
+5. ❌ Closed PR [#17](https://github.com/BGHDDevelopment/LuckPermsGUI/pull/17) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
