@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/BGHDDevelopment/LuckPermsGUI/pull/17) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
-2. 🗣 Commented on [#17](https://github.com/BGHDDevelopment/LuckPermsGUI/issues/17) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
-3. 💪 Opened PR [#1](https://github.com/Superbition/Voltis-Docs/pull/1) in [Superbition/Voltis-Docs](https://github.com/Superbition/Voltis-Docs)
-4. 🗣 Commented on [#89](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics/issues/89) in [LaravelDaily/Test-Laravel-Auth-Basics](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics)
-5. 🎉 Merged PR [#186](https://github.com/jordansamuel/PASTE/pull/186) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+1. 🗣 Commented on [#18](https://github.com/JustSteveKing/laravel-feature-flags/issues/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
+2. 💪 Opened PR [#18](https://github.com/JustSteveKing/laravel-feature-flags/pull/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
+3. ❌ Closed PR [#17](https://github.com/BGHDDevelopment/LuckPermsGUI/pull/17) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
+4. 🗣 Commented on [#17](https://github.com/BGHDDevelopment/LuckPermsGUI/issues/17) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
+5. 💪 Opened PR [#1](https://github.com/Superbition/Voltis-Docs/pull/1) in [Superbition/Voltis-Docs](https://github.com/Superbition/Voltis-Docs)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
