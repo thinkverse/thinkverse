@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/JustSteveKing/laravel-feature-flags/issues/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
-2. 🗣 Commented on [#18](https://github.com/JustSteveKing/laravel-feature-flags/issues/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
-3. 🗣 Commented on [#18](https://github.com/JustSteveKing/laravel-feature-flags/issues/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
-4. 💪 Opened PR [#18](https://github.com/JustSteveKing/laravel-feature-flags/pull/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
-5. ❌ Closed PR [#17](https://github.com/BGHDDevelopment/LuckPermsGUI/pull/17) in [BGHDDevelopment/LuckPermsGUI](https://github.com/BGHDDevelopment/LuckPermsGUI)
+1. 🎉 Merged PR [#25](https://github.com/thinkverse/thinkverse.dev/pull/25) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+2. 🎉 Merged PR [#24](https://github.com/thinkverse/thinkverse.dev/pull/24) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+3. 🎉 Merged PR [#23](https://github.com/thinkverse/thinkverse.dev/pull/23) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+4. 🗣 Commented on [#18](https://github.com/JustSteveKing/laravel-feature-flags/issues/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
+5. 🗣 Commented on [#18](https://github.com/JustSteveKing/laravel-feature-flags/issues/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
