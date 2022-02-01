@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#15](https://github.com/SocialiteProviders/QQ/pull/15) in [SocialiteProviders/QQ](https://github.com/SocialiteProviders/QQ)
-2. 🗣 Commented on [#775](https://github.com/SocialiteProviders/Providers/issues/775) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
-3. 🎉 Merged PR [#25](https://github.com/thinkverse/thinkverse.dev/pull/25) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-4. 🎉 Merged PR [#24](https://github.com/thinkverse/thinkverse.dev/pull/24) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-5. 🎉 Merged PR [#23](https://github.com/thinkverse/thinkverse.dev/pull/23) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+1. 🗣 Commented on [#793](https://github.com/SocialiteProviders/Providers/issues/793) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
+2. ❌ Closed PR [#15](https://github.com/SocialiteProviders/QQ/pull/15) in [SocialiteProviders/QQ](https://github.com/SocialiteProviders/QQ)
+3. 🗣 Commented on [#15](https://github.com/SocialiteProviders/QQ/issues/15) in [SocialiteProviders/QQ](https://github.com/SocialiteProviders/QQ)
+4. 💪 Opened PR [#795](https://github.com/SocialiteProviders/Providers/pull/795) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
+5. 💪 Opened PR [#15](https://github.com/SocialiteProviders/QQ/pull/15) in [SocialiteProviders/QQ](https://github.com/SocialiteProviders/QQ)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
