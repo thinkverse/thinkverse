@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/thinkverse/thinkverse.dev/pull/25) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-2. 🎉 Merged PR [#24](https://github.com/thinkverse/thinkverse.dev/pull/24) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-3. 🎉 Merged PR [#23](https://github.com/thinkverse/thinkverse.dev/pull/23) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-4. 🗣 Commented on [#18](https://github.com/JustSteveKing/laravel-feature-flags/issues/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
-5. 🗣 Commented on [#18](https://github.com/JustSteveKing/laravel-feature-flags/issues/18) in [JustSteveKing/laravel-feature-flags](https://github.com/JustSteveKing/laravel-feature-flags)
+1. 💪 Opened PR [#15](https://github.com/SocialiteProviders/QQ/pull/15) in [SocialiteProviders/QQ](https://github.com/SocialiteProviders/QQ)
+2. 🗣 Commented on [#775](https://github.com/SocialiteProviders/Providers/issues/775) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
+3. 🎉 Merged PR [#25](https://github.com/thinkverse/thinkverse.dev/pull/25) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+4. 🎉 Merged PR [#24](https://github.com/thinkverse/thinkverse.dev/pull/24) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+5. 🎉 Merged PR [#23](https://github.com/thinkverse/thinkverse.dev/pull/23) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
