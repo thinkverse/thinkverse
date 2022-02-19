@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#366](https://github.com/thedevdojo/tails/issues/366) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-2. 🗣 Commented on [#366](https://github.com/thedevdojo/tails/issues/366) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-3. ❌ Closed PR [#1](https://github.com/checkmango/.github/pull/1) in [checkmango/.github](https://github.com/checkmango/.github)
-4. 💪 Opened PR [#1](https://github.com/checkmango/.github/pull/1) in [checkmango/.github](https://github.com/checkmango/.github)
-5. 🗣 Commented on [#796](https://github.com/SocialiteProviders/Providers/issues/796) in [SocialiteProviders/Providers](https://github.com/SocialiteProviders/Providers)
+1. 💪 Opened PR [#2](https://github.com/deployHuman/kivra-client/pull/2) in [deployHuman/kivra-client](https://github.com/deployHuman/kivra-client)
+2. 💪 Opened PR [#1](https://github.com/deployHuman/fortnox-client/pull/1) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
+3. ❗️ Closed issue [#366](https://github.com/thedevdojo/tails/issues/366) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+4. 🗣 Commented on [#366](https://github.com/thedevdojo/tails/issues/366) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+5. ❌ Closed PR [#1](https://github.com/checkmango/.github/pull/1) in [checkmango/.github](https://github.com/checkmango/.github)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
