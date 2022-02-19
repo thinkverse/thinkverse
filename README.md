@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/deployHuman/fortnox-client/pull/2) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
-2. 💪 Opened PR [#2](https://github.com/deployHuman/kivra-client/pull/2) in [deployHuman/kivra-client](https://github.com/deployHuman/kivra-client)
-3. 💪 Opened PR [#1](https://github.com/deployHuman/fortnox-client/pull/1) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
-4. ❗️ Closed issue [#366](https://github.com/thedevdojo/tails/issues/366) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-5. 🗣 Commented on [#366](https://github.com/thedevdojo/tails/issues/366) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+1. 🗣 Commented on [#3](https://github.com/deployHuman/fortnox-client/issues/3) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
+2. 💪 Opened PR [#3](https://github.com/deployHuman/fortnox-client/pull/3) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
+3. 💪 Opened PR [#2](https://github.com/deployHuman/fortnox-client/pull/2) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
+4. 💪 Opened PR [#2](https://github.com/deployHuman/kivra-client/pull/2) in [deployHuman/kivra-client](https://github.com/deployHuman/kivra-client)
+5. 💪 Opened PR [#1](https://github.com/deployHuman/fortnox-client/pull/1) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
