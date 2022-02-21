@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/deployHuman/fortnox-client/pull/5) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
-2. 🗣 Commented on [#5](https://github.com/deployHuman/fortnox-client/issues/5) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
-3. 🗣 Commented on [#188](https://github.com/jordansamuel/PASTE/issues/188) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-4. 💪 Opened PR [#5](https://github.com/deployHuman/fortnox-client/pull/5) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
-5. 💪 Opened PR [#4](https://github.com/deployHuman/fortnox-client/pull/4) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
+1. 💪 Opened PR [#6](https://github.com/deployHuman/fortnox-client/pull/6) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
+2. ❌ Closed PR [#5](https://github.com/deployHuman/fortnox-client/pull/5) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
+3. 🗣 Commented on [#5](https://github.com/deployHuman/fortnox-client/issues/5) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
+4. 🗣 Commented on [#188](https://github.com/jordansamuel/PASTE/issues/188) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+5. 💪 Opened PR [#5](https://github.com/deployHuman/fortnox-client/pull/5) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
