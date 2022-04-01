@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/thinkverse/thinkverse.dev/pull/26) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-2. 💪 Opened PR [#1446](https://github.com/php/doc-en/pull/1446) in [php/doc-en](https://github.com/php/doc-en)
-3. 💪 Opened PR [#6](https://github.com/deployHuman/fortnox-client/pull/6) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
-4. ❌ Closed PR [#5](https://github.com/deployHuman/fortnox-client/pull/5) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
-5. 🗣 Commented on [#5](https://github.com/deployHuman/fortnox-client/issues/5) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
+1. 💪 Opened PR [#7634](https://github.com/GoogleChrome/web.dev/pull/7634) in [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev)
+2. 🎉 Merged PR [#26](https://github.com/thinkverse/thinkverse.dev/pull/26) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+3. 💪 Opened PR [#1446](https://github.com/php/doc-en/pull/1446) in [php/doc-en](https://github.com/php/doc-en)
+4. 💪 Opened PR [#6](https://github.com/deployHuman/fortnox-client/pull/6) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
+5. ❌ Closed PR [#5](https://github.com/deployHuman/fortnox-client/pull/5) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
