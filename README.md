@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7635](https://github.com/GoogleChrome/web.dev/issues/7635) in [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev)
-2. 💪 Opened PR [#7634](https://github.com/GoogleChrome/web.dev/pull/7634) in [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev)
-3. 🎉 Merged PR [#26](https://github.com/thinkverse/thinkverse.dev/pull/26) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-4. 💪 Opened PR [#1446](https://github.com/php/doc-en/pull/1446) in [php/doc-en](https://github.com/php/doc-en)
-5. 💪 Opened PR [#6](https://github.com/deployHuman/fortnox-client/pull/6) in [deployHuman/fortnox-client](https://github.com/deployHuman/fortnox-client)
+1. 💪 Opened PR [#7636](https://github.com/GoogleChrome/web.dev/pull/7636) in [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev)
+2. ❗️ Opened issue [#7635](https://github.com/GoogleChrome/web.dev/issues/7635) in [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev)
+3. 💪 Opened PR [#7634](https://github.com/GoogleChrome/web.dev/pull/7634) in [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev)
+4. 🎉 Merged PR [#26](https://github.com/thinkverse/thinkverse.dev/pull/26) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+5. 💪 Opened PR [#1446](https://github.com/php/doc-en/pull/1446) in [php/doc-en](https://github.com/php/doc-en)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
