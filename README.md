@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/thedevdojo/wave/pull/47) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-2. ❌ Closed PR [#39](https://github.com/thedevdojo/wave/pull/39) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-3. 🗣 Commented on [#7191](https://github.com/php/php-src/issues/7191) in [php/php-src](https://github.com/php/php-src)
-4. 💪 Opened PR [#47](https://github.com/cloud66-oss/cloud66/pull/47) in [cloud66-oss/cloud66](https://github.com/cloud66-oss/cloud66)
-5. 🗣 Commented on [#7126](https://github.com/GoogleChrome/web.dev/issues/7126) in [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev)
+1. 💪 Opened PR [#48](https://github.com/thedevdojo/wave/pull/48) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+2. 💪 Opened PR [#47](https://github.com/thedevdojo/wave/pull/47) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+3. ❌ Closed PR [#39](https://github.com/thedevdojo/wave/pull/39) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+4. 🗣 Commented on [#7191](https://github.com/php/php-src/issues/7191) in [php/php-src](https://github.com/php/php-src)
+5. 💪 Opened PR [#47](https://github.com/cloud66-oss/cloud66/pull/47) in [cloud66-oss/cloud66](https://github.com/cloud66-oss/cloud66)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
