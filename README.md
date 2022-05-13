@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/thedevdojo/wave/pull/49) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-2. 💪 Opened PR [#48](https://github.com/thedevdojo/wave/pull/48) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-3. 💪 Opened PR [#47](https://github.com/thedevdojo/wave/pull/47) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-4. ❌ Closed PR [#39](https://github.com/thedevdojo/wave/pull/39) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-5. 🗣 Commented on [#7191](https://github.com/php/php-src/issues/7191) in [php/php-src](https://github.com/php/php-src)
+1. 🗣 Commented on [#50](https://github.com/thedevdojo/wave/issues/50) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+2. 💪 Opened PR [#49](https://github.com/thedevdojo/wave/pull/49) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+3. 💪 Opened PR [#48](https://github.com/thedevdojo/wave/pull/48) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+4. 💪 Opened PR [#47](https://github.com/thedevdojo/wave/pull/47) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+5. ❌ Closed PR [#39](https://github.com/thedevdojo/wave/pull/39) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
