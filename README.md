@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#520](https://github.com/php/web-php/issues/520) in [php/web-php](https://github.com/php/web-php)
-2. 🎉 Merged PR [#1](https://github.com/thinkverse/skills-introduction-to-github/pull/1) in [thinkverse/skills-introduction-to-github](https://github.com/thinkverse/skills-introduction-to-github)
-3. 💪 Opened PR [#1](https://github.com/thinkverse/skills-introduction-to-github/pull/1) in [thinkverse/skills-introduction-to-github](https://github.com/thinkverse/skills-introduction-to-github)
-4. 🗣 Commented on [#520](https://github.com/php/web-php/issues/520) in [php/web-php](https://github.com/php/web-php)
-5. 💪 Opened PR [#54](https://github.com/thedevdojo/wave/pull/54) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+1. 🗣 Commented on [#47](https://github.com/thedevdojo/wave/issues/47) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+2. 🗣 Commented on [#520](https://github.com/php/web-php/issues/520) in [php/web-php](https://github.com/php/web-php)
+3. 🎉 Merged PR [#1](https://github.com/thinkverse/skills-introduction-to-github/pull/1) in [thinkverse/skills-introduction-to-github](https://github.com/thinkverse/skills-introduction-to-github)
+4. 💪 Opened PR [#1](https://github.com/thinkverse/skills-introduction-to-github/pull/1) in [thinkverse/skills-introduction-to-github](https://github.com/thinkverse/skills-introduction-to-github)
+5. 🗣 Commented on [#520](https://github.com/php/web-php/issues/520) in [php/web-php](https://github.com/php/web-php)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
