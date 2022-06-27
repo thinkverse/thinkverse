@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/thedevdojo/wave/pull/57) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-2. 🎉 Merged PR [#11](https://github.com/thinkverse/surf/pull/11) in [thinkverse/surf](https://github.com/thinkverse/surf)
-3. ❗️ Opened issue [#10](https://github.com/thinkverse/surf/issues/10) in [thinkverse/surf](https://github.com/thinkverse/surf)
-4. 💪 Opened PR [#56](https://github.com/thedevdojo/wave/pull/56) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-5. 🎉 Merged PR [#9](https://github.com/thinkverse/surf/pull/9) in [thinkverse/surf](https://github.com/thinkverse/surf)
+1. 💪 Opened PR [#58](https://github.com/thedevdojo/wave/pull/58) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+2. 💪 Opened PR [#57](https://github.com/thedevdojo/wave/pull/57) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+3. 🎉 Merged PR [#11](https://github.com/thinkverse/surf/pull/11) in [thinkverse/surf](https://github.com/thinkverse/surf)
+4. ❗️ Opened issue [#10](https://github.com/thinkverse/surf/issues/10) in [thinkverse/surf](https://github.com/thinkverse/surf)
+5. 💪 Opened PR [#56](https://github.com/thedevdojo/wave/pull/56) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
