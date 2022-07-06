@@ -2,7 +2,7 @@
 
 #### ABOUT ME
 
-- ⚙️&nbsp;&nbsp; Daily drivers: `.php`, `.js`, `.html`, `.css`, `.blade.php`, `.sql`
+- ⚙️&nbsp;&nbsp; Daily drivers: ![PHP](https://img.shields.io/badge/-.php-0?style=flat&logo=php&logoColor=rgb(201,209,217)&color=rgba(110,118,129,0.4)) ![JavaScript](https://img.shields.io/badge/-.js-0?style=flat&logo=javascript&logoColor=rgb(201,209,217)&color=rgba(110,118,129,0.4)) ![HTML](https://img.shields.io/badge/-.html-0?style=flat&logo=html5&logoColor=rgb(201,209,217)&color=rgba(110,118,129,0.4)) ![CSS](https://img.shields.io/badge/-.css-0?style=flat&logo=css3&logoColor=rgb(201,209,217)&color=rgba(110,118,129,0.4)) ![Laravel Blade](https://img.shields.io/badge/-.blade.php-0?style=flat&logo=laravel&logoColor=rgb(201,209,217)&color=rgba(110,118,129,0.4)) ![MySQL](https://img.shields.io/badge/-.sql-0?style=flat&logo=mysql&logoColor=rgb(201,209,217)&color=rgba(110,118,129,0.4))
 - 🔭&nbsp;&nbsp; I’m currently working on deepening my knowledge of programming languages.
 - 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [devdojo], [dev.to], [linkedin] or [polywork].
 - 💬&nbsp;&nbsp; Ask me about anything you'd like.
