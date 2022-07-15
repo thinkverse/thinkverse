@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/thinkverse/surf/issues/12) in [thinkverse/surf](https://github.com/thinkverse/surf)
-2. ❗️ Closed issue [#12](https://github.com/thinkverse/surf/issues/12) in [thinkverse/surf](https://github.com/thinkverse/surf)
-3. 🗣 Commented on [#13](https://github.com/thinkverse/surf/issues/13) in [thinkverse/surf](https://github.com/thinkverse/surf)
-4. 🎉 Merged PR [#13](https://github.com/thinkverse/surf/pull/13) in [thinkverse/surf](https://github.com/thinkverse/surf)
-5. 💪 Opened PR [#1686](https://github.com/php/doc-en/pull/1686) in [php/doc-en](https://github.com/php/doc-en)
+1. 💪 Opened PR [#1](https://github.com/thedevdojo/tails/pull/1) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+2. 🗣 Commented on [#12](https://github.com/thinkverse/surf/issues/12) in [thinkverse/surf](https://github.com/thinkverse/surf)
+3. ❗️ Closed issue [#12](https://github.com/thinkverse/surf/issues/12) in [thinkverse/surf](https://github.com/thinkverse/surf)
+4. 🗣 Commented on [#13](https://github.com/thinkverse/surf/issues/13) in [thinkverse/surf](https://github.com/thinkverse/surf)
+5. 🎉 Merged PR [#13](https://github.com/thinkverse/surf/pull/13) in [thinkverse/surf](https://github.com/thinkverse/surf)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
