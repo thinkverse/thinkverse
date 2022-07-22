@@ -29,13 +29,6 @@
 
 <p align="center">
 <br>
-<a href="https://badges.pufler.dev">
-<img src="https://badges.pufler.dev/years/thinkverse?logo=github" alt="Years on GitHub"/></a>
-<a href="https://badges.pufler.dev">
-<img src="https://badges.pufler.dev/repos/thinkverse?logo=github" alt="Public repositories" /></a>
-<a href="https://shields.io">
-<img src="https://img.shields.io/github/last-commit/thinkverse/thinkverse?label=Profile%20Updated&logo=github" alt="Profile last updated"/></a>
-<br><br>
 <a href="https://devdojo.com/thinkverse">
 <img src="./svg/devdojo.svg" alt="Thinkverse dev dojo profile" width="24px"/></a>
 &emsp;
@@ -58,7 +51,10 @@
 <img src="./svg/paypal.svg" alt="Thinkverse pay pal me profile" width="24px"/></a> 
 &emsp;
 <a href="https://ko-fi.com/thinkverse">
-<img src="./svg/kofi.svg" alt="Thinkverse ko-fi profile" width="24px"/></a> 
+<img src="./svg/kofi.svg" alt="Thinkverse ko-fi profile" width="24px"/></a>
+<br><br>
+<a href="https://shields.io">
+<img src="https://img.shields.io/github/last-commit/thinkverse/thinkverse?label=Profile%20Updated&logo=github" alt="Profile last updated"/></a>
 </p>
 
 [email]: mailto:work@hallberg.kim
