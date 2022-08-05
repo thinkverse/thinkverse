@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/thinkverse/thinkverse.dev/pull/29) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-2. 💪 Opened PR [#1](https://github.com/thedevdojo/tails/pull/1) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-3. 🗣 Commented on [#12](https://github.com/thinkverse/surf/issues/12) in [thinkverse/surf](https://github.com/thinkverse/surf)
-4. ❗️ Closed issue [#12](https://github.com/thinkverse/surf/issues/12) in [thinkverse/surf](https://github.com/thinkverse/surf)
-5. 🗣 Commented on [#13](https://github.com/thinkverse/surf/issues/13) in [thinkverse/surf](https://github.com/thinkverse/surf)
+1. 💪 Opened PR [#48](https://github.com/minicli/minicli/pull/48) in [minicli/minicli](https://github.com/minicli/minicli)
+2. 🎉 Merged PR [#29](https://github.com/thinkverse/thinkverse.dev/pull/29) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+3. 💪 Opened PR [#1](https://github.com/thedevdojo/tails/pull/1) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+4. 🗣 Commented on [#12](https://github.com/thinkverse/surf/issues/12) in [thinkverse/surf](https://github.com/thinkverse/surf)
+5. ❗️ Closed issue [#12](https://github.com/thinkverse/surf/issues/12) in [thinkverse/surf](https://github.com/thinkverse/surf)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
