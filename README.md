@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#48](https://github.com/minicli/minicli/pull/48) in [minicli/minicli](https://github.com/minicli/minicli)
-2. 🎉 Merged PR [#29](https://github.com/thinkverse/thinkverse.dev/pull/29) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-3. 💪 Opened PR [#1](https://github.com/thedevdojo/tails/pull/1) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
-4. 🗣 Commented on [#12](https://github.com/thinkverse/surf/issues/12) in [thinkverse/surf](https://github.com/thinkverse/surf)
-5. ❗️ Closed issue [#12](https://github.com/thinkverse/surf/issues/12) in [thinkverse/surf](https://github.com/thinkverse/surf)
+1. 💪 Opened PR [#3](https://github.com/minicli/curly/pull/3) in [minicli/curly](https://github.com/minicli/curly)
+2. 💪 Opened PR [#2](https://github.com/minicli/curly/pull/2) in [minicli/curly](https://github.com/minicli/curly)
+3. 💪 Opened PR [#48](https://github.com/minicli/minicli/pull/48) in [minicli/minicli](https://github.com/minicli/minicli)
+4. 🎉 Merged PR [#29](https://github.com/thinkverse/thinkverse.dev/pull/29) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+5. 💪 Opened PR [#1](https://github.com/thedevdojo/tails/pull/1) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
