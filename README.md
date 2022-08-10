@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2518](https://github.com/11ty/eleventy/issues/2518) in [11ty/eleventy](https://github.com/11ty/eleventy)
-2. 💪 Opened PR [#3](https://github.com/minicli/curly/pull/3) in [minicli/curly](https://github.com/minicli/curly)
-3. 💪 Opened PR [#2](https://github.com/minicli/curly/pull/2) in [minicli/curly](https://github.com/minicli/curly)
-4. 💪 Opened PR [#48](https://github.com/minicli/minicli/pull/48) in [minicli/minicli](https://github.com/minicli/minicli)
-5. 🎉 Merged PR [#29](https://github.com/thinkverse/thinkverse.dev/pull/29) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+1. ❗️ Opened issue [#5](https://github.com/thinkverse/issue-forms/issues/5) in [thinkverse/issue-forms](https://github.com/thinkverse/issue-forms)
+2. 🗣 Commented on [#2518](https://github.com/11ty/eleventy/issues/2518) in [11ty/eleventy](https://github.com/11ty/eleventy)
+3. 💪 Opened PR [#3](https://github.com/minicli/curly/pull/3) in [minicli/curly](https://github.com/minicli/curly)
+4. 💪 Opened PR [#2](https://github.com/minicli/curly/pull/2) in [minicli/curly](https://github.com/minicli/curly)
+5. 💪 Opened PR [#48](https://github.com/minicli/minicli/pull/48) in [minicli/minicli](https://github.com/minicli/minicli)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
