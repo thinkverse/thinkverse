@@ -10,11 +10,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2525](https://github.com/11ty/eleventy/issues/2525) in [11ty/eleventy](https://github.com/11ty/eleventy)
-2. 💪 Opened PR [#2525](https://github.com/11ty/eleventy/pull/2525) in [11ty/eleventy](https://github.com/11ty/eleventy)
-3. 🗣 Commented on [#2518](https://github.com/11ty/eleventy/issues/2518) in [11ty/eleventy](https://github.com/11ty/eleventy)
-4. 💪 Opened PR [#3](https://github.com/minicli/curly/pull/3) in [minicli/curly](https://github.com/minicli/curly)
-5. 💪 Opened PR [#2](https://github.com/minicli/curly/pull/2) in [minicli/curly](https://github.com/minicli/curly)
+1. ❌ Closed PR [#1](https://github.com/thedevdojo/tails/pull/1) in [thedevdojo/tails](https://github.com/thedevdojo/tails)
+2. 🗣 Commented on [#2525](https://github.com/11ty/eleventy/issues/2525) in [11ty/eleventy](https://github.com/11ty/eleventy)
+3. 💪 Opened PR [#2525](https://github.com/11ty/eleventy/pull/2525) in [11ty/eleventy](https://github.com/11ty/eleventy)
+4. 🗣 Commented on [#2518](https://github.com/11ty/eleventy/issues/2518) in [11ty/eleventy](https://github.com/11ty/eleventy)
+5. 💪 Opened PR [#3](https://github.com/minicli/curly/pull/3) in [minicli/curly](https://github.com/minicli/curly)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
