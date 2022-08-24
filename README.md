@@ -2,10 +2,10 @@
 
 #### ABOUT ME
 
-- ⚙️&nbsp;&nbsp; Daily drivers: `.php`, `.js`, `.html`, `.css`, `.blade.php`, `.sql`
-- 🔭&nbsp;&nbsp; I’m currently working on deepening my knowledge of programming languages.
-- 📫&nbsp;&nbsp; How to reach me via [email], [twitter], [devdojo], [dev.to], [linkedin] or [polywork].
-- 💬&nbsp;&nbsp; Ask me about anything you'd like.
+- ⚙️ Daily drivers: `.php`, `.js`, `.html`, `.css`, `.blade.php`, `.sql`
+- 🔭 I’m currently working on deepening my knowledge of programming languages.
+- 📫 How to reach me via [email], [twitter], [devdojo], [dev.to], [linkedin] or [polywork].
+- 💬 Ask me about anything you'd like.
 
 #### RECENT ACTIVITY
 
