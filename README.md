@@ -11,9 +11,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#121](https://github.com/laravelio/paste.laravel.io/issues/121) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
-2. 💪 Opened PR [#4](https://github.com/thedevdojo/.github/pull/4) in [thedevdojo/.github](https://github.com/thedevdojo/.github)
-3. 💪 Opened PR [#121](https://github.com/laravelio/paste.laravel.io/pull/121) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
-4. 🗣 Commented on [#118](https://github.com/laravelio/paste.laravel.io/issues/118) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
+2. 🗣 Commented on [#121](https://github.com/laravelio/paste.laravel.io/issues/121) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
+3. 💪 Opened PR [#4](https://github.com/thedevdojo/.github/pull/4) in [thedevdojo/.github](https://github.com/thedevdojo/.github)
+4. 💪 Opened PR [#121](https://github.com/laravelio/paste.laravel.io/pull/121) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
 5. 🗣 Commented on [#118](https://github.com/laravelio/paste.laravel.io/issues/118) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
 <!--END_SECTION:activity-->
 
