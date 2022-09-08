@@ -14,7 +14,7 @@
 2. 🗣 Commented on [#121](https://github.com/laravelio/paste.laravel.io/issues/121) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
 3. 🗣 Commented on [#121](https://github.com/laravelio/paste.laravel.io/issues/121) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
 4. 🗣 Commented on [#121](https://github.com/laravelio/paste.laravel.io/issues/121) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
-5. 💪 Opened PR [#4](https://github.com/thedevdojo/.github/pull/4) in [thedevdojo/.github](https://github.com/thedevdojo/.github)
+5. 🗣 Commented on [#121](https://github.com/laravelio/paste.laravel.io/issues/121) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
 <!--END_SECTION:activity-->
 
 #### RECENT BLOG POSTS
