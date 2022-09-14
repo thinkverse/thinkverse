@@ -10,10 +10,10 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123](https://github.com/laravelio/paste.laravel.io/issues/123) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
-2. 💪 Opened PR [#123](https://github.com/laravelio/paste.laravel.io/pull/123) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
-3. 🗣 Commented on [#122](https://github.com/laravelio/paste.laravel.io/issues/122) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
-4. 🗣 Commented on [#121](https://github.com/laravelio/paste.laravel.io/issues/121) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
+1. ❗️ Closed issue [#196](https://github.com/jordansamuel/PASTE/issues/196) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
+2. 🗣 Commented on [#123](https://github.com/laravelio/paste.laravel.io/issues/123) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
+3. 💪 Opened PR [#123](https://github.com/laravelio/paste.laravel.io/pull/123) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
+4. 🗣 Commented on [#122](https://github.com/laravelio/paste.laravel.io/issues/122) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
 5. 🗣 Commented on [#121](https://github.com/laravelio/paste.laravel.io/issues/121) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
 <!--END_SECTION:activity-->
 
