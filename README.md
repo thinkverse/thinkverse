@@ -20,11 +20,11 @@
 #### RECENT BLOG POSTS
 
 <!-- DEVDOJO-POST-LIST:START -->
+- [Getting Started with TALL stack](https://devdojo.com/thinkverse/getting-started-with-tall-stack)
 - [How to Add Sign in With GitHub to Wave](https://devdojo.com/thinkverse/how-to-add-sign-in-with-github-to-wave)
 - [How to add your socials to DevDojo](https://devdojo.com/thinkverse/how-to-add-your-socials-to-devdojo)
 - [How to use BuyMeACoffees webhooks with Laravel.](https://devdojo.com/thinkverse/how-to-use-bmcs-webhooks-with-laravel)
 - [Solving Multisoft&#39;s Monthly Code Challenge](https://devdojo.com/thinkverse/solving-multisofts-monthly-code-challenge)
-- [How to create a simple CLI app with MiniCLI.](https://devdojo.com/thinkverse/how-to-create-a-simple-cli-app-with-minicli)
 <!-- DEVDOJO-POST-LIST:END -->
 
 <p align="center">
