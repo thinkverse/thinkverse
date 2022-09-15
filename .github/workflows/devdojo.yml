@@ -15,5 +15,5 @@ jobs:
         with:
           comment_tag_name: "DEVDOJO-POST-LIST"
           feed_list: "https://devdojo.com/feed/thinkverse"
-          commit_message: "Update devdojo.com blog posts"
+          commit_message: "Add post from https://devdojo.com/"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
