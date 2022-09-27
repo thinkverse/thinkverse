@@ -1,5 +1,7 @@
 #### Freelance web developer working from Stockholm, Sweden.
 
+[![@thinkverse's Holopin board](https://holopin.io/api/user/board?user=thinkverse)](https://holopin.io/@thinkverse)
+
 #### ABOUT ME
 
 - ⚙️ Daily drivers: `.php`, `.js`, `.html`, `.css`, `.blade.php`, `.sql`
