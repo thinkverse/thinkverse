@@ -9,7 +9,23 @@
 - 📫 How to reach me via [email], [twitter], [devdojo], [dev.to], [linkedin] or [polywork].
 - 💬 Ask me about anything you'd like.
 
+<table>
+<tr>
+<th align="left">
+<img width="441" height="1">
+
 #### RECENT ACTIVITY
+
+</th>
+<th align="left">
+<img width="441" height="1">
+
+#### RECENT BLOG POSTS
+
+</th>
+</tr>
+<tr>
+<td>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8267](https://github.com/laravel/docs/issues/8267) in [laravel/docs](https://github.com/laravel/docs)
@@ -18,8 +34,9 @@
 4. 🗣 Commented on [#123](https://github.com/laravelio/paste.laravel.io/issues/123) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
 5. 💪 Opened PR [#123](https://github.com/laravelio/paste.laravel.io/pull/123) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
 <!--END_SECTION:activity-->
-
-#### RECENT BLOG POSTS
+  
+</td>
+<td>
 
 <!-- DEVDOJO-POST-LIST:START -->
 - [How to use jQuery with Laravel and Vite](https://devdojo.com/thinkverse/how-to-use-jquery-with-laravel-and-vite)
@@ -28,6 +45,10 @@
 - [How to add your socials to DevDojo](https://devdojo.com/thinkverse/how-to-add-your-socials-to-devdojo)
 - [How to use BuyMeACoffees webhooks with Laravel.](https://devdojo.com/thinkverse/how-to-use-bmcs-webhooks-with-laravel)
 <!-- DEVDOJO-POST-LIST:END -->
+  
+</td>
+</tr>
+</table>
 
 <p align="center">
 <br>
