@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1284](https://github.com/laravel/valet/pull/1284) in [laravel/valet](https://github.com/laravel/valet)
-2. 🗣 Commented on [#8267](https://github.com/laravel/docs/issues/8267) in [laravel/docs](https://github.com/laravel/docs)
-3. 💪 Opened PR [#8267](https://github.com/laravel/docs/pull/8267) in [laravel/docs](https://github.com/laravel/docs)
-4. ❗️ Closed issue [#196](https://github.com/jordansamuel/PASTE/issues/196) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
-5. 🗣 Commented on [#123](https://github.com/laravelio/paste.laravel.io/issues/123) in [laravelio/paste.laravel.io](https://github.com/laravelio/paste.laravel.io)
+1. 🗣 Commented on [#1284](https://github.com/laravel/valet/issues/1284) in [laravel/valet](https://github.com/laravel/valet)
+2. 💪 Opened PR [#1284](https://github.com/laravel/valet/pull/1284) in [laravel/valet](https://github.com/laravel/valet)
+3. 🗣 Commented on [#8267](https://github.com/laravel/docs/issues/8267) in [laravel/docs](https://github.com/laravel/docs)
+4. 💪 Opened PR [#8267](https://github.com/laravel/docs/pull/8267) in [laravel/docs](https://github.com/laravel/docs)
+5. ❗️ Closed issue [#196](https://github.com/jordansamuel/PASTE/issues/196) in [jordansamuel/PASTE](https://github.com/jordansamuel/PASTE)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
