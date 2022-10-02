@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#224](https://github.com/thephpleague/html-to-markdown/issues/224) in [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)
-2. 🗣 Commented on [#1284](https://github.com/laravel/valet/issues/1284) in [laravel/valet](https://github.com/laravel/valet)
-3. 💪 Opened PR [#1284](https://github.com/laravel/valet/pull/1284) in [laravel/valet](https://github.com/laravel/valet)
-4. 🗣 Commented on [#8267](https://github.com/laravel/docs/issues/8267) in [laravel/docs](https://github.com/laravel/docs)
-5. 💪 Opened PR [#8267](https://github.com/laravel/docs/pull/8267) in [laravel/docs](https://github.com/laravel/docs)
+1. 💪 Opened PR [#148](https://github.com/dailydotdev/docs/pull/148) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+2. 🗣 Commented on [#146](https://github.com/dailydotdev/docs/issues/146) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+3. 🗣 Commented on [#224](https://github.com/thephpleague/html-to-markdown/issues/224) in [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)
+4. 🗣 Commented on [#1284](https://github.com/laravel/valet/issues/1284) in [laravel/valet](https://github.com/laravel/valet)
+5. 💪 Opened PR [#1284](https://github.com/laravel/valet/pull/1284) in [laravel/valet](https://github.com/laravel/valet)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
