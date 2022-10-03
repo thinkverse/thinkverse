@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#148](https://github.com/dailydotdev/docs/issues/148) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-2. 💪 Opened PR [#148](https://github.com/dailydotdev/docs/pull/148) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-3. 🗣 Commented on [#146](https://github.com/dailydotdev/docs/issues/146) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-4. 🗣 Commented on [#224](https://github.com/thephpleague/html-to-markdown/issues/224) in [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)
-5. 🗣 Commented on [#1284](https://github.com/laravel/valet/issues/1284) in [laravel/valet](https://github.com/laravel/valet)
+1. ❗️ Opened issue [#94](https://github.com/open-runtimes/open-runtimes/issues/94) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
+2. 🗣 Commented on [#148](https://github.com/dailydotdev/docs/issues/148) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+3. 💪 Opened PR [#148](https://github.com/dailydotdev/docs/pull/148) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+4. 🗣 Commented on [#146](https://github.com/dailydotdev/docs/issues/146) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+5. 🗣 Commented on [#224](https://github.com/thephpleague/html-to-markdown/issues/224) in [thephpleague/html-to-markdown](https://github.com/thephpleague/html-to-markdown)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
