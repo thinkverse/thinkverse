@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/open-runtimes/examples/pull/31) in [open-runtimes/examples](https://github.com/open-runtimes/examples)
-2. 🗣 Commented on [#148](https://github.com/dailydotdev/docs/issues/148) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
-3. 💪 Opened PR [#97](https://github.com/open-runtimes/open-runtimes/pull/97) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
-4. ❗️ Opened issue [#94](https://github.com/open-runtimes/open-runtimes/issues/94) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
-5. 🗣 Commented on [#148](https://github.com/dailydotdev/docs/issues/148) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+1. 💪 Opened PR [#24](https://github.com/github/hackathons/pull/24) in [github/hackathons](https://github.com/github/hackathons)
+2. 💪 Opened PR [#31](https://github.com/open-runtimes/examples/pull/31) in [open-runtimes/examples](https://github.com/open-runtimes/examples)
+3. 🗣 Commented on [#148](https://github.com/dailydotdev/docs/issues/148) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+4. 💪 Opened PR [#97](https://github.com/open-runtimes/open-runtimes/pull/97) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
+5. ❗️ Opened issue [#94](https://github.com/open-runtimes/open-runtimes/issues/94) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
