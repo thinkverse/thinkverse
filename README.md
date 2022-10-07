@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/github/hackathons/issues/25) in [github/hackathons](https://github.com/github/hackathons)
-2. 💪 Opened PR [#25](https://github.com/github/hackathons/pull/25) in [github/hackathons](https://github.com/github/hackathons)
-3. 💪 Opened PR [#24](https://github.com/github/hackathons/pull/24) in [github/hackathons](https://github.com/github/hackathons)
-4. 💪 Opened PR [#31](https://github.com/open-runtimes/examples/pull/31) in [open-runtimes/examples](https://github.com/open-runtimes/examples)
-5. 🗣 Commented on [#148](https://github.com/dailydotdev/docs/issues/148) in [dailydotdev/docs](https://github.com/dailydotdev/docs)
+1. 🗣 Commented on [#31](https://github.com/open-runtimes/examples/issues/31) in [open-runtimes/examples](https://github.com/open-runtimes/examples)
+2. 🗣 Commented on [#25](https://github.com/github/hackathons/issues/25) in [github/hackathons](https://github.com/github/hackathons)
+3. 💪 Opened PR [#25](https://github.com/github/hackathons/pull/25) in [github/hackathons](https://github.com/github/hackathons)
+4. 💪 Opened PR [#24](https://github.com/github/hackathons/pull/24) in [github/hackathons](https://github.com/github/hackathons)
+5. 💪 Opened PR [#31](https://github.com/open-runtimes/examples/pull/31) in [open-runtimes/examples](https://github.com/open-runtimes/examples)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
