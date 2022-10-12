@@ -1,4 +1,4 @@
-[![@thinkverse's Holopin board](https://holopin.io/api/user/board?user=thinkverse)](https://holopin.io/@thinkverse)
+[![@thinkverse's Holopin board](https://holopin.me/thinkverse)](https://holopin.io/@thinkverse)
 
 #### ABOUT ME
 
