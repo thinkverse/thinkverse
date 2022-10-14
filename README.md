@@ -12,10 +12,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#81](https://github.com/open-runtimes/examples/issues/81) in [open-runtimes/examples](https://github.com/open-runtimes/examples)
-2. 🗣 Commented on [#31](https://github.com/open-runtimes/examples/issues/31) in [open-runtimes/examples](https://github.com/open-runtimes/examples)
-3. 🗣 Commented on [#11](https://github.com/utopia-php/demo/issues/11) in [utopia-php/demo](https://github.com/utopia-php/demo)
-4. 🗣 Commented on [#4378](https://github.com/appwrite/appwrite/issues/4378) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-5. 💪 Opened PR [#11](https://github.com/utopia-php/demo/pull/11) in [utopia-php/demo](https://github.com/utopia-php/demo)
+2. 🗣 Commented on [#81](https://github.com/open-runtimes/examples/issues/81) in [open-runtimes/examples](https://github.com/open-runtimes/examples)
+3. 🗣 Commented on [#31](https://github.com/open-runtimes/examples/issues/31) in [open-runtimes/examples](https://github.com/open-runtimes/examples)
+4. 🗣 Commented on [#11](https://github.com/utopia-php/demo/issues/11) in [utopia-php/demo](https://github.com/utopia-php/demo)
+5. 🗣 Commented on [#4378](https://github.com/appwrite/appwrite/issues/4378) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
