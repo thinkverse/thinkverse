@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/open-runtimes/examples/issues/81) in [open-runtimes/examples](https://github.com/open-runtimes/examples)
-2. 🗣 Commented on [#81](https://github.com/open-runtimes/examples/issues/81) in [open-runtimes/examples](https://github.com/open-runtimes/examples)
-3. 🗣 Commented on [#31](https://github.com/open-runtimes/examples/issues/31) in [open-runtimes/examples](https://github.com/open-runtimes/examples)
-4. 🗣 Commented on [#11](https://github.com/utopia-php/demo/issues/11) in [utopia-php/demo](https://github.com/utopia-php/demo)
-5. 🗣 Commented on [#4378](https://github.com/appwrite/appwrite/issues/4378) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 🗣 Commented on [#375](https://github.com/thedevdojo/tails-components/issues/375) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
+2. ❌ Closed PR [#375](https://github.com/thedevdojo/tails-components/pull/375) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
+3. ❌ Closed PR [#374](https://github.com/thedevdojo/tails-components/pull/374) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
+4. 🗣 Commented on [#374](https://github.com/thedevdojo/tails-components/issues/374) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
+5. 🗣 Commented on [#373](https://github.com/thedevdojo/tails-components/issues/373) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
