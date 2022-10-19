@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#375](https://github.com/thedevdojo/tails-components/issues/375) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
-2. ❌ Closed PR [#375](https://github.com/thedevdojo/tails-components/pull/375) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
-3. ❌ Closed PR [#374](https://github.com/thedevdojo/tails-components/pull/374) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
-4. 🗣 Commented on [#374](https://github.com/thedevdojo/tails-components/issues/374) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
-5. 🗣 Commented on [#373](https://github.com/thedevdojo/tails-components/issues/373) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
+1. ❌ Closed PR [#376](https://github.com/thedevdojo/tails-components/pull/376) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
+2. 🗣 Commented on [#376](https://github.com/thedevdojo/tails-components/issues/376) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
+3. 🗣 Commented on [#375](https://github.com/thedevdojo/tails-components/issues/375) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
+4. ❌ Closed PR [#375](https://github.com/thedevdojo/tails-components/pull/375) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
+5. ❌ Closed PR [#374](https://github.com/thedevdojo/tails-components/pull/374) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
