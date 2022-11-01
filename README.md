@@ -39,7 +39,7 @@
 <a href="https://twitter.com/thinkverse">
 <img src="./svg/twitter.svg" alt="Thinkverse twitter profile" width="24px"/></a>
 &emsp;
-<a rel="me" href="https://phpc.social/@thinkverse">
+<a href="https://phpc.social/@thinkverse" rel="nofollow me">
 <img src="./svg/mastodon.svg" alt="Thinkverse mastodon profile" width="24px"/></a>
 &emsp;
 <a href="https://polywork.com/thinkverse">
