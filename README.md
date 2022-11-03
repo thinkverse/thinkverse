@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1957](https://github.com/withastro/docs/pull/1957) in [withastro/docs](https://github.com/withastro/docs)
-2. ❗️ Closed issue [#378](https://github.com/thedevdojo/tails-components/issues/378) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
-3. ❗️ Closed issue [#367](https://github.com/thedevdojo/tails-components/issues/367) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
-4. ❌ Closed PR [#376](https://github.com/thedevdojo/tails-components/pull/376) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
-5. 🗣 Commented on [#376](https://github.com/thedevdojo/tails-components/issues/376) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
+1. 💪 Opened PR [#2864](https://github.com/kamranahmedse/developer-roadmap/pull/2864) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+2. 💪 Opened PR [#1957](https://github.com/withastro/docs/pull/1957) in [withastro/docs](https://github.com/withastro/docs)
+3. ❗️ Closed issue [#378](https://github.com/thedevdojo/tails-components/issues/378) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
+4. ❗️ Closed issue [#367](https://github.com/thedevdojo/tails-components/issues/367) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
+5. ❌ Closed PR [#376](https://github.com/thedevdojo/tails-components/pull/376) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
