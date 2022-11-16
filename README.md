@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#30](https://github.com/thinkverse/thinkverse.dev/pull/30) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-2. 💪 Opened PR [#2864](https://github.com/kamranahmedse/developer-roadmap/pull/2864) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 💪 Opened PR [#1957](https://github.com/withastro/docs/pull/1957) in [withastro/docs](https://github.com/withastro/docs)
-4. ❗️ Closed issue [#378](https://github.com/thedevdojo/tails-components/issues/378) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
-5. ❗️ Closed issue [#367](https://github.com/thedevdojo/tails-components/issues/367) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
+1. ❌ Closed PR [#31](https://github.com/thinkverse/thinkverse.dev/pull/31) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+2. ❌ Closed PR [#30](https://github.com/thinkverse/thinkverse.dev/pull/30) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+3. 💪 Opened PR [#2864](https://github.com/kamranahmedse/developer-roadmap/pull/2864) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. 💪 Opened PR [#1957](https://github.com/withastro/docs/pull/1957) in [withastro/docs](https://github.com/withastro/docs)
+5. ❗️ Closed issue [#378](https://github.com/thedevdojo/tails-components/issues/378) in [thedevdojo/tails-components](https://github.com/thedevdojo/tails-components)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
