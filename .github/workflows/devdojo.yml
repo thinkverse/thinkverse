@@ -15,5 +15,5 @@ jobs:
         with:
           comment_tag_name: "DEVDOJO-POST-LIST"
           feed_list: "https://devdojo.com/feed/thinkverse"
-          commit_message: "Add post from [DevDojo](https://devdojo.com/)"
+          commit_message: "Add post from DevDojo"
           committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
