@@ -21,11 +21,11 @@
 #### RECENT BLOG POSTS
 
 <!-- DEVDOJO-POST-LIST:START -->
+- [How to use Bootstrap with Laravel and Vite](https://devdojo.com/thinkverse/how-to-use-bootstrap-with-laravel-and-vite)
 - [How to use jQuery with Laravel and Vite](https://devdojo.com/thinkverse/how-to-use-jquery-with-laravel-and-vite)
 - [Getting Started with TALL stack](https://devdojo.com/thinkverse/getting-started-with-tall-stack)
 - [How to Add Sign in With GitHub to Wave](https://devdojo.com/thinkverse/how-to-add-sign-in-with-github-to-wave)
 - [How to add your socials to DevDojo](https://devdojo.com/thinkverse/how-to-add-your-socials-to-devdojo)
-- [How to use BuyMeACoffees webhooks with Laravel.](https://devdojo.com/thinkverse/how-to-use-bmcs-webhooks-with-laravel)
 <!-- DEVDOJO-POST-LIST:END -->
 
 <p align="center">
