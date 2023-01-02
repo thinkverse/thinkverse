@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#128](https://github.com/open-runtimes/open-runtimes/pull/128) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
-2. 💪 Opened PR [#472](https://github.com/vercel/micro/pull/472) in [vercel/micro](https://github.com/vercel/micro)
-3. 💪 Opened PR [#134](https://github.com/vercel/micro-dev/pull/134) in [vercel/micro-dev](https://github.com/vercel/micro-dev)
-4. 💪 Opened PR [#133](https://github.com/vercel/micro-dev/pull/133) in [vercel/micro-dev](https://github.com/vercel/micro-dev)
-5. ❌ Closed PR [#132](https://github.com/vercel/micro-dev/pull/132) in [vercel/micro-dev](https://github.com/vercel/micro-dev)
+1. 🗣 Commented on [#133](https://github.com/vercel/micro-dev/issues/133) in [vercel/micro-dev](https://github.com/vercel/micro-dev)
+2. 💪 Opened PR [#128](https://github.com/open-runtimes/open-runtimes/pull/128) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
+3. 💪 Opened PR [#472](https://github.com/vercel/micro/pull/472) in [vercel/micro](https://github.com/vercel/micro)
+4. 💪 Opened PR [#134](https://github.com/vercel/micro-dev/pull/134) in [vercel/micro-dev](https://github.com/vercel/micro-dev)
+5. 💪 Opened PR [#133](https://github.com/vercel/micro-dev/pull/133) in [vercel/micro-dev](https://github.com/vercel/micro-dev)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
