@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/MohmmedAshraf/laravel-translations/pull/11) in [MohmmedAshraf/laravel-translations](https://github.com/MohmmedAshraf/laravel-translations)
-2. ❌ Closed PR [#97](https://github.com/open-runtimes/open-runtimes/pull/97) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
-3. 🗣 Commented on [#97](https://github.com/open-runtimes/open-runtimes/issues/97) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
-4. 🗣 Commented on [#128](https://github.com/open-runtimes/open-runtimes/issues/128) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
-5. 💪 Opened PR [#473](https://github.com/vercel/micro/pull/473) in [vercel/micro](https://github.com/vercel/micro)
+1. 🗣 Commented on [#12](https://github.com/MohmmedAshraf/laravel-translations/issues/12) in [MohmmedAshraf/laravel-translations](https://github.com/MohmmedAshraf/laravel-translations)
+2. 💪 Opened PR [#12](https://github.com/MohmmedAshraf/laravel-translations/pull/12) in [MohmmedAshraf/laravel-translations](https://github.com/MohmmedAshraf/laravel-translations)
+3. 🗣 Commented on [#11](https://github.com/MohmmedAshraf/laravel-translations/issues/11) in [MohmmedAshraf/laravel-translations](https://github.com/MohmmedAshraf/laravel-translations)
+4. 🗣 Commented on [#11](https://github.com/MohmmedAshraf/laravel-translations/issues/11) in [MohmmedAshraf/laravel-translations](https://github.com/MohmmedAshraf/laravel-translations)
+5. 💪 Opened PR [#11](https://github.com/MohmmedAshraf/laravel-translations/pull/11) in [MohmmedAshraf/laravel-translations](https://github.com/MohmmedAshraf/laravel-translations)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
