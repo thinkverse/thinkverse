@@ -11,10 +11,10 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/109) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
-2. 🗣 Commented on [#12](https://github.com/MohmmedAshraf/laravel-translations/issues/12) in [MohmmedAshraf/laravel-translations](https://github.com/MohmmedAshraf/laravel-translations)
-3. 💪 Opened PR [#12](https://github.com/MohmmedAshraf/laravel-translations/pull/12) in [MohmmedAshraf/laravel-translations](https://github.com/MohmmedAshraf/laravel-translations)
-4. 🗣 Commented on [#11](https://github.com/MohmmedAshraf/laravel-translations/issues/11) in [MohmmedAshraf/laravel-translations](https://github.com/MohmmedAshraf/laravel-translations)
+1. ❌ Closed PR [#128](https://github.com/open-runtimes/open-runtimes/pull/128) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
+2. 🗣 Commented on [#109](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/109) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
+3. 🗣 Commented on [#12](https://github.com/MohmmedAshraf/laravel-translations/issues/12) in [MohmmedAshraf/laravel-translations](https://github.com/MohmmedAshraf/laravel-translations)
+4. 💪 Opened PR [#12](https://github.com/MohmmedAshraf/laravel-translations/pull/12) in [MohmmedAshraf/laravel-translations](https://github.com/MohmmedAshraf/laravel-translations)
 5. 🗣 Commented on [#11](https://github.com/MohmmedAshraf/laravel-translations/issues/11) in [MohmmedAshraf/laravel-translations](https://github.com/MohmmedAshraf/laravel-translations)
 <!--END_SECTION:activity-->
   
