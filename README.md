@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/digitalocean/sample-expressjs/issues/11) in [digitalocean/sample-expressjs](https://github.com/digitalocean/sample-expressjs)
-2. 💪 Opened PR [#11](https://github.com/digitalocean/sample-expressjs/pull/11) in [digitalocean/sample-expressjs](https://github.com/digitalocean/sample-expressjs)
-3. 💪 Opened PR [#140](https://github.com/exercism/jq/pull/140) in [exercism/jq](https://github.com/exercism/jq)
-4. ❌ Closed PR [#128](https://github.com/open-runtimes/open-runtimes/pull/128) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
-5. 🗣 Commented on [#109](https://github.com/LaravelDaily/Test-Laravel-Migrations/issues/109) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
+1. 🗣 Commented on [#45734](https://github.com/laravel/framework/issues/45734) in [laravel/framework](https://github.com/laravel/framework)
+2. 🗣 Commented on [#11](https://github.com/digitalocean/sample-expressjs/issues/11) in [digitalocean/sample-expressjs](https://github.com/digitalocean/sample-expressjs)
+3. 💪 Opened PR [#11](https://github.com/digitalocean/sample-expressjs/pull/11) in [digitalocean/sample-expressjs](https://github.com/digitalocean/sample-expressjs)
+4. 💪 Opened PR [#140](https://github.com/exercism/jq/pull/140) in [exercism/jq](https://github.com/exercism/jq)
+5. ❌ Closed PR [#128](https://github.com/open-runtimes/open-runtimes/pull/128) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
