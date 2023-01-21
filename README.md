@@ -12,10 +12,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#45734](https://github.com/laravel/framework/issues/45734) in [laravel/framework](https://github.com/laravel/framework)
-2. 🗣 Commented on [#11](https://github.com/digitalocean/sample-expressjs/issues/11) in [digitalocean/sample-expressjs](https://github.com/digitalocean/sample-expressjs)
-3. 💪 Opened PR [#11](https://github.com/digitalocean/sample-expressjs/pull/11) in [digitalocean/sample-expressjs](https://github.com/digitalocean/sample-expressjs)
-4. 💪 Opened PR [#140](https://github.com/exercism/jq/pull/140) in [exercism/jq](https://github.com/exercism/jq)
-5. ❌ Closed PR [#128](https://github.com/open-runtimes/open-runtimes/pull/128) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
+2. 🗣 Commented on [#45734](https://github.com/laravel/framework/issues/45734) in [laravel/framework](https://github.com/laravel/framework)
+3. 🗣 Commented on [#11](https://github.com/digitalocean/sample-expressjs/issues/11) in [digitalocean/sample-expressjs](https://github.com/digitalocean/sample-expressjs)
+4. 💪 Opened PR [#11](https://github.com/digitalocean/sample-expressjs/pull/11) in [digitalocean/sample-expressjs](https://github.com/digitalocean/sample-expressjs)
+5. 💪 Opened PR [#140](https://github.com/exercism/jq/pull/140) in [exercism/jq](https://github.com/exercism/jq)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
