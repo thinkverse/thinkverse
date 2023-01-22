@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45734](https://github.com/laravel/framework/issues/45734) in [laravel/framework](https://github.com/laravel/framework)
+1. 💪 Opened PR [#2](https://github.com/iceburgcrm/iceburgdocs/pull/2) in [iceburgcrm/iceburgdocs](https://github.com/iceburgcrm/iceburgdocs)
 2. 🗣 Commented on [#45734](https://github.com/laravel/framework/issues/45734) in [laravel/framework](https://github.com/laravel/framework)
-3. 🗣 Commented on [#11](https://github.com/digitalocean/sample-expressjs/issues/11) in [digitalocean/sample-expressjs](https://github.com/digitalocean/sample-expressjs)
-4. 💪 Opened PR [#11](https://github.com/digitalocean/sample-expressjs/pull/11) in [digitalocean/sample-expressjs](https://github.com/digitalocean/sample-expressjs)
-5. 💪 Opened PR [#140](https://github.com/exercism/jq/pull/140) in [exercism/jq](https://github.com/exercism/jq)
+3. 🗣 Commented on [#45734](https://github.com/laravel/framework/issues/45734) in [laravel/framework](https://github.com/laravel/framework)
+4. 🗣 Commented on [#11](https://github.com/digitalocean/sample-expressjs/issues/11) in [digitalocean/sample-expressjs](https://github.com/digitalocean/sample-expressjs)
+5. 💪 Opened PR [#11](https://github.com/digitalocean/sample-expressjs/pull/11) in [digitalocean/sample-expressjs](https://github.com/digitalocean/sample-expressjs)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
