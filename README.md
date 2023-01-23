@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/iceburgcrm/iceburgcrm/issues/4) in [iceburgcrm/iceburgcrm](https://github.com/iceburgcrm/iceburgcrm)
-2. 💪 Opened PR [#3](https://github.com/iceburgcrm/iceburgdocs/pull/3) in [iceburgcrm/iceburgdocs](https://github.com/iceburgcrm/iceburgdocs)
-3. 🗣 Commented on [#2](https://github.com/iceburgcrm/iceburgdocs/issues/2) in [iceburgcrm/iceburgdocs](https://github.com/iceburgcrm/iceburgdocs)
-4. ❗️ Opened issue [#3](https://github.com/iceburgcrm/iceburgcrm/issues/3) in [iceburgcrm/iceburgcrm](https://github.com/iceburgcrm/iceburgcrm)
-5. 💪 Opened PR [#2](https://github.com/iceburgcrm/iceburgdocs/pull/2) in [iceburgcrm/iceburgdocs](https://github.com/iceburgcrm/iceburgdocs)
+1. 🗣 Commented on [#4](https://github.com/iceburgcrm/iceburgcrm/issues/4) in [iceburgcrm/iceburgcrm](https://github.com/iceburgcrm/iceburgcrm)
+2. ❗️ Opened issue [#4](https://github.com/iceburgcrm/iceburgcrm/issues/4) in [iceburgcrm/iceburgcrm](https://github.com/iceburgcrm/iceburgcrm)
+3. 💪 Opened PR [#3](https://github.com/iceburgcrm/iceburgdocs/pull/3) in [iceburgcrm/iceburgdocs](https://github.com/iceburgcrm/iceburgdocs)
+4. 🗣 Commented on [#2](https://github.com/iceburgcrm/iceburgdocs/issues/2) in [iceburgcrm/iceburgdocs](https://github.com/iceburgcrm/iceburgdocs)
+5. ❗️ Opened issue [#3](https://github.com/iceburgcrm/iceburgcrm/issues/3) in [iceburgcrm/iceburgcrm](https://github.com/iceburgcrm/iceburgcrm)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
