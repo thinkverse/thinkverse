@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45734](https://github.com/laravel/framework/issues/45734) in [laravel/framework](https://github.com/laravel/framework)
-2. 🗣 Commented on [#4](https://github.com/iceburgcrm/iceburgcrm/issues/4) in [iceburgcrm/iceburgcrm](https://github.com/iceburgcrm/iceburgcrm)
-3. ❗️ Opened issue [#4](https://github.com/iceburgcrm/iceburgcrm/issues/4) in [iceburgcrm/iceburgcrm](https://github.com/iceburgcrm/iceburgcrm)
-4. 💪 Opened PR [#3](https://github.com/iceburgcrm/iceburgdocs/pull/3) in [iceburgcrm/iceburgdocs](https://github.com/iceburgcrm/iceburgdocs)
-5. 🗣 Commented on [#2](https://github.com/iceburgcrm/iceburgdocs/issues/2) in [iceburgcrm/iceburgdocs](https://github.com/iceburgcrm/iceburgdocs)
+1. ❌ Closed PR [#34](https://github.com/thinkverse/thinkverse.dev/pull/34) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+2. ❌ Closed PR [#33](https://github.com/thinkverse/thinkverse.dev/pull/33) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+3. 🗣 Commented on [#45734](https://github.com/laravel/framework/issues/45734) in [laravel/framework](https://github.com/laravel/framework)
+4. 🗣 Commented on [#4](https://github.com/iceburgcrm/iceburgcrm/issues/4) in [iceburgcrm/iceburgcrm](https://github.com/iceburgcrm/iceburgcrm)
+5. ❗️ Opened issue [#4](https://github.com/iceburgcrm/iceburgcrm/issues/4) in [iceburgcrm/iceburgcrm](https://github.com/iceburgcrm/iceburgcrm)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
