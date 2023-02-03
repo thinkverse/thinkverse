@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#479](https://github.com/vercel/micro/pull/479) in [vercel/micro](https://github.com/vercel/micro)
-2. 💪 Opened PR [#478](https://github.com/vercel/micro/pull/478) in [vercel/micro](https://github.com/vercel/micro)
-3. 🗣 Commented on [#476](https://github.com/vercel/micro/issues/476) in [vercel/micro](https://github.com/vercel/micro)
-4. ❌ Closed PR [#34](https://github.com/thinkverse/thinkverse.dev/pull/34) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
-5. ❌ Closed PR [#33](https://github.com/thinkverse/thinkverse.dev/pull/33) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+1. 💪 Opened PR [#46](https://github.com/githubnext/blocks/pull/46) in [githubnext/blocks](https://github.com/githubnext/blocks)
+2. 💪 Opened PR [#479](https://github.com/vercel/micro/pull/479) in [vercel/micro](https://github.com/vercel/micro)
+3. 💪 Opened PR [#478](https://github.com/vercel/micro/pull/478) in [vercel/micro](https://github.com/vercel/micro)
+4. 🗣 Commented on [#476](https://github.com/vercel/micro/issues/476) in [vercel/micro](https://github.com/vercel/micro)
+5. ❌ Closed PR [#34](https://github.com/thinkverse/thinkverse.dev/pull/34) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
