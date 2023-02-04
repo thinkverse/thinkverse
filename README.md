@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/githubnext/blocks/pull/46) in [githubnext/blocks](https://github.com/githubnext/blocks)
-2. 💪 Opened PR [#479](https://github.com/vercel/micro/pull/479) in [vercel/micro](https://github.com/vercel/micro)
-3. 💪 Opened PR [#478](https://github.com/vercel/micro/pull/478) in [vercel/micro](https://github.com/vercel/micro)
-4. 🗣 Commented on [#476](https://github.com/vercel/micro/issues/476) in [vercel/micro](https://github.com/vercel/micro)
-5. ❌ Closed PR [#34](https://github.com/thinkverse/thinkverse.dev/pull/34) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+1. 🎉 Merged PR [#16](https://github.com/thinkverse/surf/pull/16) in [thinkverse/surf](https://github.com/thinkverse/surf)
+2. 💪 Opened PR [#16](https://github.com/thinkverse/surf/pull/16) in [thinkverse/surf](https://github.com/thinkverse/surf)
+3. 🎉 Merged PR [#15](https://github.com/thinkverse/surf/pull/15) in [thinkverse/surf](https://github.com/thinkverse/surf)
+4. 💪 Opened PR [#88](https://github.com/thedevdojo/wave/pull/88) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+5. 🎉 Merged PR [#2](https://github.com/thinkverse/wave/pull/2) in [thinkverse/wave](https://github.com/thinkverse/wave)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
