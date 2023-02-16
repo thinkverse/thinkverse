@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/denoland/roll-your-own-javascript-runtime/issues/6) in [denoland/roll-your-own-javascript-runtime](https://github.com/denoland/roll-your-own-javascript-runtime)
-2. 🎉 Merged PR [#16](https://github.com/thinkverse/surf/pull/16) in [thinkverse/surf](https://github.com/thinkverse/surf)
-3. 💪 Opened PR [#16](https://github.com/thinkverse/surf/pull/16) in [thinkverse/surf](https://github.com/thinkverse/surf)
-4. 🎉 Merged PR [#15](https://github.com/thinkverse/surf/pull/15) in [thinkverse/surf](https://github.com/thinkverse/surf)
-5. 💪 Opened PR [#88](https://github.com/thedevdojo/wave/pull/88) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+1. 🗣 Commented on [#6](https://github.com/denoland/roll-your-own-javascript-runtime/issues/6) in [denoland/roll-your-own-javascript-runtime](https://github.com/denoland/roll-your-own-javascript-runtime)
+2. ❗️ Opened issue [#6](https://github.com/denoland/roll-your-own-javascript-runtime/issues/6) in [denoland/roll-your-own-javascript-runtime](https://github.com/denoland/roll-your-own-javascript-runtime)
+3. 🎉 Merged PR [#16](https://github.com/thinkverse/surf/pull/16) in [thinkverse/surf](https://github.com/thinkverse/surf)
+4. 💪 Opened PR [#16](https://github.com/thinkverse/surf/pull/16) in [thinkverse/surf](https://github.com/thinkverse/surf)
+5. 🎉 Merged PR [#15](https://github.com/thinkverse/surf/pull/15) in [thinkverse/surf](https://github.com/thinkverse/surf)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
