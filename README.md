@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#243](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics/pull/243) in [LaravelDaily/Test-Laravel-Auth-Basics](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics)
-2. 💪 Opened PR [#350](https://github.com/LaravelDaily/Test-Laravel-Blade-Basics/pull/350) in [LaravelDaily/Test-Laravel-Blade-Basics](https://github.com/LaravelDaily/Test-Laravel-Blade-Basics)
-3. 💪 Opened PR [#109](https://github.com/LaravelDaily/Test-Laravel-File-Upload/pull/109) in [LaravelDaily/Test-Laravel-File-Upload](https://github.com/LaravelDaily/Test-Laravel-File-Upload)
-4. 💪 Opened PR [#243](https://github.com/LaravelDaily/Test-Laravel-Eloquent-Basics/pull/243) in [LaravelDaily/Test-Laravel-Eloquent-Basics](https://github.com/LaravelDaily/Test-Laravel-Eloquent-Basics)
-5. 💪 Opened PR [#991](https://github.com/LaravelDaily/Test-Laravel-Routes/pull/991) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
+1. 🗣 Commented on [#991](https://github.com/LaravelDaily/Test-Laravel-Routes/issues/991) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
+2. 💪 Opened PR [#169](https://github.com/LaravelDaily/Test-Laravel-Validation/pull/169) in [LaravelDaily/Test-Laravel-Validation](https://github.com/LaravelDaily/Test-Laravel-Validation)
+3. 💪 Opened PR [#272](https://github.com/LaravelDaily/Test-Laravel-Migrations/pull/272) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
+4. 💪 Opened PR [#170](https://github.com/LaravelDaily/Test-Eloquent-Relationships/pull/170) in [LaravelDaily/Test-Eloquent-Relationships](https://github.com/LaravelDaily/Test-Eloquent-Relationships)
+5. 💪 Opened PR [#243](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics/pull/243) in [LaravelDaily/Test-Laravel-Auth-Basics](https://github.com/LaravelDaily/Test-Laravel-Auth-Basics)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
