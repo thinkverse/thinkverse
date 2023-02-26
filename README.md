@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#991](https://github.com/LaravelDaily/Test-Laravel-Routes/issues/991) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
+1. 🗣 Commented on [#9](https://github.com/digitalocean/sample-golang/issues/9) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
 2. 🗣 Commented on [#991](https://github.com/LaravelDaily/Test-Laravel-Routes/issues/991) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
-3. 💪 Opened PR [#169](https://github.com/LaravelDaily/Test-Laravel-Validation/pull/169) in [LaravelDaily/Test-Laravel-Validation](https://github.com/LaravelDaily/Test-Laravel-Validation)
-4. 💪 Opened PR [#272](https://github.com/LaravelDaily/Test-Laravel-Migrations/pull/272) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
-5. 💪 Opened PR [#170](https://github.com/LaravelDaily/Test-Eloquent-Relationships/pull/170) in [LaravelDaily/Test-Eloquent-Relationships](https://github.com/LaravelDaily/Test-Eloquent-Relationships)
+3. 🗣 Commented on [#991](https://github.com/LaravelDaily/Test-Laravel-Routes/issues/991) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
+4. 💪 Opened PR [#169](https://github.com/LaravelDaily/Test-Laravel-Validation/pull/169) in [LaravelDaily/Test-Laravel-Validation](https://github.com/LaravelDaily/Test-Laravel-Validation)
+5. 💪 Opened PR [#272](https://github.com/LaravelDaily/Test-Laravel-Migrations/pull/272) in [LaravelDaily/Test-Laravel-Migrations](https://github.com/LaravelDaily/Test-Laravel-Migrations)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
