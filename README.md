@@ -12,10 +12,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#89](https://github.com/thedevdojo/wave/issues/89) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-2. 🗣 Commented on [#9](https://github.com/digitalocean/sample-golang/issues/9) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
-3. 🗣 Commented on [#991](https://github.com/LaravelDaily/Test-Laravel-Routes/issues/991) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
+2. 🗣 Commented on [#89](https://github.com/thedevdojo/wave/issues/89) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+3. 🗣 Commented on [#9](https://github.com/digitalocean/sample-golang/issues/9) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
 4. 🗣 Commented on [#991](https://github.com/LaravelDaily/Test-Laravel-Routes/issues/991) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
-5. 💪 Opened PR [#169](https://github.com/LaravelDaily/Test-Laravel-Validation/pull/169) in [LaravelDaily/Test-Laravel-Validation](https://github.com/LaravelDaily/Test-Laravel-Validation)
+5. 🗣 Commented on [#991](https://github.com/LaravelDaily/Test-Laravel-Routes/issues/991) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
