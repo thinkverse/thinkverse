@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/digitalocean/sample-golang/pull/11) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
-2. 🗣 Commented on [#89](https://github.com/thedevdojo/wave/issues/89) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+1. 💪 Opened PR [#12](https://github.com/digitalocean/sample-golang/pull/12) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
+2. 💪 Opened PR [#11](https://github.com/digitalocean/sample-golang/pull/11) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
 3. 🗣 Commented on [#89](https://github.com/thedevdojo/wave/issues/89) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-4. 🗣 Commented on [#9](https://github.com/digitalocean/sample-golang/issues/9) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
-5. 🗣 Commented on [#991](https://github.com/LaravelDaily/Test-Laravel-Routes/issues/991) in [LaravelDaily/Test-Laravel-Routes](https://github.com/LaravelDaily/Test-Laravel-Routes)
+4. 🗣 Commented on [#89](https://github.com/thedevdojo/wave/issues/89) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+5. 🗣 Commented on [#9](https://github.com/digitalocean/sample-golang/issues/9) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
