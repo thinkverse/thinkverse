@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/digitalocean/sample-golang/pull/12) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
-2. 💪 Opened PR [#11](https://github.com/digitalocean/sample-golang/pull/11) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
-3. 🗣 Commented on [#89](https://github.com/thedevdojo/wave/issues/89) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+1. 💪 Opened PR [#13](https://github.com/digitalocean/sample-golang/pull/13) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
+2. 💪 Opened PR [#12](https://github.com/digitalocean/sample-golang/pull/12) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
+3. 💪 Opened PR [#11](https://github.com/digitalocean/sample-golang/pull/11) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
 4. 🗣 Commented on [#89](https://github.com/thedevdojo/wave/issues/89) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-5. 🗣 Commented on [#9](https://github.com/digitalocean/sample-golang/issues/9) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
+5. 🗣 Commented on [#89](https://github.com/thedevdojo/wave/issues/89) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
