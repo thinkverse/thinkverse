@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#46](https://github.com/githubnext/blocks/pull/46) in [githubnext/blocks](https://github.com/githubnext/blocks)
-2. 💪 Opened PR [#13](https://github.com/digitalocean/sample-golang/pull/13) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
-3. 💪 Opened PR [#12](https://github.com/digitalocean/sample-golang/pull/12) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
-4. 💪 Opened PR [#11](https://github.com/digitalocean/sample-golang/pull/11) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
-5. 🗣 Commented on [#89](https://github.com/thedevdojo/wave/issues/89) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+1. 🗣 Commented on [#46](https://github.com/githubnext/blocks/issues/46) in [githubnext/blocks](https://github.com/githubnext/blocks)
+2. ❌ Closed PR [#46](https://github.com/githubnext/blocks/pull/46) in [githubnext/blocks](https://github.com/githubnext/blocks)
+3. 💪 Opened PR [#13](https://github.com/digitalocean/sample-golang/pull/13) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
+4. 💪 Opened PR [#12](https://github.com/digitalocean/sample-golang/pull/12) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
+5. 💪 Opened PR [#11](https://github.com/digitalocean/sample-golang/pull/11) in [digitalocean/sample-golang](https://github.com/digitalocean/sample-golang)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
