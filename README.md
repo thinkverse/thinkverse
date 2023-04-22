@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#834](https://github.com/bluesky-social/atproto/issues/834) in [bluesky-social/atproto](https://github.com/bluesky-social/atproto)
+1. 💪 Opened PR [#31](https://github.com/bluesky-social/atproto-website/pull/31) in [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website)
 2. 🗣 Commented on [#834](https://github.com/bluesky-social/atproto/issues/834) in [bluesky-social/atproto](https://github.com/bluesky-social/atproto)
-3. 💪 Opened PR [#28](https://github.com/bluesky-social/atproto-website/pull/28) in [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website)
-4. 💪 Opened PR [#1](https://github.com/aliceisjustplaying/atproto-starter-kit/pull/1) in [aliceisjustplaying/atproto-starter-kit](https://github.com/aliceisjustplaying/atproto-starter-kit)
-5. 🗣 Commented on [#6](https://github.com/bluesky-social/atproto-website/issues/6) in [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website)
+3. 🗣 Commented on [#834](https://github.com/bluesky-social/atproto/issues/834) in [bluesky-social/atproto](https://github.com/bluesky-social/atproto)
+4. 💪 Opened PR [#28](https://github.com/bluesky-social/atproto-website/pull/28) in [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website)
+5. 💪 Opened PR [#1](https://github.com/aliceisjustplaying/atproto-starter-kit/pull/1) in [aliceisjustplaying/atproto-starter-kit](https://github.com/aliceisjustplaying/atproto-starter-kit)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
