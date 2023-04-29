@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/bluesky-social/atproto-website/issues/44) in [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website)
-2. 💪 Opened PR [#45](https://github.com/bluesky-social/atproto-website/pull/45) in [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website)
-3. 💪 Opened PR [#42](https://github.com/bluesky-social/atproto-website/pull/42) in [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website)
-4. 💪 Opened PR [#887](https://github.com/bluesky-social/atproto/pull/887) in [bluesky-social/atproto](https://github.com/bluesky-social/atproto)
-5. 💪 Opened PR [#39](https://github.com/bluesky-social/atproto-website/pull/39) in [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website)
+1. 🗣 Commented on [#42](https://github.com/bluesky-social/atproto-website/issues/42) in [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website)
+2. 🗣 Commented on [#44](https://github.com/bluesky-social/atproto-website/issues/44) in [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website)
+3. 💪 Opened PR [#45](https://github.com/bluesky-social/atproto-website/pull/45) in [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website)
+4. 💪 Opened PR [#42](https://github.com/bluesky-social/atproto-website/pull/42) in [bluesky-social/atproto-website](https://github.com/bluesky-social/atproto-website)
+5. 💪 Opened PR [#887](https://github.com/bluesky-social/atproto/pull/887) in [bluesky-social/atproto](https://github.com/bluesky-social/atproto)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
