@@ -12,8 +12,8 @@
 
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#7191](https://github.com/php/php-src/pull/7191) in [php/php-src](https://github.com/php/php-src)
-2. 🗣 Commented on [#7191](https://github.com/php/php-src/issues/7191) in [php/php-src](https://github.com/php/php-src)
-3. 🗣 Commented on [#17](https://github.com/bluesky-social/feed-generator/issues/17) in [bluesky-social/feed-generator](https://github.com/bluesky-social/feed-generator)
+2. 🗣 Commented on [#7191](https://github.com/php/php-src/pull/7191#issuecomment-1587410340) in [php/php-src](https://github.com/php/php-src)
+3. 🗣 Commented on [#17](https://github.com/bluesky-social/feed-generator/pull/17#issuecomment-1547102828) in [bluesky-social/feed-generator](https://github.com/bluesky-social/feed-generator)
 4. ❌ Closed PR [#17](https://github.com/bluesky-social/feed-generator/pull/17) in [bluesky-social/feed-generator](https://github.com/bluesky-social/feed-generator)
 5. 💪 Opened PR [#17](https://github.com/bluesky-social/feed-generator/pull/17) in [bluesky-social/feed-generator](https://github.com/bluesky-social/feed-generator)
 <!--END_SECTION:activity-->
