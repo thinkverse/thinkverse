@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/thedevdojo/genesis/pull/2) in [thedevdojo/genesis](https://github.com/thedevdojo/genesis)
-2. 💪 Opened PR [#1](https://github.com/thedevdojo/genesis/pull/1) in [thedevdojo/genesis](https://github.com/thedevdojo/genesis)
-3. 🗣 Commented on [#98](https://github.com/thedevdojo/wave/pull/98#issuecomment-1647824356) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-4. 💪 Opened PR [#99](https://github.com/thedevdojo/wave/pull/99) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
-5. ❌ Closed PR [#37](https://github.com/thinkverse/thinkverse.dev/pull/37) in [thinkverse/thinkverse.dev](https://github.com/thinkverse/thinkverse.dev)
+1. 💪 Opened PR [#6204](https://github.com/livewire/livewire/pull/6204) in [livewire/livewire](https://github.com/livewire/livewire)
+2. 💪 Opened PR [#2](https://github.com/thedevdojo/genesis/pull/2) in [thedevdojo/genesis](https://github.com/thedevdojo/genesis)
+3. 💪 Opened PR [#1](https://github.com/thedevdojo/genesis/pull/1) in [thedevdojo/genesis](https://github.com/thedevdojo/genesis)
+4. 🗣 Commented on [#98](https://github.com/thedevdojo/wave/pull/98#issuecomment-1647824356) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+5. 💪 Opened PR [#99](https://github.com/thedevdojo/wave/pull/99) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
