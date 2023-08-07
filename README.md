@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#21](https://github.com/livewire/volt/issues/21) in [livewire/volt](https://github.com/livewire/volt)
-2. 💪 Opened PR [#6204](https://github.com/livewire/livewire/pull/6204) in [livewire/livewire](https://github.com/livewire/livewire)
-3. 💪 Opened PR [#2](https://github.com/thedevdojo/genesis/pull/2) in [thedevdojo/genesis](https://github.com/thedevdojo/genesis)
-4. 💪 Opened PR [#1](https://github.com/thedevdojo/genesis/pull/1) in [thedevdojo/genesis](https://github.com/thedevdojo/genesis)
-5. 🗣 Commented on [#98](https://github.com/thedevdojo/wave/pull/98#issuecomment-1647824356) in [thedevdojo/wave](https://github.com/thedevdojo/wave)
+1. 🗣 Commented on [#68](https://github.com/laravel/folio/issues/68#issuecomment-1666996772) in [laravel/folio](https://github.com/laravel/folio)
+2. ❌ Closed PR [#2](https://github.com/thedevdojo/genesis/pull/2) in [thedevdojo/genesis](https://github.com/thedevdojo/genesis)
+3. ❗ Opened issue [#21](https://github.com/livewire/volt/issues/21) in [livewire/volt](https://github.com/livewire/volt)
+4. 💪 Opened PR [#6204](https://github.com/livewire/livewire/pull/6204) in [livewire/livewire](https://github.com/livewire/livewire)
+5. 💪 Opened PR [#2](https://github.com/thedevdojo/genesis/pull/2) in [thedevdojo/genesis](https://github.com/thedevdojo/genesis)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
