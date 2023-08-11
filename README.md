@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#6204](https://github.com/livewire/livewire/pull/6204) in [livewire/livewire](https://github.com/livewire/livewire)
-2. 🗣 Commented on [#6204](https://github.com/livewire/livewire/pull/6204#issuecomment-1669840929) in [livewire/livewire](https://github.com/livewire/livewire)
-3. ❌ Closed PR [#1](https://github.com/thedevdojo/genesis/pull/1) in [thedevdojo/genesis](https://github.com/thedevdojo/genesis)
-4. 🗣 Commented on [#68](https://github.com/laravel/folio/issues/68#issuecomment-1666996772) in [laravel/folio](https://github.com/laravel/folio)
-5. ❌ Closed PR [#2](https://github.com/thedevdojo/genesis/pull/2) in [thedevdojo/genesis](https://github.com/thedevdojo/genesis)
+1. 🗣 Commented on [#1](https://github.com/WendellAdriel/livewire-navigate-issue/pull/1#issuecomment-1673604431) in [WendellAdriel/livewire-navigate-issue](https://github.com/WendellAdriel/livewire-navigate-issue)
+2. 💪 Opened PR [#42](https://github.com/lmsqueezy/laravel/pull/42) in [lmsqueezy/laravel](https://github.com/lmsqueezy/laravel)
+3. 🗣 Commented on [#80](https://github.com/ArielMejiaDev/larapex-charts/issues/80#issuecomment-1673317402) in [ArielMejiaDev/larapex-charts](https://github.com/ArielMejiaDev/larapex-charts)
+4. ❌ Closed PR [#6204](https://github.com/livewire/livewire/pull/6204) in [livewire/livewire](https://github.com/livewire/livewire)
+5. 🗣 Commented on [#6204](https://github.com/livewire/livewire/pull/6204#issuecomment-1669840929) in [livewire/livewire](https://github.com/livewire/livewire)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
