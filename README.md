@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#28](https://github.com/rockymontana/www.artisans.se/pull/28) in [rockymontana/www.artisans.se](https://github.com/rockymontana/www.artisans.se)
-2. 🗣 Commented on [#85](https://github.com/laravel/folio/issues/85#issuecomment-1680517572) in [laravel/folio](https://github.com/laravel/folio)
-3. ❗ Opened issue [#85](https://github.com/laravel/folio/issues/85) in [laravel/folio](https://github.com/laravel/folio)
-4. ❗ Opened issue [#14](https://github.com/thedevdojo/genesis/issues/14) in [thedevdojo/genesis](https://github.com/thedevdojo/genesis)
-5. 🗣 Commented on [#1](https://github.com/WendellAdriel/livewire-navigate-issue/pull/1#issuecomment-1673604431) in [WendellAdriel/livewire-navigate-issue](https://github.com/WendellAdriel/livewire-navigate-issue)
+1. ❌ Closed PR [#479](https://github.com/vercel/micro/pull/479) in [vercel/micro](https://github.com/vercel/micro)
+2. ❌ Closed PR [#478](https://github.com/vercel/micro/pull/478) in [vercel/micro](https://github.com/vercel/micro)
+3. ❌ Closed PR [#4](https://github.com/thedevdojo/.github/pull/4) in [thedevdojo/.github](https://github.com/thedevdojo/.github)
+4. ❌ Closed PR [#47](https://github.com/cloud66-oss/cloud66/pull/47) in [cloud66-oss/cloud66](https://github.com/cloud66-oss/cloud66)
+5. ❌ Closed PR [#1](https://github.com/tutors-sdk/tutors-docs/pull/1) in [tutors-sdk/tutors-docs](https://github.com/tutors-sdk/tutors-docs)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
