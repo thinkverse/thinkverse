@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6396](https://github.com/appwrite/appwrite/issues/6396#issuecomment-1742046281) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. ❌ Closed PR [#479](https://github.com/vercel/micro/pull/479) in [vercel/micro](https://github.com/vercel/micro)
-3. ❌ Closed PR [#478](https://github.com/vercel/micro/pull/478) in [vercel/micro](https://github.com/vercel/micro)
-4. ❌ Closed PR [#4](https://github.com/thedevdojo/.github/pull/4) in [thedevdojo/.github](https://github.com/thedevdojo/.github)
-5. ❌ Closed PR [#47](https://github.com/cloud66-oss/cloud66/pull/47) in [cloud66-oss/cloud66](https://github.com/cloud66-oss/cloud66)
+1. 🗣 Commented on [#6380](https://github.com/appwrite/appwrite/issues/6380#issuecomment-1742077704) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🗣 Commented on [#6396](https://github.com/appwrite/appwrite/issues/6396#issuecomment-1742046281) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+3. ❌ Closed PR [#479](https://github.com/vercel/micro/pull/479) in [vercel/micro](https://github.com/vercel/micro)
+4. ❌ Closed PR [#478](https://github.com/vercel/micro/pull/478) in [vercel/micro](https://github.com/vercel/micro)
+5. ❌ Closed PR [#4](https://github.com/thedevdojo/.github/pull/4) in [thedevdojo/.github](https://github.com/thedevdojo/.github)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
