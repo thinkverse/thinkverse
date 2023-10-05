@@ -11,11 +11,11 @@
 #### RECENT ACTIVITY
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6380](https://github.com/appwrite/appwrite/issues/6380#issuecomment-1745108424) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
-2. 🗣 Commented on [#199](https://github.com/open-runtimes/open-runtimes/pull/199#issuecomment-1745032925) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
-3. 💪 Opened PR [#199](https://github.com/open-runtimes/open-runtimes/pull/199) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
-4. 💪 Opened PR [#26](https://github.com/utopia-php/messaging/pull/26) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
-5. 🗣 Commented on [#6380](https://github.com/appwrite/appwrite/issues/6380#issuecomment-1742077704) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+1. 🗣 Commented on [#6396](https://github.com/appwrite/appwrite/issues/6396#issuecomment-1747641213) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+2. 🗣 Commented on [#6380](https://github.com/appwrite/appwrite/issues/6380#issuecomment-1745108424) in [appwrite/appwrite](https://github.com/appwrite/appwrite)
+3. 🗣 Commented on [#199](https://github.com/open-runtimes/open-runtimes/pull/199#issuecomment-1745032925) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
+4. 💪 Opened PR [#199](https://github.com/open-runtimes/open-runtimes/pull/199) in [open-runtimes/open-runtimes](https://github.com/open-runtimes/open-runtimes)
+5. 💪 Opened PR [#26](https://github.com/utopia-php/messaging/pull/26) in [utopia-php/messaging](https://github.com/utopia-php/messaging)
 <!--END_SECTION:activity-->
   
 #### RECENT BLOG POSTS
