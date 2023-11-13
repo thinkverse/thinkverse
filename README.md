@@ -5,7 +5,7 @@
 - 👨‍💻Freelance Web Developer working from Stockholm, Sweden.
 - ⚙️ Daily drivers: `.php`, `.js`, `.html`, `.css`, `.blade.php`, `.sql`
 - 🔭 I’m currently working on deepening my knowledge of programming languages.
-- 📫 How to reach me via [email], [twitter], [devdojo], [dev.to], [linkedin] or [polywork].
+- 📫 How to reach me via [email], [twitter], [devdojo], [dev.to], or [linkedin].
 - 💬 Ask me about anything you'd like.
 
 #### RECENT ACTIVITY
@@ -42,9 +42,6 @@
 <a href="https://phpc.social/@thinkverse">
 <img src="./svg/mastodon.svg" alt="Thinkverse mastodon profile" width="24px"/></a>
 &emsp;
-<a href="https://polywork.com/thinkverse">
-<img src="./svg/polywork.svg" alt="Thinkverse poly work profile" width="24px"/></a>
-&emsp;
 <a href="https://linkedin.com/in/thinkverse">
 <img src="./svg/linkedin.svg" alt="Thinkverse linked in profile" width="24px"/></a>
 &emsp;
@@ -66,4 +63,3 @@
 [devdojo]: https://devdojo.com/thinkverse
 [dev.to]: https://dev.to/thinkverse
 [linkedin]: https://linkedin.com/in/thinkverse/
-[polywork]: https://polywork.com/thinkverse
