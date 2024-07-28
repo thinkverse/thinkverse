@@ -28,6 +28,13 @@
 - [How to add your socials to DevDojo](https://devdojo.com/thinkverse/how-to-add-your-socials-to-devdojo)
 <!-- DEVDOJO-POST-LIST:END -->
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://octodex.github.com/images/steroidtocat.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://octodex.github.com/images/xtocat.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://octodex.github.com/images/surftocat.png">
+</picture>
+
+
 <p align="center">
 <br>
 <a href="https://devdojo.com/thinkverse">
