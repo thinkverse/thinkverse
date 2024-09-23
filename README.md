@@ -62,7 +62,7 @@
 </p>
 
 [email]: mailto:work@hallberg.kim
-[twitter]: https://twitter.com/thinkverse
+[twitter]: https://x.com/thinkverse
 [devdojo]: https://devdojo.com/thinkverse
 [dev.to]: https://dev.to/thinkverse
 [linkedin]: https://linkedin.com/in/thinkverse/
