@@ -5,7 +5,7 @@
 - 👨‍💻Freelance Web Developer working from Stockholm, Sweden.
 - ⚙️ Daily drivers: `.php`, `.js`, `.html`, `.css`, `.blade.php`, `.sql`
 - 🔭 I’m currently working on deepening my knowledge of programming languages.
-- 📫 How to reach me via [email], [twitter], [devdojo], [dev.to], or [linkedin].
+- 📫 How to reach me via [email], [bluesky], [twitter], or [linkedin].
 - 💬 Ask me about anything you'd like.
 
 #### RECENT ACTIVITY
@@ -36,11 +36,11 @@
 <a href="https://dev.to/thinkverse">
 <img src="./svg/devto.svg" alt="Thinkverse dev to profile" width="24px"/></a>
 &emsp;
+<a href="https://bsky.app/profile/hallberg.kim">
+<img src="./svg/bluesky.svg" alt="Thinkverse blue sky profile" width="24px"/></a>
+&emsp;
 <a href="https://twitter.com/thinkverse">
 <img src="./svg/twitter.svg" alt="Thinkverse twitter profile" width="24px"/></a>
-&emsp;
-<a href="https://phpc.social/@thinkverse">
-<img src="./svg/mastodon.svg" alt="Thinkverse mastodon profile" width="24px"/></a>
 &emsp;
 <a href="https://peerlist.io/thinkverse">
 <img src="./svg/peerlist.svg" alt="Thinkverse peer list profile" width="24px"/></a>
@@ -62,7 +62,6 @@
 </p>
 
 [email]: mailto:work@hallberg.kim
+[bluesky]: https://bsky.app/profile/hallberg.kim
 [twitter]: https://x.com/thinkverse
-[devdojo]: https://devdojo.com/thinkverse
-[dev.to]: https://dev.to/thinkverse
-[linkedin]: https://linkedin.com/in/thinkverse/
+[linkedin]: https://linkedin.com/in/thinkverse
