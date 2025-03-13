@@ -1,4 +1,4 @@
-[![An image of @thinkverse's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thinkverse)](https://holopin.io/@thinkverse)
+[![An image of @thinkverse's Holopin badges, which is a link to view their full Holopin profile](https://boards.holopin.io/thinkverse)](https://holopin.io/@thinkverse)
 
 #### ABOUT ME
 
